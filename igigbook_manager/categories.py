@@ -1,0 +1,17 @@
+PREFIX_MAP = {
+    "_a": "Active",
+    "_b": "Books",
+    "_c": "Classical",
+    "_cu": "Classical",
+    "_g": "Genre",
+    "_gu": "Genre",
+    "_m": "Musicians",
+    "_mu": "Musicians",
+    "_r": "Reference",
+    "_ru": "Reference",
+    "_s": "Study",
+    "_su": "Study",
+    "_t": "Technical",
+    "_u": "Large",
+    "_x": "System",
+}

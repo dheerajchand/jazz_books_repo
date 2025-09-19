@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>book</key>
+		<integer>24</integer>
+		<key>page</key>
+		<integer>248</integer>
+		<key>path_list</key>
+		<array>
+			<dict>
+				<key>color_rgb</key>
+				<integer>16711680</integer>
+				<key>opacity</key>
+				<real>1</real>
+				<key>px1</key>
+				<real>454.5</real>
+				<key>px2</key>
+				<real>456</real>
+				<key>py1</key>
+				<real>514.98046875</real>
+				<key>py2</key>
+				<real>518.482177734375</real>
+				<key>touch_list</key>
+				<array>
+					<string>{455, 517.98193359375}</string>
+					<string>{455, 517.98193359375}</string>
+					<string>{455, 517.98193359375}</string>
+					<string>{455, 518.482177734375}</string>
+					<string>{455, 518.482177734375}</string>
+					<string>{455, 518.482177734375}</string>
+					<string>{454.5, 518.482177734375}</string>
+					<string>{454.5, 518.482177734375}</string>
+					<string>{454.5, 518.482177734375}</string>
+					<string>{454.5, 518.482177734375}</string>
+					<string>{454.5, 518.482177734375}</string>
+					<string>{454.5, 518.482177734375}</string>
+					<string>{454.5, 518.482177734375}</string>
+					<string>{454.5, 517.98193359375}</string>
+					<string>{455, 517.98193359375}</string>
+					<string>{455, 517.481689453125}</string>
+					<string>{455, 516.9814453125}</string>
+					<string>{455.5, 516.481201171875}</string>
+					<string>{455.5, 515.98095703125}</string>
+					<string>{455.5, 515.480712890625}</string>
+					<string>{456, 514.98046875}</string>
+				</array>
+				<key>width</key>
+				<integer>2</integer>
+			</dict>
+			<dict>
+				<key>color_rgb</key>
+				<integer>16711680</integer>
+				<key>opacity</key>
+				<real>1</real>
+				<key>px1</key>
+				<real>445</real>
+				<key>px2</key>
+				<real>471.5</real>
+				<key>py1</key>
+				<real>506.4971923828125</real>
+				<key>py2</key>
+				<real>569.98651123046875</real>
+				<key>touch_list</key>
+				<array>
+					<string>{456.5, 506.9974365234375}</string>
+					<string>{456.5, 506.9974365234375}</string>
+					<string>{456.5, 506.4971923828125}</string>
+					<string>{456.5, 506.4971923828125}</string>
+					<string>{456.5, 506.4971923828125}</string>
+					<string>{456, 506.4971923828125}</string>
+					<string>{456, 506.4971923828125}</string>
+					<string>{456, 506.4971923828125}</string>
+					<string>{455.5, 506.4971923828125}</string>
+					<string>{455.5, 506.4971923828125}</string>
+					<string>{455.5, 506.4971923828125}</string>
+					<string>{455, 506.9974365234375}</string>
+					<string>{455, 507.4976806640625}</string>
+					<string>{455, 507.9979248046875}</string>
+					<string>{455, 508.4981689453125}</string>
+					<string>{454.5, 508.9984130859375}</string>
+					<string>{454.5, 509.4986572265625}</string>
+					<string>{454, 509.9989013671875}</string>
+					<string>{454, 510.4991455078125}</string>
+					<string>{453.5, 510.9993896484375}</string>
+					<string>{453, 511.9998779296875}</string>
+					<string>{453, 512.479248046875}</string>
+					<string>{452.5, 512.9794921875}</string>
+					<string>{452, 513.97998046875}</string>
+					<string>{451.5, 514.98046875}</string>
+					<string>{451.5, 515.480712890625}</string>
+					<string>{451, 516.481201171875}</string>
+					<string>{450.5, 517.481689453125}</string>
+					<string>{450.5, 518.482177734375}</string>
+					<string>{450, 519.482666015625}</string>
+					<string>{449.5, 520.9833984375}</string>
+					<string>{449, 522.484130859375}</string>
+					<string>{449, 523.98486328125}</string>
+					<string>{448.5, 525.485595703125}</string>
+					<string>{448, 526.986328125}</string>
+					<string>{448, 528.9873046875}</string>
+					<string>{447.5, 530.98828125}</string>
+					<string>{447, 532.489013671875}</string>
+					<string>{447, 534.489990234375}</string>
+					<string>{446.5, 536.490966796875}</string>
+					<string>{446.5, 538.491943359375}</string>
+					<string>{446, 539.99267578125}</string>
+					<string>{446, 541.99365234375}</string>
+					<string>{445.5, 543.494384765625}</string>
+					<string>{445.5, 544.9951171875}</string>
+					<string>{445.5, 546.495849609375}</string>
+					<string>{445.5, 548.496826171875}</string>
+					<string>{445, 549.99755859375}</string>
+					<string>{445, 551.498291015625}</string>
+					<string>{445, 552.9990234375}</string>
+					<string>{445, 554.499755859375}</string>
+					<string>{445, 555.47943115234375}</string>
+					<string>{445, 557.48040771484375}</string>
+					<string>{445, 558.98114013671875}</string>
+					<string>{445, 560.48187255859375}</string>
+					<string>{445.5, 561.98260498046875}</string>
+					<string>{445.5, 562.98309326171875}</string>
+					<string>{446, 563.98358154296875}</string>
+					<string>{446, 565.48431396484375}</string>
+					<string>{446.5, 565.98455810546875}</string>
+					<string>{447, 566.98504638671875}</string>
+					<string>{447, 567.48529052734375}</string>
+					<string>{447.5, 567.98553466796875}</string>
+					<string>{448, 568.48577880859375}</string>
+					<string>{448.5, 568.98602294921875}</string>
+					<string>{449, 569.48626708984375}</string>
+					<string>{450, 569.48626708984375}</string>
+					<string>{450.5, 569.48626708984375}</string>
+					<string>{451, 569.48626708984375}</string>
+					<string>{452, 569.98651123046875}</string>
+					<string>{453, 569.98651123046875}</string>
+					<string>{453.5, 569.98651123046875}</string>
+					<string>{454.5, 569.48626708984375}</string>
+					<string>{455.5, 568.98602294921875}</string>
+					<string>{456.5, 568.48577880859375}</string>
+					<string>{457.5, 567.98553466796875}</string>
+					<string>{458.5, 567.48529052734375}</string>
+					<string>{459.5, 566.48480224609375}</string>
+					<string>{460.5, 565.48431396484375}</string>
+					<string>{461, 563.98358154296875}</string>
+					<string>{462, 562.98309326171875}</string>
+					<string>{462.5, 561.98260498046875}</string>
+					<string>{463.5, 560.98211669921875}</string>
+					<string>{464.5, 559.48138427734375}</string>
+					<string>{465, 558.48089599609375}</string>
+					<string>{465.5, 556.98016357421875}</string>
+					<string>{466, 555.97967529296875}</string>
+					<string>{467, 554.499755859375}</string>
+					<string>{467.5, 552.9990234375}</string>
+					<string>{468, 551.498291015625}</string>
+					<string>{468.5, 550.497802734375}</string>
+					<string>{469, 548.9970703125}</string>
+					<string>{469.5, 547.496337890625}</string>
+					<string>{470, 545.99560546875}</string>
+					<string>{470, 544.494873046875}</string>
+					<string>{470.5, 542.994140625}</string>
+					<string>{471, 541.493408203125}</string>
+					<string>{471, 539.99267578125}</string>
+					<string>{471, 538.491943359375}</string>
+					<string>{471, 536.490966796875}</string>
+					<string>{471.5, 534.990234375}</string>
+					<string>{471.5, 533.489501953125}</string>
+					<string>{471.5, 531.98876953125}</string>
+					<string>{471.5, 529.98779296875}</string>
+					<string>{471.5, 528.487060546875}</string>
+					<string>{471.5, 526.986328125}</string>
+					<string>{471, 524.9853515625}</string>
+					<string>{471, 523.484619140625}</string>
+					<string>{470.5, 522.484130859375}</string>
+					<string>{470.5, 520.9833984375}</string>
+					<string>{470, 519.98291015625}</string>
+					<string>{469.5, 518.982421875}</string>
+					<string>{469, 517.98193359375}</string>
+					<string>{468, 516.9814453125}</string>
+					<string>{467.5, 515.98095703125}</string>
+					<string>{467, 515.480712890625}</string>
+					<string>{466.5, 514.98046875}</string>
+					<string>{466, 513.97998046875}</string>
+					<string>{465.5, 513.479736328125}</string>
+					<string>{464.5, 512.9794921875}</string>
+					<string>{464, 512.479248046875}</string>
+					<string>{463.5, 511.9998779296875}</string>
+					<string>{462.5, 511.9998779296875}</string>
+					<string>{462, 511.9998779296875}</string>
+					<string>{461.5, 511.9998779296875}</string>
+					<string>{460.5, 511.9998779296875}</string>
+					<string>{460, 511.9998779296875}</string>
+					<string>{459, 511.9998779296875}</string>
+					<string>{458.5, 511.9998779296875}</string>
+					<string>{458, 512.479248046875}</string>
+					<string>{457, 512.9794921875}</string>
+					<string>{456.5, 513.479736328125}</string>
+					<string>{456, 513.97998046875}</string>
+					<string>{455.5, 513.97998046875}</string>
+					<string>{455, 514.480224609375}</string>
+					<string>{455, 514.98046875}</string>
+					<string>{454.5, 515.480712890625}</string>
+					<string>{454.5, 515.98095703125}</string>
+					<string>{454, 517.481689453125}</string>
+				</array>
+				<key>width</key>
+				<integer>2</integer>
+			</dict>
+			<dict>
+				<key>color_rgb</key>
+				<integer>16711680</integer>
+				<key>opacity</key>
+				<real>1</real>
+				<key>px1</key>
+				<real>937.5</real>
+				<key>px2</key>
+				<real>980.5</real>
+				<key>py1</key>
+				<real>712.9937744140625</real>
+				<key>py2</key>
+				<real>777.483642578125</real>
+				<key>touch_list</key>
+				<array>
+					<string>{958, 719.9971923828125}</string>
+					<string>{958, 719.9971923828125}</string>
+					<string>{957.5, 719.9971923828125}</string>
+					<string>{957, 719.9971923828125}</string>
+					<string>{956, 719.9971923828125}</string>
+					<string>{955.5, 719.9971923828125}</string>
+					<string>{955, 719.9971923828125}</string>
+					<string>{954.5, 719.9971923828125}</string>
+					<string>{954, 719.9971923828125}</string>
+					<string>{953.5, 719.9971923828125}</string>
+					<string>{953, 719.9971923828125}</string>
+					<string>{953, 719.9971923828125}</string>
+					<string>{952.5, 720.4974365234375}</string>
+					<string>{952, 720.4974365234375}</string>
+					<string>{951.5, 720.9976806640625}</string>
+					<string>{951.5, 720.9976806640625}</string>
+					<string>{951, 721.4979248046875}</string>
+					<string>{951, 721.4979248046875}</string>
+					<string>{950.5, 721.9981689453125}</string>
+					<string>{950.5, 721.9981689453125}</string>
+					<string>{950, 722.4984130859375}</string>
+					<string>{949.5, 722.9986572265625}</string>
+					<string>{949.5, 722.9986572265625}</string>
+					<string>{949, 723.4989013671875}</string>
+					<string>{949, 723.9991455078125}</string>
+					<string>{949, 723.9991455078125}</string>
+					<string>{948.5, 723.9991455078125}</string>
+					<string>{948.5, 724.4993896484375}</string>
+					<string>{948.5, 724.4993896484375}</string>
+					<string>{948, 724.4993896484375}</string>
+					<string>{948, 724.4993896484375}</string>
+					<string>{948, 724.4993896484375}</string>
+					<string>{948, 724.4993896484375}</string>
+					<string>{948, 724.4993896484375}</string>
+					<string>{948, 724.4993896484375}</string>
+					<string>{948, 724.4993896484375}</string>
+					<string>{948, 724.4993896484375}</string>
+					<string>{948, 723.9991455078125}</string>
+					<string>{948, 723.4989013671875}</string>
+					<string>{948, 723.4989013671875}</string>
+					<string>{948, 722.9986572265625}</string>
+					<string>{948, 722.9986572265625}</string>
+					<string>{948, 722.4984130859375}</string>
+					<string>{948, 722.4984130859375}</string>
+					<string>{948, 722.4984130859375}</string>
+					<string>{948, 722.4984130859375}</string>
+					<string>{948, 722.4984130859375}</string>
+					<string>{948, 722.4984130859375}</string>
+					<string>{948, 722.4984130859375}</string>
+					<string>{948, 722.4984130859375}</string>
+					<string>{947.5, 722.4984130859375}</string>
+					<string>{947.5, 722.4984130859375}</string>
+					<string>{947.5, 722.9986572265625}</string>
+					<string>{947, 723.4989013671875}</string>
+					<string>{947, 723.9991455078125}</string>
+					<string>{946.5, 724.9996337890625}</string>
+					<string>{946, 725.97930908203125}</string>
+					<string>{945.5, 726.97979736328125}</string>
+					<string>{945, 727.98028564453125}</string>
+					<string>{944.5, 728.98077392578125}</string>
+					<string>{944, 730.48150634765625}</string>
+					<string>{943.5, 731.98223876953125}</string>
+					<string>{943, 733.48297119140625}</string>
+					<string>{942.5, 734.98370361328125}</string>
+					<string>{942, 736.98468017578125}</string>
+					<string>{941.5, 738.48541259765625}</string>
+					<string>{940.5, 739.98614501953125}</string>
+					<string>{940, 741.98712158203125}</string>
+					<string>{939.5, 743.48785400390625}</string>
+					<string>{939, 745.48883056640625}</string>
+					<string>{938.5, 747.48980712890625}</string>
+					<string>{938.5, 749.49078369140625}</string>
+					<string>{938, 750.99151611328125}</string>
+					<string>{937.5, 752.99249267578125}</string>
+					<string>{937.5, 754.99346923828125}</string>
+					<string>{937.5, 756.49420166015625}</string>
+					<string>{937.5, 758.49517822265625}</string>
+					<string>{937.5, 760.49615478515625}</string>
+					<string>{937.5, 761.99688720703125}</string>
+					<string>{937.5, 763.99786376953125}</string>
+					<string>{937.5, 765.49859619140625}</string>
+					<string>{937.5, 767.49957275390625}</string>
+					<string>{938, 768.9794921875}</string>
+					<string>{938.5, 769.97998046875}</string>
+					<string>{938.5, 771.480712890625}</string>
+					<string>{939.5, 772.481201171875}</string>
+					<string>{940, 773.481689453125}</string>
+					<string>{940.5, 774.482177734375}</string>
+					<string>{941.5, 775.482666015625}</string>
+					<string>{942, 775.98291015625}</string>
+					<string>{943, 776.9833984375}</string>
+					<string>{944, 777.483642578125}</string>
+					<string>{945, 777.483642578125}</string>
+					<string>{946.5, 777.483642578125}</string>
+					<string>{948, 777.483642578125}</string>
+					<string>{949.5, 777.483642578125}</string>
+					<string>{950.5, 777.483642578125}</string>
+					<string>{952, 776.9833984375}</string>
+					<string>{953.5, 776.483154296875}</string>
+					<string>{955.5, 775.482666015625}</string>
+					<string>{957, 774.982421875}</string>
+					<string>{959, 773.98193359375}</string>
+					<string>{960.5, 772.9814453125}</string>
+					<string>{962, 771.98095703125}</string>
+					<string>{963.5, 770.98046875}</string>
+					<string>{965, 769.97998046875}</string>
+					<string>{966, 768.9794921875}</string>
+					<string>{967.5, 767.99981689453125}</string>
+					<string>{968.5, 766.49908447265625}</string>
+					<string>{970, 764.99835205078125}</string>
+					<string>{971, 763.49761962890625}</string>
+					<string>{972.5, 761.99688720703125}</string>
+					<string>{973.5, 759.99591064453125}</string>
+					<string>{974.5, 757.99493408203125}</string>
+					<string>{975.5, 756.49420166015625}</string>
+					<string>{976.5, 754.49322509765625}</string>
+					<string>{977, 752.49224853515625}</string>
+					<string>{978, 750.49127197265625}</string>
+					<string>{978.5, 748.99053955078125}</string>
+					<string>{979, 746.48931884765625}</string>
+					<string>{979.5, 744.98858642578125}</string>
+					<string>{980, 742.98760986328125}</string>
+					<string>{980, 740.98663330078125}</string>
+					<string>{980.5, 738.98565673828125}</string>
+					<string>{980.5, 736.98468017578125}</string>
+					<string>{980.5, 734.98370361328125}</string>
+					<string>{980.5, 732.98272705078125}</string>
+					<string>{980.5, 731.48199462890625}</string>
+					<string>{980, 729.98126220703125}</string>
+					<string>{979.5, 727.98028564453125}</string>
+					<string>{979, 726.97979736328125}</string>
+					<string>{978.5, 725.4998779296875}</string>
+					<string>{977.5, 723.9991455078125}</string>
+					<string>{976, 721.9981689453125}</string>
+					<string>{975, 720.9976806640625}</string>
+					<string>{974, 719.4969482421875}</string>
+					<string>{972.5, 718.4964599609375}</string>
+					<string>{971, 717.4959716796875}</string>
+					<string>{969.5, 715.9952392578125}</string>
+					<string>{968, 715.4949951171875}</string>
+					<string>{967, 714.4945068359375}</string>
+					<string>{965.5, 713.9942626953125}</string>
+					<string>{964, 713.4940185546875}</string>
+					<string>{963, 713.4940185546875}</string>
+					<string>{961, 712.9937744140625}</string>
+					<string>{960, 712.9937744140625}</string>
+					<string>{958.5, 712.9937744140625}</string>
+					<string>{957.5, 712.9937744140625}</string>
+					<string>{956, 712.9937744140625}</string>
+					<string>{955, 712.9937744140625}</string>
+					<string>{954, 712.9937744140625}</string>
+					<string>{953, 713.4940185546875}</string>
+					<string>{952, 714.4945068359375}</string>
+					<string>{950.5, 715.4949951171875}</string>
+					<string>{949.5, 716.9957275390625}</string>
+					<string>{949, 718.4964599609375}</string>
+					<string>{947.5, 720.9976806640625}</string>
+				</array>
+				<key>width</key>
+				<integer>2</integer>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>

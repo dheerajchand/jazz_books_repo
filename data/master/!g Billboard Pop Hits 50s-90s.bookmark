@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>24~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~ABC</string>
+	<string>25~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Achy Breaky Heart (Don't Tell My Heart)</string>
+	<string>26~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Abracadabra</string>
+	<string>27~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Abraham, Martin and John</string>
+	<string>28~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Ain't No Mountain High Enough</string>
+	<string>30~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~All Around the World</string>
+	<string>32~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~All for Love</string>
+	<string>33~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~All I Have to Do Is Dream</string>
+	<string>34~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Addicted to Love</string>
+	<string>35~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~All Right Now</string>
+	<string>36~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~All Out of Love</string>
+	<string>37~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~All Shook Up</string>
+	<string>38~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~All Those Years Ago</string>
+	<string>39~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~All Through the Night</string>
+	<string>40~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Almost Paradise</string>
+	<string>41~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Alone Again (Naturally)</string>
+	<string>42~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~All That She Wants</string>
+	<string>43~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Always Be My Baby</string>
+	<string>44~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Alone</string>
+	<string>45~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Always on My Mind</string>
+	<string>46~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Always</string>
+	<string>47~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~At the Hop</string>
+	<string>48~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~And When I Die</string>
+	<string>49~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Angel of the Morning</string>
+	<string>50~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Another One Bites the Dust</string>
+	<string>51~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Axel F</string>
+	<string>52~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Angie</string>
+	<string>53~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Baby What a Big Surprise</string>
+	<string>54~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Baby I Need Your Lovin'</string>
+	<string>55~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Barbara Ann</string>
+	<string>56~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Baby Love</string>
+	<string>57~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Bad Blood</string>
+	<string>58~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Baker Street</string>
+	<string>59~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Beauty and the Beast</string>
+	<string>60~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Ben</string>
+	<string>60~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Billy, Don't Be a Hero</string>
+	<string>62~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Bennie and the Jets</string>
+	<string>63~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Beyond the Sea</string>
+	<string>64~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~A Big Hunk o' Love</string>
+	<string>64~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Blaze of Glory</string>
+	<string>66~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~The Birds and the Bees</string>
+	<string>66~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Boogie Fever</string>
+	<string>68~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Blue Bayou</string>
+	<string>69~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Blue Suede Shoes</string>
+	<string>69~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Blueberry Hill</string>
+	<string>70~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Blue Velvet</string>
+	<string>70~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Born Free</string>
+	<string>71~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Brandy (You're a Fine Girl)</string>
+	<string>72~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Breathe Again</string>
+	<string>73~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Breaking Up Is Hard to Do</string>
+	<string>74~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Book of Love</string>
+	<string>74~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Brother Louie</string>
+	<string>76~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Brand New Key</string>
+	<string>76~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Bye Bye Love</string>
+	<string>77~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~California Dreamln'</string>
+	<string>78~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Calendar Girl</string>
+	<string>79~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Can You Feel the Love Tonight</string>
+	<string>80~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Can't Help Falling In Love</string>
+	<string>80~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Can't We Try</string>
+	<string>82~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Can't Buy Me Love</string>
+	<string>83~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Car Wash</string>
+	<string>84~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Candle in the Wind</string>
+	<string>86~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Careless Whisper</string>
+	<string>87~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Change the World</string>
+	<string>88~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Chanson d'Amour (The Ra-Da-Da-Da-Da Song)</string>
+	<string>88~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Chantilly Lace</string>
+	<string>89~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Clair</string>
+	<string>90~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Chariots of Fire</string>
+	<string>90~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Cherish</string>
+	<string>92~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Charlie Brown</string>
+	<string>92~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~ChevyVan</string>
+	<string>94~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~They Long to Be Close to You</string>
+	<string>94~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Cold Hearted</string>
+	<string>96~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Colors of the Wind</string>
+	<string>97~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Crying</string>
+	<string>98~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Could It Be Magic</string>
+	<string>99~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Crocodile Rock</string>
+	<string>100~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Copacabana (At the Copa)</string>
+	<string>101~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Daniel</string>
+	<string>102~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Dancing in the Street</string>
+	<string>103~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Day Tripper</string>
+	<string>104~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Daydream</string>
+	<string>105~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~December. 1963 (Oh, What a Night)</string>
+	<string>106~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Dedicated to the One I Love</string>
+	<string>107~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Did You Ever Have to Make Up Your Mind?</string>
+	<string>108~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Devil or Angel</string>
+	<string>108~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~I Just Died in Your Arms</string>
+	<string>110~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Do It ('Til You're Satisfied)</string>
+	<string>111~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Don't Be Cruel (To a Heart That's True)</string>
+	<string>112~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Do You Really Want to Hurt Me</string>
+	<string>113~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Dream Baby (How Long Must I Dream)</string>
+	<string>114~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Doctor! Doctor!</string>
+	<string>115~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Downtown</string>
+	<string>116~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Don't Give Up on Us</string>
+	<string>117~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Dreamlover</string>
+	<string>118~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Don't Let the Sun Go Down on Me</string>
+	<string>119~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Dust in the Wind</string>
+	<string>120~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Don't Know Much</string>
+	<string>121~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Duke of Earl</string>
+	<string>122~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Don't Talk to Strangers</string>
+	<string>123~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Earth Angel</string>
+	<string>124~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Don't Go Breaking My Heart</string>
+	<string>125~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Eternal Flame</string>
+	<string>126~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~End of the Road</string>
+	<string>127~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Eleanor Rigby</string>
+	<string>128~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Endless Love</string>
+	<string>129~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Every Little Thing She Does Is Magic</string>
+	<string>130~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Every Breath You Take</string>
+	<string>131~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Everytime You Go Away</string>
+	<string>132~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Everybody Have Fun Tonight</string>
+	<string>134~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Eye in the Sky</string>
+	<string>135~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Faith</string>
+	<string>136~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Everything She Wants</string>
+	<string>137~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Fly Like an Eagle</string>
+	<string>138~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Fantasy</string>
+	<string>139~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Footloose</string>
+	<string>140~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Fast Car</string>
+	<string>142~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Flashdance ... What a Feeling</string>
+	<string>143~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~For Your Precious Love</string>
+	<string>144~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Forever Your Girl</string>
+	<string>145~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Free Bird</string>
+	<string>146~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Friends &amp; Lovers (Both to Each Other)</string>
+	<string>146~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Gimme Some Lovin'</string>
+	<string>147~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Give Me Just a Little More Time</string>
+	<string>148~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Georgy Girl</string>
+	<string>148~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Go Away, Little Girl</string>
+	<string>149~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Goin' Out of My Head Little</string>
+	<string>150~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Girls Just Want to Have Fun</string>
+	<string>151~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Give Me One Reason</string>
+	<string>152~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Gloria</string>
+	<string>153~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Gloria</string>
+	<string>154~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Good Lovin'</string>
+	<string>155~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Goodbye Cruel World</string>
+	<string>156~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Good Luck Charm</string>
+	<string>156~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Got My Mind Set on You</string>
+	<string>158~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Goodbye Yellow Brick Road</string>
+	<string>159~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Grazing in the Grass</string>
+	<string>160~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Grease</string>
+	<string>160~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Great Balls of Fire</string>
+	<string>161~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~The Green Door</string>
+	<string>162~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Green Green Grass of Home</string>
+	<string>162~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Groovin'</string>
+	<string>163~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~A Groovy Kind of Love</string>
+	<string>164~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Gypsys, Tramps and Thieves</string>
+	<string>164~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Hands to Heaven</string>
+	<string>165~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Hanky Panky</string>
+	<string>166~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Happy Days</string>
+	<string>166~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Happy Together</string>
+	<string>167~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Happy, Happy Birthday Baby</string>
+	<string>168~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Hard Habit to Break</string>
+	<string>169~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Hard to Say I'm Sorry</string>
+	<string>170~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~A Hard Day's Night</string>
+	<string>170~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Hard Headed Woman</string>
+	<string>171~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~He's a Rebel</string>
+	<string>172~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Heart and Soul</string>
+	<string>173~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Heartbreak Hotel</string>
+	<string>174~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Have I Told You Lately</string>
+	<string>175~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Heat of the Moment</string>
+	<string>176~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Heaven</string>
+	<string>177~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Heatwave (Love Is Like a Heatwave)</string>
+	<string>178~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Heaven Is a Place on Earth</string>
+	<string>179~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Hello Mary Lou</string>
+	<string>180~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Here and Now</string>
+	<string>181~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~His Latest Flame</string>
+	<string>182~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Hero</string>
+	<string>183~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Hey Jude</string>
+	<string>184~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Hold My Hand</string>
+	<string>185~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Hi-Heel Sneakers</string>
+	<string>186~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Hold Me Now</string>
+	<string>187~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Honey</string>
+	<string>187~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Hound Dog</string>
+	<string>188~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Honky Cat</string>
+	<string>190~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Hot Stuff</string>
+	<string>191~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~How Can I Fall?</string>
+	<string>192~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~How Am I Supposed to Live Without You</string>
+	<string>193~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~How Can You Mend a Broken Heart</string>
+	<string>194~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~How Deep Is Your Love</string>
+	<string>194~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~How Sweet It is (To Be Loved by You)</string>
+	<string>195~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~I Almost Lost My Mind</string>
+	<string>196~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~I Can't Help Myself (Sugar Pic, Honey Bunch)</string>
+	<string>197~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Hurting Each Other</string>
+	<string>198~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~I Believe</string>
+	<string>199~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~I Got a Woman</string>
+	<string>200~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~I Can Love You Like That</string>
+	<string>201~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~I Love Rock 'n Roll</string>
+	<string>202~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~I Don't Wanna Cry</string>
+	<string>204~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~I Don't Wanna Fight</string>
+	<string>205~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~I Need Your Love Tonight</string>
+	<string>206~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~I Hear a Symphony</string>
+	<string>207~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~I Want to Hold Your Hand</string>
+	<string>208~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~I Still Haven't Found What I'm Looking For</string>
+	<string>209~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~I Will Survive</string>
+	<string>210~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~I Write the Songs</string>
+	<string>211~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~I'll Be Loving You (Forever)</string>
+	<string>212~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~I'd Do Anything for Love (But I Won't Do That)</string>
+	<string>214~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~I'll Be There</string>
+	<string>215~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~I'm Henry VIII, I Am</string>
+	<string>216~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~I'll Make Love to You</string>
+	<string>217~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~I'm Just a Singer (In a Rock and Roll Band)</string>
+	<string>218~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~I've Had The Time of My Life</string>
+	<string>219~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Want You, I Need You, I Love You</string>
+	<string>220~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~I'm Sorry</string>
+	<string>220~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~I've Told Ev'ry Little Star</string>
+	<string>221~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~If</string>
+	<string>221~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~If I Were a Carpenter</string>
+	<string>222~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~If You Love Somebody Set Them Free</string>
+	<string>223~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Imagine</string>
+	<string>224~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Islands In the Stream</string>
+	<string>225~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~In the Still of the Nite (I'll Remember)</string>
+	<string>226~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~It's All Coming Back to Me Now</string>
+	<string>228~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Island Girl</string>
+	<string>228~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~It Never Rains (In Southern California)</string>
+	<string>229~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~It's All in the Game</string>
+	<string>230~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~It's Just a Matter of Time</string>
+	<string>230~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~It's My Party</string>
+	<string>231~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~ltsy Bitsy Teenie Weenie Yellow Polkadot Bikini</string>
+	<string>232~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~It's Still Rock and Roll to Me</string>
+	<string>233~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~It's Now or Never</string>
+	<string>234~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Jessie's Girl</string>
+	<string>235~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~The Joker</string>
+	<string>236~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Just the Way You Are</string>
+	<string>237~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Jive Talkin'</string>
+	<string>238~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Just My Imagination (Running Away with Me)</string>
+	<string>239~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Keep on Dancing</string>
+	<string>239~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~King of the Road</string>
+	<string>240~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~King of Pain</string>
+	<string>242~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Kissing a Fool</string>
+	<string>243~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Knock Three Times</string>
+	<string>244~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Kokomo</string>
+	<string>245~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Laughter In the Rain</string>
+	<string>246~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Kiss You All Over</string>
+	<string>247~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Last Kiss J.</string>
+	<string>248~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Last Train to Clarksville</string>
+	<string>248~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Lay Down Sally</string>
+	<string>249~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Layla</string>
+	<string>250~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Lay Down (Candles in the Rain)</string>
+	<string>251~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Leader of the Pack</string>
+	<string>252~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Let Me In</string>
+	<string>253~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Like a Virgin</string>
+	<string>254~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Little Green Apples</string>
+	<string>255~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Little Jeannie</string>
+	<string>256~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~The Little Old Lady (From Pasadena)</string>
+	<string>257~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Livin' on a Prayer</string>
+	<string>258~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~The Loco-Motion</string>
+	<string>259~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Love Grows (Where My Rosemary Goes)</string>
+	<string>260~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Lollipop</string>
+	<string>260~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Long Tall Sally</string>
+	<string>260~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Lollipop</string>
+	<string>261~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Longer</string>
+	<string>262~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Looking for a New Love</string>
+	<string>263~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Love Is All Around</string>
+	<string>264~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Lost in Your Eyes</string>
+	<string>265~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Love Will Keep Us Together</string>
+	<string>266~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Love of a Lifetime</string>
+	<string>267~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Love Me Tender</string>
+	<string>268~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Love Shack</string>
+	<string>270~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Love So Right</string>
+	<string>271~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~A Lover's Concerto</string>
+	<string>272~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Love Takes Time</string>
+	<string>273~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Lowdown</string>
+	<string>274~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~A Lover's Question</string>
+	<string>275~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Mandy</string>
+	<string>276~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Maggie May</string>
+	<string>276~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Magic Carpet Ride</string>
+	<string>277~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~You've Got The Magic Touch</string>
+	<string>278~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Mama Told Me (Not to Come)</string>
+	<string>279~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Me and Bobby McGee</string>
+	<string>280~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Maneater</string>
+	<string>281~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Massachusetts (The Lights Went Out)</string>
+	<string>282~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Maniac</string>
+	<string>283~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Mickey</string>
+	<string>284~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Memory</string>
+	<string>285~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Moments to Remember</string>
+	<string>286~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Midnight Train to Georgia</string>
+	<string>287~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Mission: Impossible Theme</string>
+	<string>288~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Monday, Monday</string>
+	<string>288~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Morning Train (Nine to Five)</string>
+	<string>290~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Missing</string>
+	<string>291~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Mr. Custer</string>
+	<string>292~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~My Eyes Adored You</string>
+	<string>294~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Mrs. Brown You've Got a Lovely Daughter</string>
+	<string>294~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Mr. Lee</string>
+	<string>295~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~MyLove</string>
+	<string>296~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~My Girl</string>
+	<string>297~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~MyGuy</string>
+	<string>298~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Neither One of Us (Wants to Be the First to Say Goodbye)</string>
+	<string>299~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~My Sweet Lord</string>
+	<string>300~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~The Next Time I Fall</string>
+	<string>301~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Na Na Hey Hey Kiss Him Goodbye</string>
+	<string>302~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Never can Say Goodbye</string>
+	<string>303~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Night Fever</string>
+	<string>304~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~The Night Chicago Died</string>
+	<string>305~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~The Night Owls</string>
+	<string>306~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Nightshift</string>
+	<string>307~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Nothin' at All</string>
+	<string>308~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Nikita</string>
+	<string>309~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~On a Carousel</string>
+	<string>310~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Nobody Told Me</string>
+	<string>311~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~On Broadway</string>
+	<string>312~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Nothing's Gonna Stop Us Now</string>
+	<string>313~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~One Less Bell to Answer</string>
+	<string>314~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Oh Sheila</string>
+	<string>315~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~One Fine Day</string>
+	<string>316~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~One More Try</string>
+	<string>317~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~One Sweet Day</string>
+	<string>318~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~One Night in Bangkok</string>
+	<string>320~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~The One That You Love</string>
+	<string>321~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~One Toke Over the Line</string>
+	<string>322~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Oh, Pretty Woman</string>
+	<string>323~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Only Love Can Break a Heart</string>
+	<string>324~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Only In My Dreams</string>
+	<string>325~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Only the Lonely (Know the Way I Feel)</string>
+	<string>326~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Opposites Attract</string>
+	<string>327~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Out of the Blue</string>
+	<string>328~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Only Wanna Be with You</string>
+	<string>330~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Over the Mountain, Across the Sea</string>
+	<string>331~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Papa Was a Rollin' Stone</string>
+	<string>332~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Owner of a Lonely Heart</string>
+	<string>334~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Patches (I'm Depending on You)</string>
+	<string>335~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~People Got to Be Free</string>
+	<string>336~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Philadelphia Freedom</string>
+	<string>337~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Pipeline</string>
+	<string>338~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Physical</string>
+	<string>339~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Power of Love</string>
+	<string>340~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Please Mr. Postman</string>
+	<string>341~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Please Please Me</string>
+	<string>342~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~The Power of Love</string>
+	<string>343~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Precious and Few</string>
+	<string>344~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Poetry in Motion</string>
+	<string>344~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Poor Side of Town</string>
+	<string>345~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Put Your Hand in the Hand</string>
+	<string>346~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Raindrops</string>
+	<string>346~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Raindrops Keep Fallin' on My Head</string>
+	<string>347~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Rebel 'Rouser</string>
+	<string>348~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Real Real Real</string>
+	<string>349~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Return to Sender</string>
+	<string>350~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~A Rainy Night in Georgia</string>
+	<string>351~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Reunited</string>
+	<string>352~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Rhythm of My Heart</string>
+	<string>353~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Rip It Up</string>
+	<string>354~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Ride Like the Wind</string>
+	<string>355~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Right Here, Right Now</string>
+	<string>356~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~The River of Dreams</string>
+	<string>358~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Rocket Man (I Think It's Gonna Be a Long Long Time)</string>
+	<string>359~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Ruby, Don't Take Your Love to Town</string>
+	<string>360~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Rockin' Robin</string>
+	<string>360~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Runaway</string>
+	<string>361~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Sad Eyes</string>
+	<string>362~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Sacrifice</string>
+	<string>363~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Sad Songs (Say So Much)</string>
+	<string>364~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Sailing</string>
+	<string>366~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~San Francisco (Be Sure to Wear Some Flowers in Your Hair)</string>
+	<string>367~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Save the Best for Last</string>
+	<string>368~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Save the Last Dance for Me</string>
+	<string>369~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Save Your Heart for Me</string>
+	<string>370~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Saving All My Love for You</string>
+	<string>371~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Sea of Love</string>
+	<string>372~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Seasons In the Sun</string>
+	<string>373~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Secret Agent Man</string>
+	<string>374~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~See You Later, Alligator</string>
+	<string>374~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Searchin'</string>
+	<string>375~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Shadow Dancing</string>
+	<string>376~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Separate lives</string>
+	<string>377~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Shattered Dreams</string>
+	<string>378~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Shake Your Love</string>
+	<string>379~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Since I Met You Baby</string>
+	<string>380~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Shakedown</string>
+	<string>381~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~She's a Lady</string>
+	<string>382~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~She Believes in Me</string>
+	<string>384~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~She Works Hard for the Money</string>
+	<string>385~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Silhouettes</string>
+	<string>386~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Shining Star</string>
+	<string>387~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~The Shoop Shoop Song (It's In H1s Kiss)</string>
+	<string>388~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Shop Around</string>
+	<string>389~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~The Sign</string>
+	<string>390~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Simply Irresistible</string>
+	<string>391~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Sixteen Tons Tennessee</string>
+	<string>391~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Sleepwalk</string>
+	<string>392~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Sincerely</string>
+	<string>392~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Sixteen Candles</string>
+	<string>393~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Sixteen Reasons (Why I Love You)</string>
+	<string>394~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Soldier of Love</string>
+	<string>395~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Smile a Little Smile tor Me Flying Machine</string>
+	<string>396~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Someday</string>
+	<string>397~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Stay</string>
+	<string>398~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Someday</string>
+	<string>399~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Someday We'll Be Together</string>
+	<string>400~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Smoke Gets in Your Eyes</string>
+	<string>400~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Something</string>
+	<string>401~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Stand by Me</string>
+	<string>402~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Somewhere Out There</string>
+	<string>403~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Spinning Wheel</string>
+	<string>404~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Stayin' Alive</string>
+	<string>405~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Stop! In the Name of Love</string>
+	<string>406~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Straight Up</string>
+	<string>407~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Sugar Sugar</string>
+	<string>408~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Stuck In the Middle with You</string>
+	<string>409~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~The Stroll</string>
+	<string>410~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Summer in the City</string>
+	<string>411~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Sunshine of Your Love</string>
+	<string>412~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Superstar</string>
+	<string>413~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Surfin' U.S.A.</string>
+	<string>414~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Susie Q</string>
+	<string>414~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Suspicion</string>
+	<string>415~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Sweet Home Alabama</string>
+	<string>416~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Take a letter</string>
+	<string>417~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Take Good Care of My Baby</string>
+	<string>418~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Take a Bow</string>
+	<string>419~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Let Me Be Your Teddy Bear</string>
+	<string>420~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Take II Easy on Me</string>
+	<string>422~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Take My Breath Away (love Theme)</string>
+	<string>423~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Tears In Heaven</string>
+	<string>424~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Tears on My Pillow</string>
+	<string>425~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~That's Life</string>
+	<string>426~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~That's What Love Is All About</string>
+	<string>427~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~A Teenager In Love</string>
+	<string>428~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Tell It Like It Is</string>
+	<string>429~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Thats the Way I've Always Heard It Should Be</string>
+	<string>430~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~There Goes My Baby</string>
+	<string>431~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~There's a Kind or Hush (All Over the World)</string>
+	<string>432~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Tell Laura I love Her</string>
+	<string>432~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~These Boots Are Made for Walkin'</string>
+	<string>433~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~This Diamond Ring</string>
+	<string>434~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Things</string>
+	<string>435~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~This One's for the Children</string>
+	<string>436~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Three Times a Lady</string>
+	<string>437~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Time (Clock of the Heart)</string>
+	<string>438~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~To All the Girls I've Loved Before</string>
+	<string>439~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~To Sir. With Love</string>
+	<string>440~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~To Be with You</string>
+	<string>441~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~To love Somebody</string>
+	<string>442~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Tobacco Road</string>
+	<string>442~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Tonight's the Night (Gonna Be Alright)</string>
+	<string>443~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Tragedy</string>
+	<string>444~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Torn Between Two Lovers</string>
+	<string>445~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~True Colors</string>
+	<string>446~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Touch Me in the Morning</string>
+	<string>447~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Turn Me Loose</string>
+	<string>448~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Tutti Frutti</string>
+	<string>449~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Twist and Shout</string>
+	<string>450~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~The Twist</string>
+	<string>450~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Under the Boardwalk</string>
+	<string>451~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Up, Up and Away</string>
+	<string>452~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Venus</string>
+	<string>453~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Wake Me Up Before You Go-Go</string>
+	<string>454~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Vision of Love</string>
+	<string>455~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Walk on By</string>
+	<string>456~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Wake Up Little Susie</string>
+	<string>457~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Water Runs Dry</string>
+	<string>458~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Walk This Way</string>
+	<string>459~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Walk Away Renee</string>
+	<string>460~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~WantAds</string>
+	<string>461~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~The Wayward Wind</string>
+	<string>462~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~It's Just The Way That You Love Me</string>
+	<string>463~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~We Got the Beat</string>
+	<string>464~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~We Built This City</string>
+	<string>465~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~The Way We Were</string>
+	<string>466~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Wedding Bell Blues</string>
+	<string>467~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~What a Wonderful World</string>
+	<string>468~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~What's Going On</string>
+	<string>469~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~What the World Needs Now Is Love</string>
+	<string>470~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~When I Fall in love</string>
+	<string>471~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~What'd I Say</string>
+	<string>472~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~What's Love Got to Do with It</string>
+	<string>473~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~When You Say Nothing at All</string>
+	<string>474~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Where Does My Heart Beat Now</string>
+	<string>475~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Where the Boys Are</string>
+	<string>476~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Where Do Broken Hearts Go</string>
+	<string>477~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Wild Thing</string>
+	<string>478~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Whole New World, A (Aladdin's Theme)</string>
+	<string>480~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Wild, Wild West</string>
+	<string>481~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~White Room</string>
+	<string>482~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Where Did Our Love Go</string>
+	<string>483~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Wishing Well</string>
+	<string>484~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Woman in Love</string>
+	<string>485~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Which Way You Going Billy?</string>
+	<string>485~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Wind of Change</string>
+	<string>487~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Wonderful! Wonderful!</string>
+	<string>488~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~With Every Beat of My Heart</string>
+	<string>489~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Wooly Bully</string>
+	<string>490~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~With or Without You</string>
+	<string>491~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Yakety Yak</string>
+	<string>492~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~You Can't Hurry Love</string>
+	<string>493~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~You Don't Own Me</string>
+	<string>494~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~You Give Good Love</string>
+	<string>495~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Woman</string>
+	<string>496~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~You Give Love a Bad Name</string>
+	<string>497~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~You Got It</string>
+	<string>498~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~You Keep Me Hangin' On</string>
+	<string>500~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~You Ain't Seen Nothin' Yet</string>
+	<string>500~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~You Should Be Dancing</string>
+	<string>501~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~You Sexy Thing</string>
+	<string>502~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~You're in Love</string>
+	<string>503~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Yesterday</string>
+	<string>504~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~You're the Inspiration</string>
+	<string>505~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~You're the Devil in Disguise</string>
+	<string>506~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~You're So Vain</string>
+	<string>507~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~You're the One That I Want</string>
+	<string>508~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~You've Lost That Lovin' Feelin'</string>
+	<string>509~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~You've Made Me So Very Happy</string>
+	<string>510~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~You've Got a Friend</string>
+	<string>511~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Young Blood</string>
+	<string>-1~70~!g Billboard Pop Hits 50s-90s.pdf~2263~0~0~1~Your Song</string>
+	<string>Bookmark Current Page</string>
+</array>
+</plist>

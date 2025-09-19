@@ -1,0 +1,2468 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>book</key>
+		<integer>5</integer>
+		<key>page</key>
+		<integer>343</integer>
+		<key>path_list</key>
+		<array>
+			<dict>
+				<key>color_rgb</key>
+				<integer>16711680</integer>
+				<key>opacity</key>
+				<real>1</real>
+				<key>px1</key>
+				<real>58</real>
+				<key>px2</key>
+				<real>73</real>
+				<key>py1</key>
+				<real>180.48391723632812</real>
+				<key>py2</key>
+				<real>209.49807739257812</real>
+				<key>touch_list</key>
+				<array>
+					<string>{60.5, 205.49612426757812}</string>
+					<string>{60.5, 205.49612426757812}</string>
+					<string>{60, 205.49612426757812}</string>
+					<string>{60, 205.49612426757812}</string>
+					<string>{59.5, 205.49612426757812}</string>
+					<string>{59.5, 205.49612426757812}</string>
+					<string>{59.5, 205.49612426757812}</string>
+					<string>{59, 205.49612426757812}</string>
+					<string>{59, 205.99636840820312}</string>
+					<string>{59, 205.99636840820312}</string>
+					<string>{59, 205.99636840820312}</string>
+					<string>{59, 206.49661254882812}</string>
+					<string>{58.5, 206.49661254882812}</string>
+					<string>{58.5, 206.49661254882812}</string>
+					<string>{58.5, 206.99685668945312}</string>
+					<string>{58.5, 206.99685668945312}</string>
+					<string>{58.5, 206.99685668945312}</string>
+					<string>{58.5, 206.99685668945312}</string>
+					<string>{58.5, 206.99685668945312}</string>
+					<string>{58.5, 206.99685668945312}</string>
+					<string>{58, 206.99685668945312}</string>
+					<string>{58, 206.99685668945312}</string>
+					<string>{58, 206.99685668945312}</string>
+					<string>{58, 206.99685668945312}</string>
+					<string>{58, 206.99685668945312}</string>
+					<string>{58, 206.99685668945312}</string>
+					<string>{58, 206.99685668945312}</string>
+					<string>{58, 206.99685668945312}</string>
+					<string>{58, 206.99685668945312}</string>
+					<string>{58, 206.99685668945312}</string>
+					<string>{58, 206.49661254882812}</string>
+					<string>{58, 206.49661254882812}</string>
+					<string>{58, 205.99636840820312}</string>
+					<string>{58, 205.99636840820312}</string>
+					<string>{58, 205.49612426757812}</string>
+					<string>{58, 205.49612426757812}</string>
+					<string>{58.5, 204.99588012695312}</string>
+					<string>{58.5, 204.49563598632812}</string>
+					<string>{58.5, 203.49514770507812}</string>
+					<string>{59, 202.99490356445312}</string>
+					<string>{59.5, 201.99441528320312}</string>
+					<string>{59.5, 201.49417114257812}</string>
+					<string>{60, 199.99343872070312}</string>
+					<string>{60.5, 198.99295043945312}</string>
+					<string>{61, 197.99246215820312}</string>
+					<string>{61, 196.99197387695312}</string>
+					<string>{61.5, 195.99148559570312}</string>
+					<string>{62, 194.99099731445312}</string>
+					<string>{62, 193.99050903320312}</string>
+					<string>{62.5, 192.99002075195312}</string>
+					<string>{63, 191.98953247070312}</string>
+					<string>{63.5, 190.98904418945312}</string>
+					<string>{63.5, 189.48831176757812}</string>
+					<string>{64, 188.48782348632812}</string>
+					<string>{64.5, 187.48733520507812}</string>
+					<string>{64.5, 186.48684692382812}</string>
+					<string>{65, 185.48635864257812}</string>
+					<string>{65, 184.98611450195312}</string>
+					<string>{65.5, 183.98562622070312}</string>
+					<string>{65.5, 182.98513793945312}</string>
+					<string>{66, 182.48489379882812}</string>
+					<string>{66, 181.98464965820312}</string>
+					<string>{66, 181.48440551757812}</string>
+					<string>{66.5, 180.98416137695312}</string>
+					<string>{66.5, 180.98416137695312}</string>
+					<string>{66.5, 180.48391723632812}</string>
+					<string>{66.5, 180.48391723632812}</string>
+					<string>{66.5, 180.48391723632812}</string>
+					<string>{66.5, 180.48391723632812}</string>
+					<string>{66.5, 180.48391723632812}</string>
+					<string>{66.5, 180.48391723632812}</string>
+					<string>{66.5, 180.48391723632812}</string>
+					<string>{66.5, 180.48391723632812}</string>
+					<string>{66.5, 180.98416137695312}</string>
+					<string>{66.5, 181.48440551757812}</string>
+					<string>{66.5, 181.98464965820312}</string>
+					<string>{66.5, 182.48489379882812}</string>
+					<string>{66.5, 182.98513793945312}</string>
+					<string>{66.5, 183.48538208007812}</string>
+					<string>{66.5, 184.48587036132812}</string>
+					<string>{66.5, 185.48635864257812}</string>
+					<string>{67, 186.48684692382812}</string>
+					<string>{67, 187.48733520507812}</string>
+					<string>{67, 188.98806762695312}</string>
+					<string>{67.5, 190.48880004882812}</string>
+					<string>{68, 191.98953247070312}</string>
+					<string>{68, 193.99050903320312}</string>
+					<string>{68.5, 195.49124145507812}</string>
+					<string>{69, 197.49221801757812}</string>
+					<string>{69.5, 198.99295043945312}</string>
+					<string>{70, 200.49368286132812}</string>
+					<string>{70.5, 201.99441528320312}</string>
+					<string>{70.5, 202.99490356445312}</string>
+					<string>{71, 203.99539184570312}</string>
+					<string>{71.5, 204.99588012695312}</string>
+					<string>{71.5, 205.99636840820312}</string>
+					<string>{72, 206.99685668945312}</string>
+					<string>{72, 207.49710083007812}</string>
+					<string>{72.5, 207.99734497070312}</string>
+					<string>{72.5, 208.49758911132812}</string>
+					<string>{73, 208.99783325195312}</string>
+					<string>{73, 209.49807739257812}</string>
+					<string>{73, 209.49807739257812}</string>
+					<string>{73, 209.49807739257812}</string>
+					<string>{73, 209.49807739257812}</string>
+					<string>{73, 209.49807739257812}</string>
+					<string>{73, 209.49807739257812}</string>
+					<string>{73, 209.49807739257812}</string>
+					<string>{73, 209.49807739257812}</string>
+					<string>{73, 208.99783325195312}</string>
+					<string>{73, 208.49758911132812}</string>
+					<string>{73, 207.49710083007812}</string>
+					<string>{72.5, 206.99685668945312}</string>
+					<string>{72, 205.99636840820312}</string>
+					<string>{71, 205.49612426757812}</string>
+				</array>
+				<key>width</key>
+				<integer>4</integer>
+			</dict>
+			<dict>
+				<key>color_rgb</key>
+				<integer>16711680</integer>
+				<key>opacity</key>
+				<real>1</real>
+				<key>px1</key>
+				<real>54.5</real>
+				<key>px2</key>
+				<real>76</real>
+				<key>py1</key>
+				<real>202.49465942382812</real>
+				<key>py2</key>
+				<real>206.49661254882812</real>
+				<key>touch_list</key>
+				<array>
+					<string>{63.5, 202.49465942382812}</string>
+					<string>{63.5, 202.49465942382812}</string>
+					<string>{62.5, 202.49465942382812}</string>
+					<string>{61, 202.99490356445312}</string>
+					<string>{60, 202.99490356445312}</string>
+					<string>{59, 202.99490356445312}</string>
+					<string>{58, 202.99490356445312}</string>
+					<string>{57.5, 202.99490356445312}</string>
+					<string>{56.5, 202.99490356445312}</string>
+					<string>{56, 202.99490356445312}</string>
+					<string>{55.5, 202.99490356445312}</string>
+					<string>{55, 203.49514770507812}</string>
+					<string>{54.5, 203.49514770507812}</string>
+					<string>{54.5, 203.49514770507812}</string>
+					<string>{54.5, 203.99539184570312}</string>
+					<string>{54.5, 203.99539184570312}</string>
+					<string>{54.5, 204.49563598632812}</string>
+					<string>{54.5, 204.49563598632812}</string>
+					<string>{55, 204.99588012695312}</string>
+					<string>{55.5, 204.99588012695312}</string>
+					<string>{56.5, 205.49612426757812}</string>
+					<string>{57.5, 205.99636840820312}</string>
+					<string>{58.5, 205.99636840820312}</string>
+					<string>{59.5, 205.99636840820312}</string>
+					<string>{61, 205.99636840820312}</string>
+					<string>{62.5, 206.49661254882812}</string>
+					<string>{64, 206.49661254882812}</string>
+					<string>{65.5, 206.49661254882812}</string>
+					<string>{67, 206.49661254882812}</string>
+					<string>{68, 206.49661254882812}</string>
+					<string>{69.5, 206.49661254882812}</string>
+					<string>{71, 206.49661254882812}</string>
+					<string>{72, 206.49661254882812}</string>
+					<string>{73, 206.49661254882812}</string>
+					<string>{74, 205.99636840820312}</string>
+					<string>{75, 205.49612426757812}</string>
+					<string>{76, 204.49563598632812}</string>
+				</array>
+				<key>width</key>
+				<integer>4</integer>
+			</dict>
+			<dict>
+				<key>color_rgb</key>
+				<integer>16711680</integer>
+				<key>opacity</key>
+				<real>1</real>
+				<key>px1</key>
+				<real>82</real>
+				<key>px2</key>
+				<real>101.5</real>
+				<key>py1</key>
+				<real>184.98611450195312</real>
+				<key>py2</key>
+				<real>197.49221801757812</real>
+				<key>touch_list</key>
+				<array>
+					<string>{82, 194.99099731445312}</string>
+					<string>{82, 194.99099731445312}</string>
+					<string>{82, 195.49124145507812}</string>
+					<string>{82, 195.49124145507812}</string>
+					<string>{82, 195.49124145507812}</string>
+					<string>{82, 195.49124145507812}</string>
+					<string>{82, 195.49124145507812}</string>
+					<string>{82, 195.49124145507812}</string>
+					<string>{82, 195.49124145507812}</string>
+					<string>{82, 195.49124145507812}</string>
+					<string>{82, 195.49124145507812}</string>
+					<string>{82, 195.49124145507812}</string>
+					<string>{82, 195.49124145507812}</string>
+					<string>{82, 195.49124145507812}</string>
+					<string>{82, 195.49124145507812}</string>
+					<string>{82, 195.49124145507812}</string>
+					<string>{82, 195.49124145507812}</string>
+					<string>{82, 195.49124145507812}</string>
+					<string>{82, 195.49124145507812}</string>
+					<string>{82, 195.99148559570312}</string>
+					<string>{82, 195.99148559570312}</string>
+					<string>{82, 195.99148559570312}</string>
+					<string>{82, 195.99148559570312}</string>
+					<string>{82, 195.99148559570312}</string>
+					<string>{82, 195.99148559570312}</string>
+					<string>{82, 195.99148559570312}</string>
+					<string>{82, 195.99148559570312}</string>
+					<string>{82, 195.99148559570312}</string>
+					<string>{82, 195.99148559570312}</string>
+					<string>{82, 195.99148559570312}</string>
+					<string>{82, 195.99148559570312}</string>
+					<string>{82, 195.99148559570312}</string>
+					<string>{82, 195.99148559570312}</string>
+					<string>{82, 195.99148559570312}</string>
+					<string>{82, 195.99148559570312}</string>
+					<string>{82, 195.99148559570312}</string>
+					<string>{82, 195.99148559570312}</string>
+					<string>{82, 195.99148559570312}</string>
+					<string>{82, 195.49124145507812}</string>
+					<string>{82, 195.49124145507812}</string>
+					<string>{82, 194.99099731445312}</string>
+					<string>{82.5, 194.99099731445312}</string>
+					<string>{82.5, 194.49075317382812}</string>
+					<string>{82.5, 194.49075317382812}</string>
+					<string>{83, 193.99050903320312}</string>
+					<string>{83, 193.99050903320312}</string>
+					<string>{83, 193.49026489257812}</string>
+					<string>{83.5, 192.99002075195312}</string>
+					<string>{83.5, 192.48977661132812}</string>
+					<string>{83.5, 191.98953247070312}</string>
+					<string>{84, 191.48928833007812}</string>
+					<string>{84, 190.98904418945312}</string>
+					<string>{84.5, 190.48880004882812}</string>
+					<string>{84.5, 189.98855590820312}</string>
+					<string>{84.5, 189.48831176757812}</string>
+					<string>{84.5, 189.48831176757812}</string>
+					<string>{85, 188.98806762695312}</string>
+					<string>{85, 188.48782348632812}</string>
+					<string>{85, 188.48782348632812}</string>
+					<string>{85, 187.98757934570312}</string>
+					<string>{85, 187.98757934570312}</string>
+					<string>{85, 187.48733520507812}</string>
+					<string>{85.5, 187.48733520507812}</string>
+					<string>{85.5, 187.48733520507812}</string>
+					<string>{85.5, 187.48733520507812}</string>
+					<string>{85.5, 186.98709106445312}</string>
+					<string>{85.5, 186.98709106445312}</string>
+					<string>{86, 186.98709106445312}</string>
+					<string>{86, 186.98709106445312}</string>
+					<string>{86, 186.98709106445312}</string>
+					<string>{86, 186.98709106445312}</string>
+					<string>{86, 186.98709106445312}</string>
+					<string>{86, 186.98709106445312}</string>
+					<string>{86, 186.98709106445312}</string>
+					<string>{86, 186.98709106445312}</string>
+					<string>{86, 187.48733520507812}</string>
+					<string>{86, 187.98757934570312}</string>
+					<string>{86, 188.98806762695312}</string>
+					<string>{86, 189.48831176757812}</string>
+					<string>{86, 190.48880004882812}</string>
+					<string>{86, 190.98904418945312}</string>
+					<string>{86, 191.98953247070312}</string>
+					<string>{86, 192.99002075195312}</string>
+					<string>{86, 193.99050903320312}</string>
+					<string>{86, 194.49075317382812}</string>
+					<string>{86, 195.49124145507812}</string>
+					<string>{86, 195.99148559570312}</string>
+					<string>{86, 196.49172973632812}</string>
+					<string>{86, 196.49172973632812}</string>
+					<string>{86, 196.99197387695312}</string>
+					<string>{86, 197.49221801757812}</string>
+					<string>{86, 197.49221801757812}</string>
+					<string>{86, 197.49221801757812}</string>
+					<string>{86, 197.49221801757812}</string>
+					<string>{86, 197.49221801757812}</string>
+					<string>{86, 197.49221801757812}</string>
+					<string>{86, 197.49221801757812}</string>
+					<string>{86.5, 196.99197387695312}</string>
+					<string>{87, 196.49172973632812}</string>
+					<string>{87.5, 195.99148559570312}</string>
+					<string>{87.5, 194.99099731445312}</string>
+					<string>{88, 193.99050903320312}</string>
+					<string>{88.5, 192.99002075195312}</string>
+					<string>{89, 191.98953247070312}</string>
+					<string>{90, 190.98904418945312}</string>
+					<string>{90, 189.98855590820312}</string>
+					<string>{90.5, 189.48831176757812}</string>
+					<string>{91, 188.48782348632812}</string>
+					<string>{91.5, 187.98757934570312}</string>
+					<string>{92, 186.98709106445312}</string>
+					<string>{92, 186.48684692382812}</string>
+					<string>{92.5, 185.98660278320312}</string>
+					<string>{93, 185.48635864257812}</string>
+					<string>{93, 185.48635864257812}</string>
+					<string>{93, 184.98611450195312}</string>
+					<string>{93.5, 184.98611450195312}</string>
+					<string>{93.5, 184.98611450195312}</string>
+					<string>{93.5, 184.98611450195312}</string>
+					<string>{94, 184.98611450195312}</string>
+					<string>{94, 184.98611450195312}</string>
+					<string>{94, 184.98611450195312}</string>
+					<string>{94, 184.98611450195312}</string>
+					<string>{94, 184.98611450195312}</string>
+					<string>{94, 184.98611450195312}</string>
+					<string>{94, 184.98611450195312}</string>
+					<string>{94.5, 185.48635864257812}</string>
+					<string>{94.5, 185.98660278320312}</string>
+					<string>{94.5, 186.48684692382812}</string>
+					<string>{94.5, 186.98709106445312}</string>
+					<string>{94.5, 187.98757934570312}</string>
+					<string>{94.5, 188.48782348632812}</string>
+					<string>{94.5, 189.48831176757812}</string>
+					<string>{94.5, 189.98855590820312}</string>
+					<string>{94.5, 190.98904418945312}</string>
+					<string>{94.5, 191.48928833007812}</string>
+					<string>{94.5, 191.48928833007812}</string>
+					<string>{95, 191.98953247070312}</string>
+					<string>{95, 192.48977661132812}</string>
+					<string>{95, 192.48977661132812}</string>
+					<string>{95, 192.48977661132812}</string>
+					<string>{95, 192.48977661132812}</string>
+					<string>{95.5, 192.99002075195312}</string>
+					<string>{95.5, 192.99002075195312}</string>
+					<string>{95.5, 192.99002075195312}</string>
+					<string>{95.5, 192.99002075195312}</string>
+					<string>{95.5, 192.99002075195312}</string>
+					<string>{95.5, 192.99002075195312}</string>
+					<string>{95.5, 192.99002075195312}</string>
+					<string>{95.5, 192.48977661132812}</string>
+					<string>{95.5, 192.48977661132812}</string>
+					<string>{95.5, 192.48977661132812}</string>
+					<string>{96, 192.48977661132812}</string>
+					<string>{96, 191.98953247070312}</string>
+					<string>{96, 191.98953247070312}</string>
+					<string>{96, 191.98953247070312}</string>
+					<string>{96, 191.98953247070312}</string>
+					<string>{96, 191.98953247070312}</string>
+					<string>{96, 191.98953247070312}</string>
+					<string>{96, 191.98953247070312}</string>
+					<string>{96, 191.98953247070312}</string>
+					<string>{96, 191.98953247070312}</string>
+					<string>{96, 191.98953247070312}</string>
+					<string>{96.5, 191.98953247070312}</string>
+					<string>{96.5, 191.98953247070312}</string>
+					<string>{96.5, 191.98953247070312}</string>
+					<string>{97, 191.98953247070312}</string>
+					<string>{97, 192.48977661132812}</string>
+					<string>{97.5, 192.48977661132812}</string>
+					<string>{97.5, 192.99002075195312}</string>
+					<string>{98, 192.99002075195312}</string>
+					<string>{98.5, 193.49026489257812}</string>
+					<string>{99, 193.49026489257812}</string>
+					<string>{99, 193.99050903320312}</string>
+					<string>{99.5, 193.99050903320312}</string>
+					<string>{100, 194.49075317382812}</string>
+					<string>{100, 194.49075317382812}</string>
+					<string>{100.5, 194.49075317382812}</string>
+					<string>{101, 194.49075317382812}</string>
+					<string>{101.5, 193.99050903320312}</string>
+				</array>
+				<key>width</key>
+				<integer>4</integer>
+			</dict>
+			<dict>
+				<key>color_rgb</key>
+				<integer>16711680</integer>
+				<key>opacity</key>
+				<real>1</real>
+				<key>px1</key>
+				<real>105</real>
+				<key>px2</key>
+				<real>117</real>
+				<key>py1</key>
+				<real>166.9981689453125</real>
+				<key>py2</key>
+				<real>200.99392700195312</real>
+				<key>touch_list</key>
+				<array>
+					<string>{105.5, 174.98123168945312}</string>
+					<string>{105.5, 174.98123168945312}</string>
+					<string>{105.5, 174.98123168945312}</string>
+					<string>{105, 174.98123168945312}</string>
+					<string>{105, 174.98123168945312}</string>
+					<string>{105, 174.98123168945312}</string>
+					<string>{105, 174.98123168945312}</string>
+					<string>{105, 174.98123168945312}</string>
+					<string>{105, 174.98123168945312}</string>
+					<string>{105, 174.98123168945312}</string>
+					<string>{105, 174.98123168945312}</string>
+					<string>{105, 174.98123168945312}</string>
+					<string>{105, 174.98123168945312}</string>
+					<string>{105, 174.98123168945312}</string>
+					<string>{105.5, 174.98123168945312}</string>
+					<string>{105.5, 174.98123168945312}</string>
+					<string>{106, 174.48098754882812}</string>
+					<string>{106.5, 174.48098754882812}</string>
+					<string>{107, 174.48098754882812}</string>
+					<string>{107.5, 173.98074340820312}</string>
+					<string>{108, 173.48049926757812}</string>
+					<string>{108.5, 172.98025512695312}</string>
+					<string>{109, 172.48001098632812}</string>
+					<string>{110, 171.97976684570312}</string>
+					<string>{110.5, 170.97927856445312}</string>
+					<string>{111, 170.4998779296875}</string>
+					<string>{112, 169.9996337890625}</string>
+					<string>{112.5, 169.4993896484375}</string>
+					<string>{113, 168.9991455078125}</string>
+					<string>{114, 168.4989013671875}</string>
+					<string>{114.5, 167.9986572265625}</string>
+					<string>{115, 167.9986572265625}</string>
+					<string>{115.5, 167.4984130859375}</string>
+					<string>{115.5, 167.4984130859375}</string>
+					<string>{116, 166.9981689453125}</string>
+					<string>{116, 166.9981689453125}</string>
+					<string>{116.5, 166.9981689453125}</string>
+					<string>{116.5, 166.9981689453125}</string>
+					<string>{116.5, 166.9981689453125}</string>
+					<string>{117, 166.9981689453125}</string>
+					<string>{117, 166.9981689453125}</string>
+					<string>{117, 166.9981689453125}</string>
+					<string>{117, 166.9981689453125}</string>
+					<string>{117, 167.4984130859375}</string>
+					<string>{117, 167.9986572265625}</string>
+					<string>{117, 168.9991455078125}</string>
+					<string>{116.5, 169.9996337890625}</string>
+					<string>{116.5, 171.47952270507812}</string>
+					<string>{116, 172.98025512695312}</string>
+					<string>{115.5, 174.98123168945312}</string>
+					<string>{115, 176.48196411132812}</string>
+					<string>{114.5, 178.48294067382812}</string>
+					<string>{114, 180.98416137695312}</string>
+					<string>{113.5, 182.98513793945312}</string>
+					<string>{113, 185.48635864257812}</string>
+					<string>{112.5, 187.98757934570312}</string>
+					<string>{112.5, 190.48880004882812}</string>
+					<string>{112, 192.48977661132812}</string>
+					<string>{111.5, 194.49075317382812}</string>
+					<string>{111.5, 195.99148559570312}</string>
+					<string>{111.5, 197.49221801757812}</string>
+					<string>{111.5, 198.49270629882812}</string>
+					<string>{111.5, 199.49319458007812}</string>
+					<string>{111.5, 199.99343872070312}</string>
+					<string>{111.5, 200.49368286132812}</string>
+					<string>{111, 200.99392700195312}</string>
+				</array>
+				<key>width</key>
+				<integer>4</integer>
+			</dict>
+			<dict>
+				<key>color_rgb</key>
+				<integer>16711680</integer>
+				<key>opacity</key>
+				<real>1</real>
+				<key>px1</key>
+				<real>133.5</real>
+				<key>px2</key>
+				<real>145</real>
+				<key>py1</key>
+				<real>179.48342895507812</real>
+				<key>py2</key>
+				<real>183.98562622070312</real>
+				<key>touch_list</key>
+				<array>
+					<string>{133.5, 183.98562622070312}</string>
+					<string>{133.5, 183.98562622070312}</string>
+					<string>{133.5, 183.98562622070312}</string>
+					<string>{133.5, 183.48538208007812}</string>
+					<string>{133.5, 183.48538208007812}</string>
+					<string>{133.5, 183.48538208007812}</string>
+					<string>{133.5, 183.48538208007812}</string>
+					<string>{134, 182.98513793945312}</string>
+					<string>{134.5, 182.98513793945312}</string>
+					<string>{134.5, 182.98513793945312}</string>
+					<string>{135, 182.48489379882812}</string>
+					<string>{136, 182.48489379882812}</string>
+					<string>{136.5, 182.48489379882812}</string>
+					<string>{137, 182.48489379882812}</string>
+					<string>{137.5, 182.48489379882812}</string>
+					<string>{138, 182.48489379882812}</string>
+					<string>{138.5, 182.98513793945312}</string>
+					<string>{139, 182.98513793945312}</string>
+					<string>{140, 182.98513793945312}</string>
+					<string>{140.5, 182.98513793945312}</string>
+					<string>{141, 182.98513793945312}</string>
+					<string>{141.5, 182.98513793945312}</string>
+					<string>{142, 182.98513793945312}</string>
+					<string>{143, 182.48489379882812}</string>
+					<string>{143.5, 181.98464965820312}</string>
+					<string>{144.5, 180.98416137695312}</string>
+					<string>{145, 179.48342895507812}</string>
+				</array>
+				<key>width</key>
+				<integer>4</integer>
+			</dict>
+			<dict>
+				<key>color_rgb</key>
+				<integer>16711680</integer>
+				<key>opacity</key>
+				<real>1</real>
+				<key>px1</key>
+				<real>156</real>
+				<key>px2</key>
+				<real>170</real>
+				<key>py1</key>
+				<real>149.9898681640625</real>
+				<key>py2</key>
+				<real>190.98904418945312</real>
+				<key>touch_list</key>
+				<array>
+					<string>{162, 190.98904418945312}</string>
+					<string>{162, 190.98904418945312}</string>
+					<string>{162, 190.98904418945312}</string>
+					<string>{161.5, 190.98904418945312}</string>
+					<string>{161, 190.48880004882812}</string>
+					<string>{161, 190.48880004882812}</string>
+					<string>{161, 189.98855590820312}</string>
+					<string>{161, 189.98855590820312}</string>
+					<string>{161, 189.98855590820312}</string>
+					<string>{161, 189.98855590820312}</string>
+					<string>{161, 189.48831176757812}</string>
+					<string>{161, 189.48831176757812}</string>
+					<string>{161, 189.48831176757812}</string>
+					<string>{161, 189.48831176757812}</string>
+					<string>{161, 188.98806762695312}</string>
+					<string>{161, 188.98806762695312}</string>
+					<string>{161, 188.98806762695312}</string>
+					<string>{161.5, 188.48782348632812}</string>
+					<string>{161.5, 187.98757934570312}</string>
+					<string>{161.5, 187.98757934570312}</string>
+					<string>{161.5, 187.48733520507812}</string>
+					<string>{161.5, 186.98709106445312}</string>
+					<string>{161.5, 186.48684692382812}</string>
+					<string>{161.5, 185.98660278320312}</string>
+					<string>{161.5, 185.48635864257812}</string>
+					<string>{161.5, 184.98611450195312}</string>
+					<string>{161.5, 184.48587036132812}</string>
+					<string>{161, 183.48538208007812}</string>
+					<string>{161, 182.48489379882812}</string>
+					<string>{160.5, 181.48440551757812}</string>
+					<string>{160.5, 180.48391723632812}</string>
+					<string>{160, 179.48342895507812}</string>
+					<string>{160, 178.48294067382812}</string>
+					<string>{159.5, 177.48245239257812}</string>
+					<string>{159, 175.98171997070312}</string>
+					<string>{158.5, 174.98123168945312}</string>
+					<string>{158, 173.48049926757812}</string>
+					<string>{158, 172.48001098632812}</string>
+					<string>{157.5, 171.47952270507812}</string>
+					<string>{157, 170.4998779296875}</string>
+					<string>{157, 169.4993896484375}</string>
+					<string>{156.5, 168.4989013671875}</string>
+					<string>{156.5, 167.9986572265625}</string>
+					<string>{156.5, 167.4984130859375}</string>
+					<string>{156.5, 166.9981689453125}</string>
+					<string>{156.5, 166.4979248046875}</string>
+					<string>{156.5, 165.9976806640625}</string>
+					<string>{156, 165.4974365234375}</string>
+					<string>{156, 165.4974365234375}</string>
+					<string>{156, 164.9971923828125}</string>
+					<string>{156, 164.4969482421875}</string>
+					<string>{156, 164.4969482421875}</string>
+					<string>{156, 164.4969482421875}</string>
+					<string>{156, 163.9967041015625}</string>
+					<string>{156, 163.9967041015625}</string>
+					<string>{156, 163.4964599609375}</string>
+					<string>{156, 163.4964599609375}</string>
+					<string>{156, 163.4964599609375}</string>
+					<string>{156, 162.9962158203125}</string>
+					<string>{156, 162.9962158203125}</string>
+					<string>{156, 162.9962158203125}</string>
+					<string>{156, 162.4959716796875}</string>
+					<string>{156, 162.4959716796875}</string>
+					<string>{156, 162.4959716796875}</string>
+					<string>{156, 162.4959716796875}</string>
+					<string>{156, 161.9957275390625}</string>
+					<string>{156, 161.9957275390625}</string>
+					<string>{156, 161.9957275390625}</string>
+					<string>{156, 161.4954833984375}</string>
+					<string>{156.5, 161.4954833984375}</string>
+					<string>{156.5, 160.9952392578125}</string>
+					<string>{156.5, 160.4949951171875}</string>
+					<string>{157, 159.9947509765625}</string>
+					<string>{157, 159.9947509765625}</string>
+					<string>{157.5, 159.4945068359375}</string>
+					<string>{157.5, 158.9942626953125}</string>
+					<string>{158, 158.4940185546875}</string>
+					<string>{158.5, 157.4935302734375}</string>
+					<string>{159, 156.9932861328125}</string>
+					<string>{159.5, 156.4930419921875}</string>
+					<string>{160, 155.9927978515625}</string>
+					<string>{160.5, 155.4925537109375}</string>
+					<string>{161, 154.9923095703125}</string>
+					<string>{161.5, 154.4920654296875}</string>
+					<string>{162, 153.9918212890625}</string>
+					<string>{162.5, 153.4915771484375}</string>
+					<string>{163, 153.4915771484375}</string>
+					<string>{163.5, 152.9913330078125}</string>
+					<string>{164, 152.9913330078125}</string>
+					<string>{164, 152.4910888671875}</string>
+					<string>{164.5, 152.4910888671875}</string>
+					<string>{165, 152.4910888671875}</string>
+					<string>{165.5, 151.9908447265625}</string>
+					<string>{166, 151.9908447265625}</string>
+					<string>{166.5, 151.4906005859375}</string>
+					<string>{167, 151.4906005859375}</string>
+					<string>{167.5, 150.9903564453125}</string>
+					<string>{168, 150.9903564453125}</string>
+					<string>{168.5, 150.4901123046875}</string>
+					<string>{169, 150.4901123046875}</string>
+					<string>{170, 149.9898681640625}</string>
+				</array>
+				<key>width</key>
+				<integer>4</integer>
+			</dict>
+			<dict>
+				<key>color_rgb</key>
+				<integer>16711680</integer>
+				<key>opacity</key>
+				<real>1</real>
+				<key>px1</key>
+				<real>160</real>
+				<key>px2</key>
+				<real>181.5</real>
+				<key>py1</key>
+				<real>159.9947509765625</real>
+				<key>py2</key>
+				<real>177.98269653320312</real>
+				<key>touch_list</key>
+				<array>
+					<string>{161.5, 177.98269653320312}</string>
+					<string>{161.5, 177.98269653320312}</string>
+					<string>{161, 177.98269653320312}</string>
+					<string>{160.5, 177.98269653320312}</string>
+					<string>{160, 177.48245239257812}</string>
+					<string>{160, 177.48245239257812}</string>
+					<string>{160, 177.48245239257812}</string>
+					<string>{160, 177.48245239257812}</string>
+					<string>{160, 177.48245239257812}</string>
+					<string>{160, 177.48245239257812}</string>
+					<string>{160, 176.98220825195312}</string>
+					<string>{160, 176.98220825195312}</string>
+					<string>{160, 176.98220825195312}</string>
+					<string>{160, 176.98220825195312}</string>
+					<string>{160, 176.48196411132812}</string>
+					<string>{160.5, 176.48196411132812}</string>
+					<string>{161, 176.48196411132812}</string>
+					<string>{161, 175.98171997070312}</string>
+					<string>{161.5, 175.48147583007812}</string>
+					<string>{162, 175.48147583007812}</string>
+					<string>{162, 174.98123168945312}</string>
+					<string>{162.5, 174.48098754882812}</string>
+					<string>{163, 174.48098754882812}</string>
+					<string>{163.5, 173.98074340820312}</string>
+					<string>{164, 173.48049926757812}</string>
+					<string>{164.5, 172.98025512695312}</string>
+					<string>{165, 172.48001098632812}</string>
+					<string>{166, 171.97976684570312}</string>
+					<string>{166.5, 171.47952270507812}</string>
+					<string>{167.5, 170.97927856445312}</string>
+					<string>{168.5, 170.4998779296875}</string>
+					<string>{169, 169.4993896484375}</string>
+					<string>{170, 168.9991455078125}</string>
+					<string>{171, 167.9986572265625}</string>
+					<string>{172, 167.4984130859375}</string>
+					<string>{172.5, 166.4979248046875}</string>
+					<string>{173.5, 165.9976806640625}</string>
+					<string>{174.5, 164.9971923828125}</string>
+					<string>{175, 164.4969482421875}</string>
+					<string>{176, 163.4964599609375}</string>
+					<string>{177, 162.4959716796875}</string>
+					<string>{177.5, 161.9957275390625}</string>
+					<string>{178.5, 161.4954833984375}</string>
+					<string>{179.5, 160.9952392578125}</string>
+					<string>{180, 160.9952392578125}</string>
+					<string>{180.5, 160.4949951171875}</string>
+					<string>{181.5, 159.9947509765625}</string>
+				</array>
+				<key>width</key>
+				<integer>4</integer>
+			</dict>
+			<dict>
+				<key>color_rgb</key>
+				<integer>16711680</integer>
+				<key>opacity</key>
+				<real>1</real>
+				<key>px1</key>
+				<real>185.5</real>
+				<key>px2</key>
+				<real>208.5</real>
+				<key>py1</key>
+				<real>148.9893798828125</real>
+				<key>py2</key>
+				<real>179.98367309570312</real>
+				<key>touch_list</key>
+				<array>
+					<string>{186.5, 177.98269653320312}</string>
+					<string>{186.5, 177.98269653320312}</string>
+					<string>{186, 177.48245239257812}</string>
+					<string>{186, 177.48245239257812}</string>
+					<string>{185.5, 176.98220825195312}</string>
+					<string>{185.5, 176.48196411132812}</string>
+					<string>{185.5, 176.48196411132812}</string>
+					<string>{185.5, 175.98171997070312}</string>
+					<string>{185.5, 175.48147583007812}</string>
+					<string>{185.5, 175.48147583007812}</string>
+					<string>{185.5, 174.98123168945312}</string>
+					<string>{185.5, 174.48098754882812}</string>
+					<string>{186, 173.98074340820312}</string>
+					<string>{186, 173.48049926757812}</string>
+					<string>{186.5, 172.98025512695312}</string>
+					<string>{186.5, 172.48001098632812}</string>
+					<string>{186.5, 171.97976684570312}</string>
+					<string>{186.5, 170.97927856445312}</string>
+					<string>{187, 170.4998779296875}</string>
+					<string>{187, 169.9996337890625}</string>
+					<string>{187, 168.9991455078125}</string>
+					<string>{187, 167.9986572265625}</string>
+					<string>{187, 166.9981689453125}</string>
+					<string>{187.5, 165.9976806640625}</string>
+					<string>{187.5, 165.4974365234375}</string>
+					<string>{187.5, 164.4969482421875}</string>
+					<string>{187.5, 163.4964599609375}</string>
+					<string>{188, 162.4959716796875}</string>
+					<string>{188, 161.4954833984375}</string>
+					<string>{188, 160.4949951171875}</string>
+					<string>{188, 159.9947509765625}</string>
+					<string>{188.5, 158.9942626953125}</string>
+					<string>{188.5, 157.9937744140625}</string>
+					<string>{189, 156.9932861328125}</string>
+					<string>{189, 155.9927978515625}</string>
+					<string>{189, 155.4925537109375}</string>
+					<string>{189, 154.4920654296875}</string>
+					<string>{189.5, 153.4915771484375}</string>
+					<string>{189.5, 152.9913330078125}</string>
+					<string>{189.5, 151.9908447265625}</string>
+					<string>{190, 151.4906005859375}</string>
+					<string>{190, 150.9903564453125}</string>
+					<string>{190, 150.4901123046875}</string>
+					<string>{190, 149.9898681640625}</string>
+					<string>{190, 149.9898681640625}</string>
+					<string>{190, 149.4896240234375}</string>
+					<string>{190, 149.4896240234375}</string>
+					<string>{190, 149.4896240234375}</string>
+					<string>{190, 149.4896240234375}</string>
+					<string>{190, 148.9893798828125}</string>
+					<string>{190, 148.9893798828125}</string>
+					<string>{190, 148.9893798828125}</string>
+					<string>{190, 148.9893798828125}</string>
+					<string>{190, 148.9893798828125}</string>
+					<string>{190, 148.9893798828125}</string>
+					<string>{190, 148.9893798828125}</string>
+					<string>{190, 148.9893798828125}</string>
+					<string>{190, 149.4896240234375}</string>
+					<string>{190, 149.4896240234375}</string>
+					<string>{190, 149.9898681640625}</string>
+					<string>{190, 149.9898681640625}</string>
+					<string>{190, 150.4901123046875}</string>
+					<string>{190.5, 150.9903564453125}</string>
+					<string>{190.5, 151.9908447265625}</string>
+					<string>{191, 152.4910888671875}</string>
+					<string>{191.5, 153.4915771484375}</string>
+					<string>{192.5, 154.4920654296875}</string>
+					<string>{193, 155.9927978515625}</string>
+					<string>{194, 156.9932861328125}</string>
+					<string>{194.5, 157.9937744140625}</string>
+					<string>{195.5, 158.9942626953125}</string>
+					<string>{196.5, 159.9947509765625}</string>
+					<string>{197, 160.4949951171875}</string>
+					<string>{198, 160.9952392578125}</string>
+					<string>{199, 160.9952392578125}</string>
+					<string>{200, 161.4954833984375}</string>
+					<string>{200.5, 161.9957275390625}</string>
+					<string>{201.5, 161.9957275390625}</string>
+					<string>{202, 161.9957275390625}</string>
+					<string>{202.5, 162.4959716796875}</string>
+					<string>{203.5, 162.4959716796875}</string>
+					<string>{204, 162.4959716796875}</string>
+					<string>{204.5, 162.4959716796875}</string>
+					<string>{205, 162.4959716796875}</string>
+					<string>{205.5, 162.4959716796875}</string>
+					<string>{206, 162.4959716796875}</string>
+					<string>{206, 162.4959716796875}</string>
+					<string>{206.5, 162.4959716796875}</string>
+					<string>{207, 162.4959716796875}</string>
+					<string>{207.5, 162.4959716796875}</string>
+					<string>{207.5, 162.4959716796875}</string>
+					<string>{208, 162.4959716796875}</string>
+					<string>{208, 162.4959716796875}</string>
+					<string>{208, 162.4959716796875}</string>
+					<string>{208.5, 162.4959716796875}</string>
+					<string>{208.5, 162.4959716796875}</string>
+					<string>{208.5, 162.4959716796875}</string>
+					<string>{208.5, 162.4959716796875}</string>
+					<string>{208.5, 162.4959716796875}</string>
+					<string>{208.5, 162.4959716796875}</string>
+					<string>{208.5, 162.4959716796875}</string>
+					<string>{208.5, 162.4959716796875}</string>
+					<string>{208.5, 162.4959716796875}</string>
+					<string>{208, 162.4959716796875}</string>
+					<string>{208, 162.4959716796875}</string>
+					<string>{207.5, 162.9962158203125}</string>
+					<string>{207, 162.9962158203125}</string>
+					<string>{206.5, 163.4964599609375}</string>
+					<string>{206, 163.4964599609375}</string>
+					<string>{205.5, 163.9967041015625}</string>
+					<string>{205, 164.4969482421875}</string>
+					<string>{204.5, 164.9971923828125}</string>
+					<string>{204, 165.4974365234375}</string>
+					<string>{203.5, 165.9976806640625}</string>
+					<string>{202.5, 166.4979248046875}</string>
+					<string>{202, 167.4984130859375}</string>
+					<string>{201, 167.9986572265625}</string>
+					<string>{200.5, 168.4989013671875}</string>
+					<string>{199.5, 168.9991455078125}</string>
+					<string>{199, 169.9996337890625}</string>
+					<string>{198, 170.4998779296875}</string>
+					<string>{197.5, 170.97927856445312}</string>
+					<string>{196.5, 171.47952270507812}</string>
+					<string>{195.5, 172.48001098632812}</string>
+					<string>{194.5, 172.98025512695312}</string>
+					<string>{194, 173.48049926757812}</string>
+					<string>{193, 174.48098754882812}</string>
+					<string>{192, 174.98123168945312}</string>
+					<string>{191, 175.48147583007812}</string>
+					<string>{190, 176.48196411132812}</string>
+					<string>{189, 176.98220825195312}</string>
+					<string>{188.5, 177.48245239257812}</string>
+					<string>{188, 177.98269653320312}</string>
+					<string>{187.5, 177.98269653320312}</string>
+					<string>{187, 178.48294067382812}</string>
+					<string>{187, 178.98318481445312}</string>
+					<string>{186.5, 178.98318481445312}</string>
+					<string>{186.5, 179.48342895507812}</string>
+					<string>{186.5, 179.48342895507812}</string>
+					<string>{186.5, 179.98367309570312}</string>
+					<string>{186.5, 179.98367309570312}</string>
+					<string>{186.5, 179.98367309570312}</string>
+					<string>{186.5, 179.98367309570312}</string>
+					<string>{186.5, 179.98367309570312}</string>
+					<string>{187, 179.98367309570312}</string>
+					<string>{187, 179.98367309570312}</string>
+					<string>{187.5, 179.98367309570312}</string>
+					<string>{188, 179.48342895507812}</string>
+					<string>{188.5, 178.48294067382812}</string>
+					<string>{189.5, 177.48245239257812}</string>
+				</array>
+				<key>width</key>
+				<integer>4</integer>
+			</dict>
+			<dict>
+				<key>color_rgb</key>
+				<integer>16711680</integer>
+				<key>opacity</key>
+				<real>1</real>
+				<key>px1</key>
+				<real>218.5</real>
+				<key>px2</key>
+				<real>229</real>
+				<key>py1</key>
+				<real>127.49972534179688</real>
+				<key>py2</key>
+				<real>168.9991455078125</real>
+				<key>touch_list</key>
+				<array>
+					<string>{218.5, 168.9991455078125}</string>
+					<string>{218.5, 168.9991455078125}</string>
+					<string>{218.5, 168.4989013671875}</string>
+					<string>{218.5, 167.9986572265625}</string>
+					<string>{218.5, 166.9981689453125}</string>
+					<string>{218.5, 166.4979248046875}</string>
+					<string>{218.5, 165.4974365234375}</string>
+					<string>{218.5, 164.4969482421875}</string>
+					<string>{218.5, 163.4964599609375}</string>
+					<string>{219, 161.9957275390625}</string>
+					<string>{219.5, 160.9952392578125}</string>
+					<string>{220, 159.4945068359375}</string>
+					<string>{220.5, 157.9937744140625}</string>
+					<string>{221, 156.4930419921875}</string>
+					<string>{221.5, 154.9923095703125}</string>
+					<string>{222, 152.9913330078125}</string>
+					<string>{222.5, 151.4906005859375}</string>
+					<string>{223, 148.9893798828125}</string>
+					<string>{223.5, 147.4886474609375}</string>
+					<string>{224, 144.9874267578125}</string>
+					<string>{224.5, 142.9864501953125}</string>
+					<string>{225, 140.9854736328125}</string>
+					<string>{225.5, 139.4847412109375}</string>
+					<string>{225.5, 137.9840087890625}</string>
+					<string>{226, 136.4832763671875}</string>
+					<string>{226.5, 135.4827880859375}</string>
+					<string>{226.5, 133.9820556640625}</string>
+					<string>{227, 132.9815673828125}</string>
+					<string>{227.5, 131.9810791015625}</string>
+					<string>{227.5, 131.4808349609375}</string>
+					<string>{228, 130.4803466796875}</string>
+					<string>{228, 129.4798583984375}</string>
+					<string>{228.5, 128.9796142578125}</string>
+					<string>{228.5, 128.4793701171875}</string>
+					<string>{228.5, 127.99996948242188}</string>
+					<string>{228.5, 127.49972534179688}</string>
+					<string>{229, 127.49972534179688}</string>
+					<string>{229, 127.49972534179688}</string>
+					<string>{229, 127.49972534179688}</string>
+					<string>{228, 127.99996948242188}</string>
+				</array>
+				<key>width</key>
+				<integer>4</integer>
+			</dict>
+			<dict>
+				<key>color_rgb</key>
+				<integer>16711680</integer>
+				<key>opacity</key>
+				<real>1</real>
+				<key>px1</key>
+				<real>234</real>
+				<key>px2</key>
+				<real>256.5</real>
+				<key>py1</key>
+				<real>122.99752807617188</real>
+				<key>py2</key>
+				<real>160.9952392578125</real>
+				<key>touch_list</key>
+				<array>
+					<string>{234, 160.9952392578125}</string>
+					<string>{234, 160.9952392578125}</string>
+					<string>{234.5, 160.4949951171875}</string>
+					<string>{234.5, 160.4949951171875}</string>
+					<string>{234.5, 159.9947509765625}</string>
+					<string>{234.5, 159.9947509765625}</string>
+					<string>{234.5, 159.4945068359375}</string>
+					<string>{235, 158.9942626953125}</string>
+					<string>{235, 158.9942626953125}</string>
+					<string>{235.5, 158.4940185546875}</string>
+					<string>{235.5, 158.4940185546875}</string>
+					<string>{236, 157.9937744140625}</string>
+					<string>{236.5, 157.9937744140625}</string>
+					<string>{237, 157.4935302734375}</string>
+					<string>{237, 157.4935302734375}</string>
+					<string>{237.5, 156.9932861328125}</string>
+					<string>{238, 156.4930419921875}</string>
+					<string>{238, 156.4930419921875}</string>
+					<string>{238.5, 155.9927978515625}</string>
+					<string>{238.5, 155.9927978515625}</string>
+					<string>{238.5, 155.9927978515625}</string>
+					<string>{238.5, 155.9927978515625}</string>
+					<string>{239, 155.4925537109375}</string>
+					<string>{239, 155.4925537109375}</string>
+					<string>{239, 155.4925537109375}</string>
+					<string>{239, 155.4925537109375}</string>
+					<string>{239, 155.4925537109375}</string>
+					<string>{239, 155.4925537109375}</string>
+					<string>{239, 155.4925537109375}</string>
+					<string>{239, 154.9923095703125}</string>
+					<string>{239, 154.4920654296875}</string>
+					<string>{239, 153.9918212890625}</string>
+					<string>{239, 152.9913330078125}</string>
+					<string>{239, 152.4910888671875}</string>
+					<string>{239, 151.4906005859375}</string>
+					<string>{239.5, 150.4901123046875}</string>
+					<string>{239.5, 149.4896240234375}</string>
+					<string>{239.5, 147.9888916015625}</string>
+					<string>{239.5, 146.9884033203125}</string>
+					<string>{239.5, 145.4876708984375}</string>
+					<string>{239.5, 143.9869384765625}</string>
+					<string>{239.5, 142.4862060546875}</string>
+					<string>{239.5, 140.9854736328125}</string>
+					<string>{240, 139.4847412109375}</string>
+					<string>{240, 137.9840087890625}</string>
+					<string>{240, 136.9835205078125}</string>
+					<string>{240, 135.4827880859375}</string>
+					<string>{240, 134.4822998046875}</string>
+					<string>{240.5, 132.9815673828125}</string>
+					<string>{240.5, 131.9810791015625}</string>
+					<string>{240.5, 130.9805908203125}</string>
+					<string>{240.5, 129.9801025390625}</string>
+					<string>{240.5, 128.9796142578125}</string>
+					<string>{241, 127.99996948242188}</string>
+					<string>{241, 127.49972534179688}</string>
+					<string>{241, 126.49923706054688}</string>
+					<string>{241, 125.99899291992188}</string>
+					<string>{241.5, 125.49874877929688}</string>
+					<string>{241.5, 124.99850463867188}</string>
+					<string>{241.5, 124.99850463867188}</string>
+					<string>{241.5, 124.49826049804688}</string>
+					<string>{242, 123.99801635742188}</string>
+					<string>{242, 123.99801635742188}</string>
+					<string>{242, 123.49777221679688}</string>
+					<string>{242.5, 123.49777221679688}</string>
+					<string>{242.5, 123.49777221679688}</string>
+					<string>{242.5, 122.99752807617188}</string>
+					<string>{242.5, 122.99752807617188}</string>
+					<string>{242.5, 122.99752807617188}</string>
+					<string>{242.5, 122.99752807617188}</string>
+					<string>{243, 122.99752807617188}</string>
+					<string>{243, 122.99752807617188}</string>
+					<string>{243, 122.99752807617188}</string>
+					<string>{243, 123.49777221679688}</string>
+					<string>{243, 123.99801635742188}</string>
+					<string>{243, 124.99850463867188}</string>
+					<string>{243.5, 125.49874877929688}</string>
+					<string>{244, 126.49923706054688}</string>
+					<string>{244, 127.49972534179688}</string>
+					<string>{244.5, 128.9796142578125}</string>
+					<string>{245, 130.4803466796875}</string>
+					<string>{245.5, 131.9810791015625}</string>
+					<string>{246, 133.4818115234375}</string>
+					<string>{246.5, 135.4827880859375}</string>
+					<string>{247, 136.9835205078125}</string>
+					<string>{248, 138.9844970703125}</string>
+					<string>{248.5, 140.9854736328125}</string>
+					<string>{249, 142.4862060546875}</string>
+					<string>{249.5, 143.4866943359375}</string>
+					<string>{250, 144.9874267578125}</string>
+					<string>{251, 145.9879150390625}</string>
+					<string>{251.5, 146.4881591796875}</string>
+					<string>{252, 147.4886474609375}</string>
+					<string>{252.5, 147.4886474609375}</string>
+					<string>{252.5, 147.9888916015625}</string>
+					<string>{253, 148.4891357421875}</string>
+					<string>{253.5, 148.4891357421875}</string>
+					<string>{254, 148.4891357421875}</string>
+					<string>{254.5, 148.4891357421875}</string>
+					<string>{255, 148.9893798828125}</string>
+					<string>{255.5, 148.9893798828125}</string>
+					<string>{256, 148.9893798828125}</string>
+					<string>{256.5, 148.4891357421875}</string>
+				</array>
+				<key>width</key>
+				<integer>4</integer>
+			</dict>
+			<dict>
+				<key>color_rgb</key>
+				<integer>16711680</integer>
+				<key>opacity</key>
+				<real>1</real>
+				<key>px1</key>
+				<real>235</real>
+				<key>px2</key>
+				<real>263.5</real>
+				<key>py1</key>
+				<real>147.4886474609375</real>
+				<key>py2</key>
+				<real>151.9908447265625</real>
+				<key>touch_list</key>
+				<array>
+					<string>{235, 151.9908447265625}</string>
+					<string>{235, 151.9908447265625}</string>
+					<string>{235, 151.9908447265625}</string>
+					<string>{235, 151.9908447265625}</string>
+					<string>{235, 151.9908447265625}</string>
+					<string>{235.5, 151.9908447265625}</string>
+					<string>{236.5, 151.9908447265625}</string>
+					<string>{238, 151.9908447265625}</string>
+					<string>{239.5, 151.9908447265625}</string>
+					<string>{241.5, 151.9908447265625}</string>
+					<string>{243.5, 151.9908447265625}</string>
+					<string>{246, 151.4906005859375}</string>
+					<string>{249, 150.9903564453125}</string>
+					<string>{251.5, 150.4901123046875}</string>
+					<string>{254.5, 149.9898681640625}</string>
+					<string>{257, 149.4896240234375}</string>
+					<string>{259.5, 148.9893798828125}</string>
+					<string>{261.5, 148.4891357421875}</string>
+					<string>{263.5, 147.4886474609375}</string>
+				</array>
+				<key>width</key>
+				<integer>4</integer>
+			</dict>
+			<dict>
+				<key>color_rgb</key>
+				<integer>16711680</integer>
+				<key>opacity</key>
+				<real>1</real>
+				<key>px1</key>
+				<real>57.5</real>
+				<key>px2</key>
+				<real>60</real>
+				<key>py1</key>
+				<real>205.49612426757812</real>
+				<key>py2</key>
+				<real>227.98626708984375</real>
+				<key>touch_list</key>
+				<array>
+					<string>{60, 205.49612426757812}</string>
+					<string>{60, 205.49612426757812}</string>
+					<string>{60, 205.49612426757812}</string>
+					<string>{60, 205.49612426757812}</string>
+					<string>{60, 205.49612426757812}</string>
+					<string>{60, 205.49612426757812}</string>
+					<string>{60, 205.49612426757812}</string>
+					<string>{60, 205.49612426757812}</string>
+					<string>{60, 205.49612426757812}</string>
+					<string>{60, 205.49612426757812}</string>
+					<string>{60, 205.49612426757812}</string>
+					<string>{60, 205.49612426757812}</string>
+					<string>{60, 205.49612426757812}</string>
+					<string>{60, 205.99636840820312}</string>
+					<string>{60, 205.99636840820312}</string>
+					<string>{60, 205.99636840820312}</string>
+					<string>{60, 206.49661254882812}</string>
+					<string>{60, 206.49661254882812}</string>
+					<string>{60, 206.49661254882812}</string>
+					<string>{60, 206.49661254882812}</string>
+					<string>{60, 206.49661254882812}</string>
+					<string>{59.5, 206.49661254882812}</string>
+					<string>{59.5, 206.99685668945312}</string>
+					<string>{59.5, 206.99685668945312}</string>
+					<string>{59.5, 206.99685668945312}</string>
+					<string>{59, 206.99685668945312}</string>
+					<string>{59, 206.99685668945312}</string>
+					<string>{59, 206.99685668945312}</string>
+					<string>{59, 206.99685668945312}</string>
+					<string>{58.5, 206.99685668945312}</string>
+					<string>{58.5, 206.99685668945312}</string>
+					<string>{58.5, 206.99685668945312}</string>
+					<string>{58.5, 206.99685668945312}</string>
+					<string>{58.5, 206.99685668945312}</string>
+					<string>{58.5, 206.99685668945312}</string>
+					<string>{58.5, 206.99685668945312}</string>
+					<string>{58.5, 206.99685668945312}</string>
+					<string>{58.5, 206.99685668945312}</string>
+					<string>{58.5, 207.49710083007812}</string>
+					<string>{58.5, 207.99734497070312}</string>
+					<string>{58.5, 208.49758911132812}</string>
+					<string>{58.5, 208.99783325195312}</string>
+					<string>{58.5, 209.99832153320312}</string>
+					<string>{58.5, 210.99880981445312}</string>
+					<string>{58.5, 212.49954223632812}</string>
+					<string>{58.5, 213.97943115234375}</string>
+					<string>{58.5, 215.48016357421875}</string>
+					<string>{58.5, 217.48114013671875}</string>
+					<string>{58.5, 219.48211669921875}</string>
+					<string>{58.5, 220.98284912109375}</string>
+					<string>{58.5, 222.48358154296875}</string>
+					<string>{58.5, 223.98431396484375}</string>
+					<string>{58, 224.98480224609375}</string>
+					<string>{58, 225.48504638671875}</string>
+					<string>{58, 226.48553466796875}</string>
+					<string>{57.5, 226.98577880859375}</string>
+					<string>{57.5, 227.48602294921875}</string>
+					<string>{57.5, 227.48602294921875}</string>
+					<string>{57.5, 227.48602294921875}</string>
+					<string>{57.5, 227.98626708984375}</string>
+					<string>{57.5, 227.98626708984375}</string>
+					<string>{57.5, 227.98626708984375}</string>
+					<string>{57.5, 227.98626708984375}</string>
+					<string>{57.5, 227.48602294921875}</string>
+					<string>{57.5, 226.98577880859375}</string>
+					<string>{58, 225.98529052734375}</string>
+				</array>
+				<key>width</key>
+				<integer>4</integer>
+			</dict>
+			<dict>
+				<key>color_rgb</key>
+				<integer>16711680</integer>
+				<key>opacity</key>
+				<real>1</real>
+				<key>px1</key>
+				<real>10.5</real>
+				<key>px2</key>
+				<real>19</real>
+				<key>py1</key>
+				<real>206.99685668945312</real>
+				<key>py2</key>
+				<real>241.49285888671875</real>
+				<key>touch_list</key>
+				<array>
+					<string>{13.5, 206.99685668945312}</string>
+					<string>{13.5, 206.99685668945312}</string>
+					<string>{13.5, 206.99685668945312}</string>
+					<string>{13.5, 206.99685668945312}</string>
+					<string>{13, 206.99685668945312}</string>
+					<string>{13, 206.99685668945312}</string>
+					<string>{13, 206.99685668945312}</string>
+					<string>{13, 206.99685668945312}</string>
+					<string>{13, 206.99685668945312}</string>
+					<string>{12.5, 206.99685668945312}</string>
+					<string>{12.5, 206.99685668945312}</string>
+					<string>{12.5, 206.99685668945312}</string>
+					<string>{12.5, 206.99685668945312}</string>
+					<string>{12.5, 206.99685668945312}</string>
+					<string>{12.5, 206.99685668945312}</string>
+					<string>{12, 206.99685668945312}</string>
+					<string>{12, 206.99685668945312}</string>
+					<string>{12, 206.99685668945312}</string>
+					<string>{12, 206.99685668945312}</string>
+					<string>{12, 206.99685668945312}</string>
+					<string>{11.5, 206.99685668945312}</string>
+					<string>{11.5, 206.99685668945312}</string>
+					<string>{11.5, 206.99685668945312}</string>
+					<string>{11.5, 206.99685668945312}</string>
+					<string>{11.5, 207.49710083007812}</string>
+					<string>{11, 207.49710083007812}</string>
+					<string>{11, 207.49710083007812}</string>
+					<string>{11, 207.99734497070312}</string>
+					<string>{11, 207.99734497070312}</string>
+					<string>{11, 207.99734497070312}</string>
+					<string>{10.5, 208.49758911132812}</string>
+					<string>{10.5, 208.49758911132812}</string>
+					<string>{10.5, 208.99783325195312}</string>
+					<string>{10.5, 209.49807739257812}</string>
+					<string>{10.5, 209.49807739257812}</string>
+					<string>{10.5, 210.49856567382812}</string>
+					<string>{10.5, 211.49905395507812}</string>
+					<string>{10.5, 211.99929809570312}</string>
+					<string>{10.5, 212.99978637695312}</string>
+					<string>{10.5, 214.47967529296875}</string>
+					<string>{11, 215.98040771484375}</string>
+					<string>{11.5, 217.48114013671875}</string>
+					<string>{12.5, 219.48211669921875}</string>
+					<string>{13, 221.48309326171875}</string>
+					<string>{14, 223.98431396484375}</string>
+					<string>{14.5, 226.48553466796875}</string>
+					<string>{15.5, 228.98675537109375}</string>
+					<string>{16, 231.48797607421875}</string>
+					<string>{16.5, 233.98919677734375}</string>
+					<string>{17, 235.48992919921875}</string>
+					<string>{17.5, 237.49090576171875}</string>
+					<string>{18, 238.99163818359375}</string>
+					<string>{18.5, 239.99212646484375}</string>
+					<string>{18.5, 240.49237060546875}</string>
+					<string>{19, 240.99261474609375}</string>
+					<string>{19, 241.49285888671875}</string>
+				</array>
+				<key>width</key>
+				<integer>4</integer>
+			</dict>
+			<dict>
+				<key>color_rgb</key>
+				<integer>16711680</integer>
+				<key>opacity</key>
+				<real>1</real>
+				<key>px1</key>
+				<real>14</real>
+				<key>px2</key>
+				<real>26.5</real>
+				<key>py1</key>
+				<real>200.99392700195312</real>
+				<key>py2</key>
+				<real>247.49578857421875</real>
+				<key>touch_list</key>
+				<array>
+					<string>{19.5, 201.99441528320312}</string>
+					<string>{19.5, 201.99441528320312}</string>
+					<string>{19, 201.99441528320312}</string>
+					<string>{18.5, 201.99441528320312}</string>
+					<string>{18, 201.99441528320312}</string>
+					<string>{18, 201.99441528320312}</string>
+					<string>{17.5, 201.99441528320312}</string>
+					<string>{17.5, 201.99441528320312}</string>
+					<string>{17.5, 201.99441528320312}</string>
+					<string>{17.5, 201.99441528320312}</string>
+					<string>{17, 201.99441528320312}</string>
+					<string>{17, 201.99441528320312}</string>
+					<string>{17, 201.99441528320312}</string>
+					<string>{17, 201.99441528320312}</string>
+					<string>{17, 201.99441528320312}</string>
+					<string>{16.5, 202.49465942382812}</string>
+					<string>{16.5, 202.49465942382812}</string>
+					<string>{16.5, 202.49465942382812}</string>
+					<string>{16.5, 202.49465942382812}</string>
+					<string>{16.5, 202.99490356445312}</string>
+					<string>{16.5, 202.99490356445312}</string>
+					<string>{16, 202.99490356445312}</string>
+					<string>{16, 202.99490356445312}</string>
+					<string>{16, 202.99490356445312}</string>
+					<string>{15.5, 202.49465942382812}</string>
+					<string>{15.5, 202.49465942382812}</string>
+					<string>{15.5, 202.49465942382812}</string>
+					<string>{15, 201.99441528320312}</string>
+					<string>{15, 201.99441528320312}</string>
+					<string>{15, 201.99441528320312}</string>
+					<string>{15, 201.49417114257812}</string>
+					<string>{15, 201.49417114257812}</string>
+					<string>{15, 201.49417114257812}</string>
+					<string>{15, 201.49417114257812}</string>
+					<string>{15, 201.49417114257812}</string>
+					<string>{15, 201.49417114257812}</string>
+					<string>{15, 201.49417114257812}</string>
+					<string>{15, 200.99392700195312}</string>
+					<string>{15, 200.99392700195312}</string>
+					<string>{15, 200.99392700195312}</string>
+					<string>{15, 200.99392700195312}</string>
+					<string>{15, 200.99392700195312}</string>
+					<string>{15, 200.99392700195312}</string>
+					<string>{15, 200.99392700195312}</string>
+					<string>{15, 200.99392700195312}</string>
+					<string>{15, 200.99392700195312}</string>
+					<string>{15, 200.99392700195312}</string>
+					<string>{15, 200.99392700195312}</string>
+					<string>{15, 200.99392700195312}</string>
+					<string>{15, 200.99392700195312}</string>
+					<string>{15, 200.99392700195312}</string>
+					<string>{14.5, 200.99392700195312}</string>
+					<string>{14.5, 201.49417114257812}</string>
+					<string>{14.5, 201.49417114257812}</string>
+					<string>{14.5, 201.99441528320312}</string>
+					<string>{14.5, 202.49465942382812}</string>
+					<string>{14, 202.49465942382812}</string>
+					<string>{14, 202.99490356445312}</string>
+					<string>{14, 203.49514770507812}</string>
+					<string>{14, 203.99539184570312}</string>
+					<string>{14, 204.49563598632812}</string>
+					<string>{14, 205.49612426757812}</string>
+					<string>{14, 206.49661254882812}</string>
+					<string>{14.5, 207.99734497070312}</string>
+					<string>{15, 209.49807739257812}</string>
+					<string>{15.5, 211.49905395507812}</string>
+					<string>{16.5, 213.47918701171875}</string>
+					<string>{17, 215.48016357421875}</string>
+					<string>{18, 217.98138427734375}</string>
+					<string>{19, 221.48309326171875}</string>
+					<string>{19.5, 224.48455810546875}</string>
+					<string>{20.5, 226.98577880859375}</string>
+					<string>{21, 229.98724365234375}</string>
+					<string>{22, 232.48846435546875}</string>
+					<string>{22.5, 234.98968505859375}</string>
+					<string>{23, 236.99066162109375}</string>
+					<string>{24, 238.49139404296875}</string>
+					<string>{24.5, 239.99212646484375}</string>
+					<string>{24.5, 241.49285888671875}</string>
+					<string>{25, 242.49334716796875}</string>
+					<string>{25.5, 243.49383544921875}</string>
+					<string>{25.5, 244.49432373046875}</string>
+					<string>{26, 245.49481201171875}</string>
+					<string>{26, 245.99505615234375}</string>
+					<string>{26.5, 246.49530029296875}</string>
+					<string>{26.5, 246.99554443359375}</string>
+					<string>{26.5, 246.99554443359375}</string>
+					<string>{26.5, 247.49578857421875}</string>
+					<string>{26.5, 247.49578857421875}</string>
+					<string>{26.5, 247.49578857421875}</string>
+					<string>{26.5, 247.49578857421875}</string>
+					<string>{26.5, 247.49578857421875}</string>
+					<string>{26.5, 247.49578857421875}</string>
+					<string>{26.5, 246.49530029296875}</string>
+					<string>{26.5, 244.99456787109375}</string>
+				</array>
+				<key>width</key>
+				<integer>4</integer>
+			</dict>
+			<dict>
+				<key>color_rgb</key>
+				<integer>16711680</integer>
+				<key>opacity</key>
+				<real>1</real>
+				<key>px1</key>
+				<real>32</real>
+				<key>px2</key>
+				<real>33.5</real>
+				<key>py1</key>
+				<real>207.99734497070312</real>
+				<key>py2</key>
+				<real>213.97943115234375</real>
+				<key>touch_list</key>
+				<array>
+					<string>{33.5, 208.49758911132812}</string>
+					<string>{33.5, 208.49758911132812}</string>
+					<string>{32.5, 208.49758911132812}</string>
+					<string>{32, 207.99734497070312}</string>
+					<string>{32, 207.99734497070312}</string>
+					<string>{32, 207.99734497070312}</string>
+					<string>{32, 207.99734497070312}</string>
+					<string>{32, 207.99734497070312}</string>
+					<string>{32, 208.49758911132812}</string>
+					<string>{32, 208.99783325195312}</string>
+					<string>{32, 209.49807739257812}</string>
+					<string>{32, 210.49856567382812}</string>
+					<string>{32, 210.99880981445312}</string>
+					<string>{32.5, 211.99929809570312}</string>
+					<string>{32.5, 212.99978637695312}</string>
+					<string>{32.5, 212.99978637695312}</string>
+					<string>{32.5, 213.97943115234375}</string>
+				</array>
+				<key>width</key>
+				<integer>4</integer>
+			</dict>
+			<dict>
+				<key>color_rgb</key>
+				<integer>16711680</integer>
+				<key>opacity</key>
+				<real>1</real>
+				<key>px1</key>
+				<real>31</real>
+				<key>px2</key>
+				<real>35</real>
+				<key>py1</key>
+				<real>220.48260498046875</real>
+				<key>py2</key>
+				<real>223.98431396484375</real>
+				<key>touch_list</key>
+				<array>
+					<string>{33, 220.48260498046875}</string>
+					<string>{33, 220.48260498046875}</string>
+					<string>{32, 220.48260498046875}</string>
+					<string>{31.5, 220.48260498046875}</string>
+					<string>{31, 220.48260498046875}</string>
+					<string>{31, 220.48260498046875}</string>
+					<string>{31, 220.48260498046875}</string>
+					<string>{31, 220.48260498046875}</string>
+					<string>{31.5, 220.98284912109375}</string>
+					<string>{32, 221.48309326171875}</string>
+					<string>{33, 222.48358154296875}</string>
+					<string>{33.5, 222.98382568359375}</string>
+					<string>{34.5, 223.48406982421875}</string>
+					<string>{35, 223.98431396484375}</string>
+				</array>
+				<key>width</key>
+				<integer>4</integer>
+			</dict>
+			<dict>
+				<key>color_rgb</key>
+				<integer>16711680</integer>
+				<key>opacity</key>
+				<real>1</real>
+				<key>px1</key>
+				<real>255</real>
+				<key>px2</key>
+				<real>259</real>
+				<key>py1</key>
+				<real>115.99411010742188</real>
+				<key>py2</key>
+				<real>118.49533081054688</real>
+				<key>touch_list</key>
+				<array>
+					<string>{259, 118.49533081054688}</string>
+					<string>{259, 118.49533081054688}</string>
+					<string>{259, 118.49533081054688}</string>
+					<string>{259, 117.99508666992188}</string>
+					<string>{258.5, 117.49484252929688}</string>
+					<string>{258, 117.49484252929688}</string>
+					<string>{258, 116.99459838867188}</string>
+					<string>{257.5, 116.49435424804688}</string>
+					<string>{257.5, 116.49435424804688}</string>
+					<string>{257, 116.49435424804688}</string>
+					<string>{257, 115.99411010742188}</string>
+					<string>{256.5, 115.99411010742188}</string>
+					<string>{256.5, 115.99411010742188}</string>
+					<string>{256, 115.99411010742188}</string>
+					<string>{256, 115.99411010742188}</string>
+					<string>{256, 115.99411010742188}</string>
+					<string>{255.5, 115.99411010742188}</string>
+					<string>{255.5, 116.49435424804688}</string>
+					<string>{255.5, 116.49435424804688}</string>
+					<string>{255.5, 116.49435424804688}</string>
+					<string>{255.5, 116.49435424804688}</string>
+					<string>{255, 116.49435424804688}</string>
+					<string>{255, 116.49435424804688}</string>
+					<string>{255, 116.49435424804688}</string>
+					<string>{255, 116.49435424804688}</string>
+					<string>{255, 116.49435424804688}</string>
+					<string>{255, 116.49435424804688}</string>
+					<string>{255, 116.49435424804688}</string>
+					<string>{255, 116.49435424804688}</string>
+					<string>{255, 116.49435424804688}</string>
+					<string>{255, 116.99459838867188}</string>
+					<string>{255, 116.99459838867188}</string>
+					<string>{255, 116.99459838867188}</string>
+					<string>{255, 116.99459838867188}</string>
+					<string>{255, 117.49484252929688}</string>
+					<string>{255, 117.49484252929688}</string>
+					<string>{255, 117.49484252929688}</string>
+					<string>{255, 117.49484252929688}</string>
+					<string>{255, 117.49484252929688}</string>
+					<string>{255, 117.49484252929688}</string>
+					<string>{255, 117.49484252929688}</string>
+					<string>{255, 117.49484252929688}</string>
+					<string>{255.5, 117.49484252929688}</string>
+					<string>{255.5, 117.49484252929688}</string>
+					<string>{255.5, 116.99459838867188}</string>
+				</array>
+				<key>width</key>
+				<integer>4</integer>
+			</dict>
+			<dict>
+				<key>color_rgb</key>
+				<integer>16711680</integer>
+				<key>opacity</key>
+				<real>1</real>
+				<key>px1</key>
+				<real>263</real>
+				<key>px2</key>
+				<real>265.5</real>
+				<key>py1</key>
+				<real>128.9796142578125</real>
+				<key>py2</key>
+				<real>132.4813232421875</real>
+				<key>touch_list</key>
+				<array>
+					<string>{265.5, 130.9805908203125}</string>
+					<string>{265.5, 130.9805908203125}</string>
+					<string>{265, 130.9805908203125}</string>
+					<string>{264, 129.9801025390625}</string>
+					<string>{263.5, 129.4798583984375}</string>
+					<string>{263, 128.9796142578125}</string>
+					<string>{263, 128.9796142578125}</string>
+					<string>{263, 128.9796142578125}</string>
+					<string>{263, 128.9796142578125}</string>
+					<string>{263, 128.9796142578125}</string>
+					<string>{263, 128.9796142578125}</string>
+					<string>{263, 128.9796142578125}</string>
+					<string>{263, 128.9796142578125}</string>
+					<string>{263, 128.9796142578125}</string>
+					<string>{263, 129.4798583984375}</string>
+					<string>{263, 129.9801025390625}</string>
+					<string>{263, 130.4803466796875}</string>
+					<string>{263, 130.9805908203125}</string>
+					<string>{263.5, 131.4808349609375}</string>
+					<string>{263.5, 131.4808349609375}</string>
+					<string>{263.5, 131.9810791015625}</string>
+					<string>{263.5, 131.9810791015625}</string>
+					<string>{263.5, 132.4813232421875}</string>
+					<string>{263.5, 132.4813232421875}</string>
+					<string>{263.5, 132.4813232421875}</string>
+				</array>
+				<key>width</key>
+				<integer>4</integer>
+			</dict>
+			<dict>
+				<key>color_rgb</key>
+				<integer>16711680</integer>
+				<key>opacity</key>
+				<real>1</real>
+				<key>px1</key>
+				<real>259</real>
+				<key>px2</key>
+				<real>295</real>
+				<key>py1</key>
+				<real>95.484100341796875</real>
+				<key>py2</key>
+				<real>148.4891357421875</real>
+				<key>touch_list</key>
+				<array>
+					<string>{260, 96.484588623046875}</string>
+					<string>{260, 96.484588623046875}</string>
+					<string>{260, 96.484588623046875}</string>
+					<string>{259.5, 95.984344482421875}</string>
+					<string>{259.5, 95.484100341796875}</string>
+					<string>{259, 95.484100341796875}</string>
+					<string>{259, 95.484100341796875}</string>
+					<string>{259, 95.484100341796875}</string>
+					<string>{259.5, 95.484100341796875}</string>
+					<string>{260, 95.484100341796875}</string>
+					<string>{260.5, 95.484100341796875}</string>
+					<string>{261.5, 95.984344482421875}</string>
+					<string>{262.5, 96.984832763671875}</string>
+					<string>{263.5, 97.985321044921875}</string>
+					<string>{264.5, 98.985809326171875}</string>
+					<string>{265.5, 100.98678588867188}</string>
+					<string>{266.5, 102.98776245117188}</string>
+					<string>{268, 104.98873901367188}</string>
+					<string>{269.5, 107.48995971679688}</string>
+					<string>{271, 109.99118041992188}</string>
+					<string>{272.5, 112.99264526367188}</string>
+					<string>{274, 115.49386596679688}</string>
+					<string>{276, 118.49533081054688}</string>
+					<string>{277, 120.99655151367188}</string>
+					<string>{279, 123.99801635742188}</string>
+					<string>{280.5, 126.49923706054688}</string>
+					<string>{281.5, 128.9796142578125}</string>
+					<string>{283, 131.9810791015625}</string>
+					<string>{284.5, 133.9820556640625}</string>
+					<string>{285.5, 136.4832763671875}</string>
+					<string>{286.5, 138.9844970703125}</string>
+					<string>{287.5, 140.9854736328125}</string>
+					<string>{288.5, 142.9864501953125}</string>
+					<string>{289.5, 144.4871826171875}</string>
+					<string>{290.5, 145.4876708984375}</string>
+					<string>{291, 146.4881591796875}</string>
+					<string>{292, 147.4886474609375}</string>
+					<string>{293, 147.9888916015625}</string>
+					<string>{294, 148.4891357421875}</string>
+					<string>{295, 148.4891357421875}</string>
+				</array>
+				<key>width</key>
+				<integer>4</integer>
+			</dict>
+			<dict>
+				<key>color_rgb</key>
+				<integer>16711680</integer>
+				<key>opacity</key>
+				<real>1</real>
+				<key>px1</key>
+				<real>279.5</real>
+				<key>px2</key>
+				<real>302</real>
+				<key>py1</key>
+				<real>97.485076904296875</real>
+				<key>py2</key>
+				<real>142.9864501953125</real>
+				<key>touch_list</key>
+				<array>
+					<string>{279.5, 97.485076904296875}</string>
+					<string>{279.5, 97.485076904296875}</string>
+					<string>{279.5, 97.485076904296875}</string>
+					<string>{279.5, 97.485076904296875}</string>
+					<string>{279.5, 97.985321044921875}</string>
+					<string>{279.5, 97.985321044921875}</string>
+					<string>{280, 98.985809326171875}</string>
+					<string>{280.5, 99.986297607421875}</string>
+					<string>{281.5, 100.98678588867188}</string>
+					<string>{282, 101.98727416992188}</string>
+					<string>{282.5, 103.48800659179688}</string>
+					<string>{283.5, 104.98873901367188}</string>
+					<string>{284, 107.48995971679688}</string>
+					<string>{285, 109.49093627929688}</string>
+					<string>{285.5, 111.49191284179688}</string>
+					<string>{286, 113.99313354492188}</string>
+					<string>{287, 115.99411010742188}</string>
+					<string>{288, 118.99557495117188}</string>
+					<string>{289, 120.99655151367188}</string>
+					<string>{290, 123.49777221679688}</string>
+					<string>{291, 125.49874877929688}</string>
+					<string>{292, 127.99996948242188}</string>
+					<string>{293, 129.9801025390625}</string>
+					<string>{294, 131.9810791015625}</string>
+					<string>{295.5, 133.9820556640625}</string>
+					<string>{296.5, 135.9830322265625}</string>
+					<string>{297.5, 137.4837646484375}</string>
+					<string>{298.5, 138.9844970703125}</string>
+					<string>{299.5, 140.9854736328125}</string>
+					<string>{301, 141.9859619140625}</string>
+					<string>{302, 142.9864501953125}</string>
+				</array>
+				<key>width</key>
+				<integer>4</integer>
+			</dict>
+			<dict>
+				<key>color_rgb</key>
+				<integer>16711680</integer>
+				<key>opacity</key>
+				<real>1</real>
+				<key>px1</key>
+				<real>307.5</real>
+				<key>px2</key>
+				<real>317.5</real>
+				<key>py1</key>
+				<real>95.984344482421875</real>
+				<key>py2</key>
+				<real>137.9840087890625</real>
+				<key>touch_list</key>
+				<array>
+					<string>{308.5, 96.484588623046875}</string>
+					<string>{308.5, 96.484588623046875}</string>
+					<string>{308.5, 96.484588623046875}</string>
+					<string>{308, 95.984344482421875}</string>
+					<string>{307.5, 95.984344482421875}</string>
+					<string>{307.5, 95.984344482421875}</string>
+					<string>{307.5, 95.984344482421875}</string>
+					<string>{307.5, 95.984344482421875}</string>
+					<string>{307.5, 95.984344482421875}</string>
+					<string>{307.5, 96.984832763671875}</string>
+					<string>{308, 97.485076904296875}</string>
+					<string>{308.5, 98.985809326171875}</string>
+					<string>{308.5, 99.986297607421875}</string>
+					<string>{309, 101.48703002929688}</string>
+					<string>{309.5, 102.98776245117188}</string>
+					<string>{309.5, 104.48849487304688}</string>
+					<string>{310, 106.48947143554688}</string>
+					<string>{310.5, 107.99020385742188}</string>
+					<string>{311, 109.99118041992188}</string>
+					<string>{311, 111.99215698242188}</string>
+					<string>{311.5, 114.49337768554688}</string>
+					<string>{312, 116.49435424804688}</string>
+					<string>{312.5, 118.99557495117188}</string>
+					<string>{312.5, 120.99655151367188}</string>
+					<string>{313, 123.49777221679688}</string>
+					<string>{313, 125.49874877929688}</string>
+					<string>{313.5, 127.49972534179688}</string>
+					<string>{314, 129.4798583984375}</string>
+					<string>{314, 131.4808349609375}</string>
+					<string>{314.5, 133.4818115234375}</string>
+					<string>{315, 134.4822998046875}</string>
+					<string>{315, 135.4827880859375}</string>
+					<string>{315.5, 136.4832763671875}</string>
+					<string>{316, 137.4837646484375}</string>
+					<string>{316, 137.4837646484375}</string>
+					<string>{316.5, 137.9840087890625}</string>
+					<string>{317, 137.9840087890625}</string>
+					<string>{317, 137.9840087890625}</string>
+					<string>{317.5, 137.4837646484375}</string>
+					<string>{317.5, 135.4827880859375}</string>
+				</array>
+				<key>width</key>
+				<integer>4</integer>
+			</dict>
+			<dict>
+				<key>color_rgb</key>
+				<integer>16711680</integer>
+				<key>opacity</key>
+				<real>1</real>
+				<key>px1</key>
+				<real>302</real>
+				<key>px2</key>
+				<real>332.5</real>
+				<key>py1</key>
+				<real>105.98922729492188</real>
+				<key>py2</key>
+				<real>120.99655151367188</real>
+				<key>touch_list</key>
+				<array>
+					<string>{305.5, 106.48947143554688}</string>
+					<string>{305.5, 106.48947143554688}</string>
+					<string>{305.5, 106.48947143554688}</string>
+					<string>{305, 105.98922729492188}</string>
+					<string>{305, 105.98922729492188}</string>
+					<string>{305, 105.98922729492188}</string>
+					<string>{305, 105.98922729492188}</string>
+					<string>{305, 105.98922729492188}</string>
+					<string>{305, 105.98922729492188}</string>
+					<string>{305, 105.98922729492188}</string>
+					<string>{305, 105.98922729492188}</string>
+					<string>{305, 106.48947143554688}</string>
+					<string>{305.5, 107.48995971679688}</string>
+					<string>{305.5, 107.99020385742188}</string>
+					<string>{305.5, 108.99069213867188}</string>
+					<string>{305.5, 109.99118041992188}</string>
+					<string>{306, 110.99166870117188}</string>
+					<string>{306, 111.99215698242188}</string>
+					<string>{306.5, 112.99264526367188}</string>
+					<string>{306.5, 113.49288940429688}</string>
+					<string>{306.5, 114.49337768554688}</string>
+					<string>{306.5, 114.99362182617188}</string>
+					<string>{306.5, 115.49386596679688}</string>
+					<string>{306.5, 115.99411010742188}</string>
+					<string>{306.5, 116.49435424804688}</string>
+					<string>{306.5, 116.49435424804688}</string>
+					<string>{306.5, 116.99459838867188}</string>
+					<string>{306.5, 116.99459838867188}</string>
+					<string>{306.5, 116.99459838867188}</string>
+					<string>{306.5, 117.49484252929688}</string>
+					<string>{306.5, 117.49484252929688}</string>
+					<string>{306, 117.99508666992188}</string>
+					<string>{306, 117.99508666992188}</string>
+					<string>{305.5, 118.49533081054688}</string>
+					<string>{305, 118.49533081054688}</string>
+					<string>{305, 118.99557495117188}</string>
+					<string>{304.5, 118.99557495117188}</string>
+					<string>{304, 119.49581909179688}</string>
+					<string>{303.5, 119.99606323242188}</string>
+					<string>{303, 119.99606323242188}</string>
+					<string>{303, 120.49630737304688}</string>
+					<string>{302.5, 120.49630737304688}</string>
+					<string>{302.5, 120.49630737304688}</string>
+					<string>{302.5, 120.49630737304688}</string>
+					<string>{302, 120.99655151367188}</string>
+					<string>{302, 120.99655151367188}</string>
+					<string>{302, 120.99655151367188}</string>
+					<string>{302, 120.99655151367188}</string>
+					<string>{302, 120.99655151367188}</string>
+					<string>{302, 120.99655151367188}</string>
+					<string>{302, 120.99655151367188}</string>
+					<string>{302, 120.99655151367188}</string>
+					<string>{302, 120.99655151367188}</string>
+					<string>{302.5, 120.99655151367188}</string>
+					<string>{303, 120.99655151367188}</string>
+					<string>{303.5, 120.99655151367188}</string>
+					<string>{304.5, 120.99655151367188}</string>
+					<string>{305, 120.99655151367188}</string>
+					<string>{306, 120.99655151367188}</string>
+					<string>{307.5, 120.99655151367188}</string>
+					<string>{308.5, 120.99655151367188}</string>
+					<string>{310, 120.99655151367188}</string>
+					<string>{311.5, 120.99655151367188}</string>
+					<string>{312.5, 120.49630737304688}</string>
+					<string>{314, 120.49630737304688}</string>
+					<string>{315.5, 119.99606323242188}</string>
+					<string>{317, 119.49581909179688}</string>
+					<string>{318.5, 118.99557495117188}</string>
+					<string>{320, 118.49533081054688}</string>
+					<string>{321.5, 117.99508666992188}</string>
+					<string>{322.5, 117.49484252929688}</string>
+					<string>{324, 116.99459838867188}</string>
+					<string>{325, 115.99411010742188}</string>
+					<string>{326.5, 114.99362182617188}</string>
+					<string>{327.5, 113.99313354492188}</string>
+					<string>{328.5, 113.49288940429688}</string>
+					<string>{329.5, 111.99215698242188}</string>
+					<string>{330.5, 110.99166870117188}</string>
+					<string>{331.5, 109.49093627929688}</string>
+					<string>{332.5, 107.99020385742188}</string>
+				</array>
+				<key>width</key>
+				<integer>4</integer>
+			</dict>
+			<dict>
+				<key>color_rgb</key>
+				<integer>16711680</integer>
+				<key>opacity</key>
+				<real>1</real>
+				<key>px1</key>
+				<real>321</real>
+				<key>px2</key>
+				<real>350.5</real>
+				<key>py1</key>
+				<real>105.48898315429688</real>
+				<key>py2</key>
+				<real>113.99313354492188</real>
+				<key>touch_list</key>
+				<array>
+					<string>{322.5, 106.98971557617188}</string>
+					<string>{322.5, 106.98971557617188}</string>
+					<string>{322, 106.48947143554688}</string>
+					<string>{321.5, 105.98922729492188}</string>
+					<string>{321, 105.98922729492188}</string>
+					<string>{321, 105.98922729492188}</string>
+					<string>{321, 105.98922729492188}</string>
+					<string>{321, 105.48898315429688}</string>
+					<string>{321, 105.48898315429688}</string>
+					<string>{321, 105.48898315429688}</string>
+					<string>{321.5, 105.48898315429688}</string>
+					<string>{321.5, 105.48898315429688}</string>
+					<string>{322, 105.48898315429688}</string>
+					<string>{322.5, 105.48898315429688}</string>
+					<string>{323.5, 105.98922729492188}</string>
+					<string>{324.5, 105.98922729492188}</string>
+					<string>{325.5, 106.48947143554688}</string>
+					<string>{326.5, 106.98971557617188}</string>
+					<string>{327.5, 107.48995971679688}</string>
+					<string>{328.5, 107.99020385742188}</string>
+					<string>{330, 108.49044799804688}</string>
+					<string>{331.5, 109.49093627929688}</string>
+					<string>{332.5, 109.99118041992188}</string>
+					<string>{333.5, 110.49142456054688}</string>
+					<string>{335, 111.49191284179688}</string>
+					<string>{336, 111.99215698242188}</string>
+					<string>{337, 112.49240112304688}</string>
+					<string>{338, 112.99264526367188}</string>
+					<string>{339, 113.49288940429688}</string>
+					<string>{340, 113.49288940429688}</string>
+					<string>{341, 113.99313354492188}</string>
+					<string>{342, 113.99313354492188}</string>
+					<string>{343, 113.99313354492188}</string>
+					<string>{344, 113.99313354492188}</string>
+					<string>{344.5, 113.99313354492188}</string>
+					<string>{345.5, 113.99313354492188}</string>
+					<string>{346, 113.99313354492188}</string>
+					<string>{347, 113.99313354492188}</string>
+					<string>{347.5, 113.49288940429688}</string>
+					<string>{348.5, 112.99264526367188}</string>
+					<string>{349, 112.49240112304688}</string>
+					<string>{349.5, 111.99215698242188}</string>
+					<string>{350, 111.49191284179688}</string>
+					<string>{350.5, 110.99166870117188}</string>
+					<string>{350.5, 109.99118041992188}</string>
+				</array>
+				<key>width</key>
+				<integer>4</integer>
+			</dict>
+			<dict>
+				<key>color_rgb</key>
+				<integer>16711680</integer>
+				<key>opacity</key>
+				<real>1</real>
+				<key>px1</key>
+				<real>324.5</real>
+				<key>px2</key>
+				<real>356</real>
+				<key>py1</key>
+				<real>85.479217529296875</real>
+				<key>py2</key>
+				<real>119.99606323242188</real>
+				<key>touch_list</key>
+				<array>
+					<string>{324.5, 119.99606323242188}</string>
+					<string>{324.5, 119.99606323242188}</string>
+					<string>{325, 119.99606323242188}</string>
+					<string>{324.5, 119.49581909179688}</string>
+					<string>{324.5, 118.49533081054688}</string>
+					<string>{324.5, 117.99508666992188}</string>
+					<string>{325, 117.99508666992188}</string>
+					<string>{326, 117.49484252929688}</string>
+					<string>{327, 117.49484252929688}</string>
+					<string>{328, 116.99459838867188}</string>
+					<string>{329.5, 116.49435424804688}</string>
+					<string>{330.5, 116.49435424804688}</string>
+					<string>{332.5, 115.99411010742188}</string>
+					<string>{334, 114.99362182617188}</string>
+					<string>{336.5, 113.99313354492188}</string>
+					<string>{338, 112.99264526367188}</string>
+					<string>{340, 111.49191284179688}</string>
+					<string>{342, 109.49093627929688}</string>
+					<string>{344, 107.99020385742188}</string>
+					<string>{346, 105.98922729492188}</string>
+					<string>{347.5, 103.98825073242188}</string>
+					<string>{349, 101.98727416992188}</string>
+					<string>{350, 99.986297607421875}</string>
+					<string>{351.5, 97.985321044921875}</string>
+					<string>{352, 96.484588623046875}</string>
+					<string>{353, 94.483612060546875}</string>
+					<string>{353.5, 92.982879638671875}</string>
+					<string>{354, 90.981903076171875}</string>
+					<string>{355, 89.481170654296875}</string>
+					<string>{355, 88.480682373046875}</string>
+					<string>{355.5, 87.480194091796875}</string>
+					<string>{355.5, 86.479705810546875}</string>
+					<string>{356, 85.979461669921875}</string>
+					<string>{356, 85.979461669921875}</string>
+					<string>{356, 85.479217529296875}</string>
+					<string>{356, 85.479217529296875}</string>
+					<string>{356, 85.479217529296875}</string>
+					<string>{356, 85.479217529296875}</string>
+					<string>{356, 85.979461669921875}</string>
+					<string>{356, 86.979949951171875}</string>
+					<string>{355.5, 87.480194091796875}</string>
+				</array>
+				<key>width</key>
+				<integer>4</integer>
+			</dict>
+			<dict>
+				<key>color_rgb</key>
+				<integer>16711680</integer>
+				<key>opacity</key>
+				<real>1</real>
+				<key>px1</key>
+				<real>374</real>
+				<key>px2</key>
+				<real>395</real>
+				<key>py1</key>
+				<real>92.982879638671875</real>
+				<key>py2</key>
+				<real>125.49874877929688</real>
+				<key>touch_list</key>
+				<array>
+					<string>{375.5, 96.984832763671875}</string>
+					<string>{375.5, 96.984832763671875}</string>
+					<string>{375.5, 96.984832763671875}</string>
+					<string>{375, 96.984832763671875}</string>
+					<string>{374.5, 96.984832763671875}</string>
+					<string>{374.5, 96.984832763671875}</string>
+					<string>{374.5, 96.984832763671875}</string>
+					<string>{374, 96.984832763671875}</string>
+					<string>{374, 96.984832763671875}</string>
+					<string>{374, 97.485076904296875}</string>
+					<string>{374, 97.485076904296875}</string>
+					<string>{374, 98.485565185546875}</string>
+					<string>{374, 98.985809326171875}</string>
+					<string>{374, 99.486053466796875}</string>
+					<string>{374, 99.986297607421875}</string>
+					<string>{374, 100.98678588867188}</string>
+					<string>{374, 101.98727416992188}</string>
+					<string>{374.5, 102.48751831054688}</string>
+					<string>{374.5, 103.48800659179688}</string>
+					<string>{375, 104.48849487304688}</string>
+					<string>{375, 105.48898315429688}</string>
+					<string>{375.5, 106.48947143554688}</string>
+					<string>{376, 107.99020385742188}</string>
+					<string>{376.5, 108.99069213867188}</string>
+					<string>{377, 110.49142456054688}</string>
+					<string>{377.5, 111.99215698242188}</string>
+					<string>{378, 112.99264526367188}</string>
+					<string>{378.5, 114.49337768554688}</string>
+					<string>{379, 115.49386596679688}</string>
+					<string>{380, 116.99459838867188}</string>
+					<string>{380.5, 117.99508666992188}</string>
+					<string>{381, 118.99557495117188}</string>
+					<string>{382, 119.99606323242188}</string>
+					<string>{382.5, 120.99655151367188}</string>
+					<string>{383, 121.99703979492188}</string>
+					<string>{383.5, 122.99752807617188}</string>
+					<string>{384.5, 123.49777221679688}</string>
+					<string>{385, 123.99801635742188}</string>
+					<string>{385.5, 124.49826049804688}</string>
+					<string>{386, 124.99850463867188}</string>
+					<string>{386.5, 125.49874877929688}</string>
+					<string>{387, 125.49874877929688}</string>
+					<string>{387.5, 125.49874877929688}</string>
+					<string>{388, 125.49874877929688}</string>
+					<string>{388.5, 125.49874877929688}</string>
+					<string>{388.5, 125.49874877929688}</string>
+					<string>{389, 125.49874877929688}</string>
+					<string>{389.5, 125.49874877929688}</string>
+					<string>{389.5, 124.99850463867188}</string>
+					<string>{390, 124.99850463867188}</string>
+					<string>{390, 124.49826049804688}</string>
+					<string>{390.5, 124.49826049804688}</string>
+					<string>{390.5, 123.99801635742188}</string>
+					<string>{391, 123.49777221679688}</string>
+					<string>{391, 122.49728393554688}</string>
+					<string>{391.5, 121.99703979492188}</string>
+					<string>{391.5, 120.99655151367188}</string>
+					<string>{392, 119.99606323242188}</string>
+					<string>{392, 118.49533081054688}</string>
+					<string>{392.5, 116.99459838867188}</string>
+					<string>{392.5, 115.49386596679688}</string>
+					<string>{393, 113.99313354492188}</string>
+					<string>{393, 111.99215698242188}</string>
+					<string>{393.5, 110.49142456054688}</string>
+					<string>{393.5, 108.49044799804688}</string>
+					<string>{394, 106.98971557617188}</string>
+					<string>{394, 104.98873901367188}</string>
+					<string>{394, 103.48800659179688}</string>
+					<string>{394.5, 101.98727416992188}</string>
+					<string>{394.5, 99.986297607421875}</string>
+					<string>{394.5, 98.985809326171875}</string>
+					<string>{394.5, 97.485076904296875}</string>
+					<string>{394.5, 96.484588623046875}</string>
+					<string>{394.5, 95.484100341796875}</string>
+					<string>{394.5, 94.483612060546875}</string>
+					<string>{394.5, 93.983367919921875}</string>
+					<string>{394.5, 93.483123779296875}</string>
+					<string>{394.5, 93.483123779296875}</string>
+					<string>{394.5, 92.982879638671875}</string>
+					<string>{394.5, 92.982879638671875}</string>
+					<string>{394.5, 92.982879638671875}</string>
+					<string>{394.5, 93.483123779296875}</string>
+					<string>{394.5, 94.483612060546875}</string>
+					<string>{394.5, 95.484100341796875}</string>
+					<string>{394.5, 96.484588623046875}</string>
+					<string>{394.5, 97.985321044921875}</string>
+					<string>{395, 99.486053466796875}</string>
+				</array>
+				<key>width</key>
+				<integer>4</integer>
+			</dict>
+			<dict>
+				<key>color_rgb</key>
+				<integer>16711680</integer>
+				<key>opacity</key>
+				<real>1</real>
+				<key>px1</key>
+				<real>406</real>
+				<key>px2</key>
+				<real>425</real>
+				<key>py1</key>
+				<real>99.486053466796875</real>
+				<key>py2</key>
+				<real>120.99655151367188</real>
+				<key>touch_list</key>
+				<array>
+					<string>{407, 116.49435424804688}</string>
+					<string>{407, 116.49435424804688}</string>
+					<string>{407, 115.49386596679688}</string>
+					<string>{406.5, 114.49337768554688}</string>
+					<string>{406, 113.49288940429688}</string>
+					<string>{406, 112.99264526367188}</string>
+					<string>{406, 112.49240112304688}</string>
+					<string>{406, 111.99215698242188}</string>
+					<string>{406, 111.49191284179688}</string>
+					<string>{406, 110.99166870117188}</string>
+					<string>{406, 110.49142456054688}</string>
+					<string>{406, 109.99118041992188}</string>
+					<string>{406.5, 109.49093627929688}</string>
+					<string>{406.5, 108.99069213867188}</string>
+					<string>{406.5, 108.49044799804688}</string>
+					<string>{406.5, 107.99020385742188}</string>
+					<string>{407, 107.48995971679688}</string>
+					<string>{407, 106.48947143554688}</string>
+					<string>{407, 105.48898315429688}</string>
+					<string>{407.5, 104.48849487304688}</string>
+					<string>{407.5, 103.48800659179688}</string>
+					<string>{407.5, 102.98776245117188}</string>
+					<string>{407.5, 101.98727416992188}</string>
+					<string>{407.5, 101.48703002929688}</string>
+					<string>{407.5, 100.98678588867188}</string>
+					<string>{407.5, 100.48654174804688}</string>
+					<string>{407.5, 100.48654174804688}</string>
+					<string>{408, 99.986297607421875}</string>
+					<string>{408, 99.986297607421875}</string>
+					<string>{408, 99.486053466796875}</string>
+					<string>{408, 99.486053466796875}</string>
+					<string>{408, 99.486053466796875}</string>
+					<string>{408, 99.486053466796875}</string>
+					<string>{408, 99.486053466796875}</string>
+					<string>{408, 99.486053466796875}</string>
+					<string>{408, 99.486053466796875}</string>
+					<string>{408.5, 99.486053466796875}</string>
+					<string>{408.5, 99.986297607421875}</string>
+					<string>{409, 100.48654174804688}</string>
+					<string>{409.5, 100.98678588867188}</string>
+					<string>{410, 101.98727416992188}</string>
+					<string>{410.5, 102.98776245117188}</string>
+					<string>{411, 104.48849487304688}</string>
+					<string>{412, 105.48898315429688}</string>
+					<string>{413, 106.98971557617188}</string>
+					<string>{413.5, 107.99020385742188}</string>
+					<string>{414.5, 109.49093627929688}</string>
+					<string>{415.5, 110.99166870117188}</string>
+					<string>{416.5, 111.99215698242188}</string>
+					<string>{417.5, 113.49288940429688}</string>
+					<string>{418.5, 114.49337768554688}</string>
+					<string>{419.5, 115.99411010742188}</string>
+					<string>{420.5, 116.99459838867188}</string>
+					<string>{421, 117.99508666992188}</string>
+					<string>{422, 118.99557495117188}</string>
+					<string>{422.5, 119.49581909179688}</string>
+					<string>{423.5, 119.99606323242188}</string>
+					<string>{424, 120.49630737304688}</string>
+					<string>{424.5, 120.49630737304688}</string>
+					<string>{424.5, 120.99655151367188}</string>
+					<string>{425, 120.99655151367188}</string>
+				</array>
+				<key>width</key>
+				<integer>4</integer>
+			</dict>
+			<dict>
+				<key>color_rgb</key>
+				<integer>16711680</integer>
+				<key>opacity</key>
+				<real>1</real>
+				<key>px1</key>
+				<real>400.5</real>
+				<key>px2</key>
+				<real>416</real>
+				<key>py1</key>
+				<real>113.99313354492188</real>
+				<key>py2</key>
+				<real>117.99508666992188</real>
+				<key>touch_list</key>
+				<array>
+					<string>{400.5, 116.99459838867188}</string>
+					<string>{400.5, 116.99459838867188}</string>
+					<string>{400.5, 116.99459838867188}</string>
+					<string>{400.5, 115.99411010742188}</string>
+					<string>{401, 114.99362182617188}</string>
+					<string>{402, 114.49337768554688}</string>
+					<string>{403, 113.99313354492188}</string>
+					<string>{404.5, 113.99313354492188}</string>
+					<string>{406, 113.99313354492188}</string>
+					<string>{407.5, 113.99313354492188}</string>
+					<string>{409, 114.49337768554688}</string>
+					<string>{410.5, 115.49386596679688}</string>
+					<string>{412, 115.99411010742188}</string>
+					<string>{413.5, 116.49435424804688}</string>
+					<string>{414.5, 116.99459838867188}</string>
+					<string>{416, 117.99508666992188}</string>
+				</array>
+				<key>width</key>
+				<integer>4</integer>
+			</dict>
+			<dict>
+				<key>color_rgb</key>
+				<integer>16711680</integer>
+				<key>opacity</key>
+				<real>1</real>
+				<key>px1</key>
+				<real>428</real>
+				<key>px2</key>
+				<real>452.5</real>
+				<key>py1</key>
+				<real>95.484100341796875</real>
+				<key>py2</key>
+				<real>114.99362182617188</real>
+				<key>touch_list</key>
+				<array>
+					<string>{430.5, 105.98922729492188}</string>
+					<string>{430.5, 105.98922729492188}</string>
+					<string>{431, 105.98922729492188}</string>
+					<string>{431, 105.98922729492188}</string>
+					<string>{431, 105.98922729492188}</string>
+					<string>{431, 105.98922729492188}</string>
+					<string>{431, 105.98922729492188}</string>
+					<string>{431, 105.98922729492188}</string>
+					<string>{431, 105.98922729492188}</string>
+					<string>{431, 105.98922729492188}</string>
+					<string>{430.5, 106.48947143554688}</string>
+					<string>{430.5, 106.98971557617188}</string>
+					<string>{430, 107.48995971679688}</string>
+					<string>{430, 107.99020385742188}</string>
+					<string>{429.5, 107.99020385742188}</string>
+					<string>{429.5, 108.99069213867188}</string>
+					<string>{429, 109.49093627929688}</string>
+					<string>{429, 109.99118041992188}</string>
+					<string>{429, 110.99166870117188}</string>
+					<string>{428.5, 111.49191284179688}</string>
+					<string>{428.5, 111.99215698242188}</string>
+					<string>{428.5, 112.49240112304688}</string>
+					<string>{428.5, 112.99264526367188}</string>
+					<string>{428.5, 113.49288940429688}</string>
+					<string>{428.5, 113.99313354492188}</string>
+					<string>{428.5, 114.49337768554688}</string>
+					<string>{428.5, 114.49337768554688}</string>
+					<string>{428.5, 114.49337768554688}</string>
+					<string>{428.5, 114.99362182617188}</string>
+					<string>{428.5, 114.99362182617188}</string>
+					<string>{428.5, 114.99362182617188}</string>
+					<string>{428.5, 114.99362182617188}</string>
+					<string>{428.5, 114.99362182617188}</string>
+					<string>{428.5, 114.99362182617188}</string>
+					<string>{428, 114.49337768554688}</string>
+					<string>{428, 113.99313354492188}</string>
+					<string>{428, 113.49288940429688}</string>
+					<string>{428, 112.99264526367188}</string>
+					<string>{428, 112.49240112304688}</string>
+					<string>{428, 112.49240112304688}</string>
+					<string>{428, 111.99215698242188}</string>
+					<string>{428, 111.49191284179688}</string>
+					<string>{428, 110.99166870117188}</string>
+					<string>{428, 110.49142456054688}</string>
+					<string>{428, 109.99118041992188}</string>
+					<string>{428, 109.49093627929688}</string>
+					<string>{428, 108.49044799804688}</string>
+					<string>{428.5, 107.99020385742188}</string>
+					<string>{428.5, 107.48995971679688}</string>
+					<string>{428.5, 106.98971557617188}</string>
+					<string>{429, 106.48947143554688}</string>
+					<string>{429, 105.98922729492188}</string>
+					<string>{429, 105.48898315429688}</string>
+					<string>{429.5, 104.98873901367188}</string>
+					<string>{429.5, 104.48849487304688}</string>
+					<string>{430, 103.98825073242188}</string>
+					<string>{430, 103.48800659179688}</string>
+					<string>{430, 102.98776245117188}</string>
+					<string>{430.5, 102.48751831054688}</string>
+					<string>{430.5, 101.98727416992188}</string>
+					<string>{430.5, 101.98727416992188}</string>
+					<string>{430.5, 101.48703002929688}</string>
+					<string>{430.5, 100.98678588867188}</string>
+					<string>{430.5, 100.98678588867188}</string>
+					<string>{431, 100.48654174804688}</string>
+					<string>{431, 100.48654174804688}</string>
+					<string>{431, 100.48654174804688}</string>
+					<string>{431, 99.986297607421875}</string>
+					<string>{431, 99.986297607421875}</string>
+					<string>{431, 99.986297607421875}</string>
+					<string>{431, 99.986297607421875}</string>
+					<string>{431, 99.986297607421875}</string>
+					<string>{431, 99.986297607421875}</string>
+					<string>{431, 99.986297607421875}</string>
+					<string>{431, 99.986297607421875}</string>
+					<string>{431, 99.986297607421875}</string>
+					<string>{431.5, 99.986297607421875}</string>
+					<string>{431.5, 99.986297607421875}</string>
+					<string>{431.5, 99.986297607421875}</string>
+					<string>{432, 99.986297607421875}</string>
+					<string>{432, 100.48654174804688}</string>
+					<string>{432.5, 100.48654174804688}</string>
+					<string>{432.5, 100.98678588867188}</string>
+					<string>{433, 101.48703002929688}</string>
+					<string>{433, 101.98727416992188}</string>
+					<string>{433.5, 102.48751831054688}</string>
+					<string>{434, 102.98776245117188}</string>
+					<string>{434, 103.98825073242188}</string>
+					<string>{434.5, 104.48849487304688}</string>
+					<string>{435, 105.48898315429688}</string>
+					<string>{435.5, 106.48947143554688}</string>
+					<string>{435.5, 106.98971557617188}</string>
+					<string>{436, 107.99020385742188}</string>
+					<string>{436.5, 108.49044799804688}</string>
+					<string>{437, 109.49093627929688}</string>
+					<string>{437, 109.99118041992188}</string>
+					<string>{437.5, 110.49142456054688}</string>
+					<string>{438, 110.99166870117188}</string>
+					<string>{438, 110.99166870117188}</string>
+					<string>{438, 110.99166870117188}</string>
+					<string>{438.5, 111.49191284179688}</string>
+					<string>{438.5, 111.49191284179688}</string>
+					<string>{439, 111.49191284179688}</string>
+					<string>{439, 111.49191284179688}</string>
+					<string>{439.5, 111.49191284179688}</string>
+					<string>{440, 110.99166870117188}</string>
+					<string>{440, 110.49142456054688}</string>
+					<string>{440.5, 109.99118041992188}</string>
+					<string>{441, 108.99069213867188}</string>
+					<string>{441, 108.49044799804688}</string>
+					<string>{441.5, 107.48995971679688}</string>
+					<string>{441.5, 106.48947143554688}</string>
+					<string>{441.5, 105.48898315429688}</string>
+					<string>{442, 104.48849487304688}</string>
+					<string>{442, 103.48800659179688}</string>
+					<string>{442, 101.98727416992188}</string>
+					<string>{442.5, 100.98678588867188}</string>
+					<string>{442.5, 99.986297607421875}</string>
+					<string>{442.5, 98.985809326171875}</string>
+					<string>{443, 97.985321044921875}</string>
+					<string>{443, 96.984832763671875}</string>
+					<string>{443, 96.484588623046875}</string>
+					<string>{443, 95.984344482421875}</string>
+					<string>{443, 95.484100341796875}</string>
+					<string>{443.5, 95.484100341796875}</string>
+					<string>{443.5, 95.484100341796875}</string>
+					<string>{443.5, 95.484100341796875}</string>
+					<string>{443.5, 95.484100341796875}</string>
+					<string>{443.5, 95.484100341796875}</string>
+					<string>{444, 95.484100341796875}</string>
+					<string>{444, 95.484100341796875}</string>
+					<string>{444, 95.984344482421875}</string>
+					<string>{444.5, 96.484588623046875}</string>
+					<string>{444.5, 96.984832763671875}</string>
+					<string>{445, 97.485076904296875}</string>
+					<string>{445.5, 98.485565185546875}</string>
+					<string>{446, 99.486053466796875}</string>
+					<string>{446, 100.48654174804688}</string>
+					<string>{446.5, 101.48703002929688}</string>
+					<string>{447, 102.98776245117188}</string>
+					<string>{448, 103.98825073242188}</string>
+					<string>{448.5, 105.48898315429688}</string>
+					<string>{449, 106.98971557617188}</string>
+					<string>{449.5, 107.99020385742188}</string>
+					<string>{450, 109.49093627929688}</string>
+					<string>{450.5, 110.49142456054688}</string>
+					<string>{451, 111.49191284179688}</string>
+					<string>{451.5, 112.49240112304688}</string>
+					<string>{452.5, 113.49288940429688}</string>
+				</array>
+				<key>width</key>
+				<integer>4</integer>
+			</dict>
+			<dict>
+				<key>color_rgb</key>
+				<integer>16711680</integer>
+				<key>opacity</key>
+				<real>1</real>
+				<key>px1</key>
+				<real>465.5</real>
+				<key>px2</key>
+				<real>472</real>
+				<key>py1</key>
+				<real>98.985809326171875</real>
+				<key>py2</key>
+				<real>124.49826049804688</real>
+				<key>touch_list</key>
+				<array>
+					<string>{465.5, 98.985809326171875}</string>
+					<string>{465.5, 98.985809326171875}</string>
+					<string>{465.5, 99.486053466796875}</string>
+					<string>{465.5, 99.486053466796875}</string>
+					<string>{465.5, 99.486053466796875}</string>
+					<string>{465.5, 99.486053466796875}</string>
+					<string>{466, 99.486053466796875}</string>
+					<string>{466.5, 99.986297607421875}</string>
+					<string>{466.5, 100.48654174804688}</string>
+					<string>{467, 101.48703002929688}</string>
+					<string>{467.5, 102.48751831054688}</string>
+					<string>{468, 103.48800659179688}</string>
+					<string>{468, 104.98873901367188}</string>
+					<string>{468.5, 106.48947143554688}</string>
+					<string>{468.5, 107.48995971679688}</string>
+					<string>{469, 109.49093627929688}</string>
+					<string>{469, 110.99166870117188}</string>
+					<string>{469.5, 112.49240112304688}</string>
+					<string>{469.5, 113.49288940429688}</string>
+					<string>{470, 114.99362182617188}</string>
+					<string>{470, 116.49435424804688}</string>
+					<string>{470.5, 117.49484252929688}</string>
+					<string>{470.5, 118.99557495117188}</string>
+					<string>{471, 119.99606323242188}</string>
+					<string>{471, 120.99655151367188}</string>
+					<string>{471.5, 121.99703979492188}</string>
+					<string>{471.5, 122.49728393554688}</string>
+					<string>{471.5, 123.49777221679688}</string>
+					<string>{472, 123.99801635742188}</string>
+					<string>{472, 123.99801635742188}</string>
+					<string>{472, 124.49826049804688}</string>
+					<string>{472, 124.49826049804688}</string>
+					<string>{472, 124.49826049804688}</string>
+					<string>{472, 124.49826049804688}</string>
+					<string>{472, 123.99801635742188}</string>
+					<string>{472, 123.49777221679688}</string>
+					<string>{471.5, 122.49728393554688}</string>
+					<string>{471, 121.99703979492188}</string>
+					<string>{470.5, 120.99655151367188}</string>
+				</array>
+				<key>width</key>
+				<integer>4</integer>
+			</dict>
+			<dict>
+				<key>color_rgb</key>
+				<integer>16711680</integer>
+				<key>opacity</key>
+				<real>1</real>
+				<key>px1</key>
+				<real>459.5</real>
+				<key>px2</key>
+				<real>473.5</real>
+				<key>py1</key>
+				<real>95.984344482421875</real>
+				<key>py2</key>
+				<real>114.49337768554688</real>
+				<key>touch_list</key>
+				<array>
+					<string>{460, 97.485076904296875}</string>
+					<string>{460, 97.485076904296875}</string>
+					<string>{460, 96.984832763671875}</string>
+					<string>{459.5, 96.484588623046875}</string>
+					<string>{459.5, 95.984344482421875}</string>
+					<string>{459.5, 95.984344482421875}</string>
+					<string>{459.5, 95.984344482421875}</string>
+					<string>{459.5, 95.984344482421875}</string>
+					<string>{459.5, 95.984344482421875}</string>
+					<string>{459.5, 95.984344482421875}</string>
+					<string>{460, 95.984344482421875}</string>
+					<string>{460.5, 95.984344482421875}</string>
+					<string>{460.5, 95.984344482421875}</string>
+					<string>{461, 96.484588623046875}</string>
+					<string>{461.5, 96.484588623046875}</string>
+					<string>{462, 96.984832763671875}</string>
+					<string>{462.5, 96.984832763671875}</string>
+					<string>{463, 97.485076904296875}</string>
+					<string>{463.5, 97.485076904296875}</string>
+					<string>{464.5, 97.985321044921875}</string>
+					<string>{465, 97.985321044921875}</string>
+					<string>{466, 97.985321044921875}</string>
+					<string>{466.5, 98.485565185546875}</string>
+					<string>{467.5, 98.485565185546875}</string>
+					<string>{468, 98.485565185546875}</string>
+					<string>{469, 98.985809326171875}</string>
+					<string>{469.5, 98.985809326171875}</string>
+					<string>{470, 98.985809326171875}</string>
+					<string>{470.5, 98.985809326171875}</string>
+					<string>{471, 99.486053466796875}</string>
+					<string>{471.5, 99.486053466796875}</string>
+					<string>{472, 99.486053466796875}</string>
+					<string>{472.5, 99.486053466796875}</string>
+					<string>{472.5, 99.986297607421875}</string>
+					<string>{473, 99.986297607421875}</string>
+					<string>{473, 99.986297607421875}</string>
+					<string>{473, 100.48654174804688}</string>
+					<string>{473.5, 100.98678588867188}</string>
+					<string>{473.5, 101.98727416992188}</string>
+					<string>{473.5, 102.98776245117188}</string>
+					<string>{473.5, 103.98825073242188}</string>
+					<string>{473, 104.98873901367188}</string>
+					<string>{472.5, 105.98922729492188}</string>
+					<string>{472, 107.48995971679688}</string>
+					<string>{471, 108.49044799804688}</string>
+					<string>{470, 109.49093627929688}</string>
+					<string>{469.5, 110.49142456054688}</string>
+					<string>{468.5, 111.49191284179688}</string>
+					<string>{467.5, 111.99215698242188}</string>
+					<string>{466, 112.99264526367188}</string>
+					<string>{465.5, 113.99313354492188}</string>
+					<string>{464, 114.49337768554688}</string>
+				</array>
+				<key>width</key>
+				<integer>4</integer>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>

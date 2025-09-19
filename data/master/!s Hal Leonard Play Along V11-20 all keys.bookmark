@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>1~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Vol. 11 - Rodgers &amp; Hart Favorites.pdf</string>
+	<string>2~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~BEWITCHED_C</string>
+	<string>3~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~THE BLUE ROOM_C</string>
+	<string>4~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~DANCING ON THE CEILING_C</string>
+	<string>5~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~I COULD WRITE A BOOK_C</string>
+	<string>6~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~HAVE YOU MET MISS JONES_C</string>
+	<string>8~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~THE LADY IS A TRAMP_C</string>
+	<string>10~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~LITTLE GIRL BLUE_C</string>
+	<string>12~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~MY ROMANCE_C</string>
+	<string>14~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~THERE'S A SMALL HOTEL_C</string>
+	<string>16~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~YOU ARE TOO BEAUTIFUL_C</string>
+	<string>18~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~BEWITCHED_Bb</string>
+	<string>19~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~THE BLUE ROOM_Bb</string>
+	<string>20~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~DANCING ON THE CEILING_Bb</string>
+	<string>21~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~I COULD WRITE A BOOK_Bb</string>
+	<string>22~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~HAVE YOU MET MISS JONES_Bb</string>
+	<string>24~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~THE LADY IS A TRAMP_Bb</string>
+	<string>26~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~LITTLE GIRL BLUE_Bb</string>
+	<string>28~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~MY ROMANCE_Bb</string>
+	<string>30~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~THERE'S A SMALL HOTEL_Bb</string>
+	<string>32~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~YOU ARE TOO BEAUTIFUL_Bb</string>
+	<string>34~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~BEWITCHED_Eb</string>
+	<string>35~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~THE BLUE ROOM_Eb</string>
+	<string>36~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~DANCING ON THE CEILING_Eb</string>
+	<string>37~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~I COULD WRITE A BOOK_Eb</string>
+	<string>38~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~HAVE YOU MET MISS JONES_Eb</string>
+	<string>40~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~THE LADY IS A TRAMP_Eb</string>
+	<string>42~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~LITTLE GIRL BLUE_Eb</string>
+	<string>44~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~MY ROMANCE_Eb</string>
+	<string>46~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~THERE'S A SMALL HOTEL_Eb</string>
+	<string>48~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~YOU ARE TOO BEAUTIFUL_Eb</string>
+	<string>50~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~BEWITCHED_Bass Clef</string>
+	<string>51~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~THE BLUE ROOM_Bass Clef</string>
+	<string>52~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~DANCING ON THE CEILING_Bass Clef</string>
+	<string>53~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~I COULD WRITE A BOOK_Bass Clef</string>
+	<string>54~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~HAVE YOU MET MISS JONES_Bass Clef</string>
+	<string>56~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~THE LADY IS A TRAMP_Bass Clef</string>
+	<string>58~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~LITTLE GIRL BLUE_Bass Clef</string>
+	<string>60~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~MY ROMANCE_Bass Clef</string>
+	<string>62~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~THERE'S A SMALL HOTEL_Bass Clef</string>
+	<string>64~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~YOU ARE TOO BEAUTIFUL_Bass Clef</string>
+	<string>66~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Lyrics: 10 Rodger &amp; Hart Favorites</string>
+	<string>70~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Vol. 12 - Essential Jazz Classics</string>
+	<string>71~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Airegin_C</string>
+	<string>72~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~The Frim Fram Sauce_C</string>
+	<string>73~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Ceora_C</string>
+	<string>75~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Israel_C</string>
+	<string>76~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Milestones_C</string>
+	<string>77~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Nefertiti_C</string>
+	<string>78~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Red Clay_C</string>
+	<string>79~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Take Five_C</string>
+	<string>81~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Satin Doll_C</string>
+	<string>83~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Song For My Father_C</string>
+	<string>84~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Airegin_Bb</string>
+	<string>85~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~The Frim Fram Sauce_Bb</string>
+	<string>86~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Ceora_Bb</string>
+	<string>88~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Israel_Bb</string>
+	<string>89~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Milestones_Bb</string>
+	<string>90~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Nefertiti_Bb</string>
+	<string>91~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Red Clay_Bb</string>
+	<string>92~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Take Five_Bb</string>
+	<string>94~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Satin Doll_Bb</string>
+	<string>96~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Song For My Father_Bb</string>
+	<string>97~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Airegin_Eb</string>
+	<string>98~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~The Frim Fram Sauce_Eb</string>
+	<string>99~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Ceora_Eb</string>
+	<string>101~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Israel_Eb</string>
+	<string>102~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Milestones_Eb</string>
+	<string>103~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Nefertiti_Eb</string>
+	<string>104~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Red Clay_Eb</string>
+	<string>105~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Take Five_Eb</string>
+	<string>107~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Satin Doll_Eb</string>
+	<string>109~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Song For My Father_Eb</string>
+	<string>110~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Airegin_Bass Clef</string>
+	<string>111~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~The Frim Fram Sauce_Bass Clef</string>
+	<string>112~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Ceora_Bass Clef</string>
+	<string>114~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Israel_Bass Clef</string>
+	<string>115~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Milestones_Bass Clef</string>
+	<string>116~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Nefertiti_Bass Clef</string>
+	<string>117~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Red Clay_Bass Clef</string>
+	<string>118~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Take Five_Bass Clef</string>
+	<string>120~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Satin Doll_Bass Clef</string>
+	<string>122~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Song For My Father_Bass Clef</string>
+	<string>123~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Vol. 13 - John Coltrane</string>
+	<string>124~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Blue Train_C</string>
+	<string>125~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Countdown_C</string>
+	<string>126~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Cousin Mary_C</string>
+	<string>127~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Equinox_C</string>
+	<string>128~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Giant Steps_C</string>
+	<string>129~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Impressions_C</string>
+	<string>130~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Lazy Bird_C</string>
+	<string>132~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Moment's Noice_C</string>
+	<string>134~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Mr. P.C._C</string>
+	<string>135~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Naima_C</string>
+	<string>136~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Blue Train_Bb</string>
+	<string>137~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Countdown_Bb</string>
+	<string>138~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Cousin Mary_Bb</string>
+	<string>139~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Equinox_Bb</string>
+	<string>140~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Giant Steps_Bb</string>
+	<string>141~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Impressions_Bb</string>
+	<string>142~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Lazy Bird_Bb</string>
+	<string>144~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Moment's Noice_Bb</string>
+	<string>146~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Mr. P.C._Bb</string>
+	<string>147~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Naima_Bb</string>
+	<string>148~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Blue Train_Eb</string>
+	<string>149~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Countdown_Eb</string>
+	<string>150~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Cousin Mary_Eb</string>
+	<string>151~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Equinox_Eb</string>
+	<string>152~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Giant Steps_Eb</string>
+	<string>153~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Impressions_Eb</string>
+	<string>154~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Lazy Bird_Eb</string>
+	<string>156~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Moment's Noice_Eb</string>
+	<string>158~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Mr. P.C._Eb</string>
+	<string>159~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Naima_Eb</string>
+	<string>160~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Blue Train_Bass Clef</string>
+	<string>161~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Countdown_Bass Clef</string>
+	<string>162~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Cousin Mary_Bass Clef</string>
+	<string>163~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Equinox_Bass Clef</string>
+	<string>164~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Giant Steps_Bass Clef</string>
+	<string>165~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Impressions_Bass Clef</string>
+	<string>166~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Lazy Bird_Bass Clef</string>
+	<string>168~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Moment's Noice_Bass Clef</string>
+	<string>170~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Mr. P.C._Bass Clef</string>
+	<string>171~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Naima_Bass Clef</string>
+	<string>172~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Vol. 14 - Irving Berlin</string>
+	<string>173~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Be Careful, It's My Heart_C</string>
+	<string>175~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Blues Skies_C</string>
+	<string>177~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Change Partners_C</string>
+	<string>179~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Cheek To Cheek_C</string>
+	<string>181~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~I've Got My Love To Keep Me Warm_C</string>
+	<string>183~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Let's Face The Music And Dance_C</string>
+	<string>185~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Steppin'Out With My Baby_C</string>
+	<string>187~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~How Deep Is The Ocean_C</string>
+	<string>188~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~They Say It's Wonderful_C</string>
+	<string>189~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~What'll Do?_C</string>
+	<string>190~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Be Careful, It's My Heart_Bb</string>
+	<string>192~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Blues Skies_Bb</string>
+	<string>194~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Change Partners_Bb</string>
+	<string>196~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Cheek To Cheek_Bb</string>
+	<string>198~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~I've Got My Love To Keep Me Warm_Bb</string>
+	<string>200~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Let's Face The Music And Dance_Bb</string>
+	<string>202~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Steppin'Out With My Baby_Bb</string>
+	<string>204~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~How Deep Is The Ocean_Bb</string>
+	<string>205~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~They Say It's Wonderful_Bb</string>
+	<string>206~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~What'll Do?_Bb</string>
+	<string>207~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Be Careful, It's My Heart_Eb</string>
+	<string>209~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Blues Skies_Eb</string>
+	<string>211~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Change Partners_Eb</string>
+	<string>213~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Cheek To Cheek_Eb</string>
+	<string>215~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~I've Got My Love To Keep Me Warm_Eb</string>
+	<string>217~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Let's Face The Music And Dance_Eb</string>
+	<string>219~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Steppin'Out With My Baby_Eb</string>
+	<string>221~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~How Deep Is The Ocean_Eb</string>
+	<string>222~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~They Say It's Wonderful_Eb</string>
+	<string>223~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~What'll Do?_Eb</string>
+	<string>224~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Be Careful, It's My Heart_Bass Clef</string>
+	<string>226~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Blues Skies_Bass Clef</string>
+	<string>228~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Change Partners_Bass Clef</string>
+	<string>230~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Cheek To Cheek_Bass Clef</string>
+	<string>232~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~I've Got My Love To Keep Me Warm_Bass Clef</string>
+	<string>234~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Let's Face The Music And Dance_Bass Clef</string>
+	<string>236~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Steppin'Out With My Baby_Bass Clef</string>
+	<string>238~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~How Deep Is The Ocean_Bass Clef</string>
+	<string>239~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~They Say It's Wonderful_Bass Clef</string>
+	<string>240~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~What'll Do?_Bass Clef</string>
+	<string>241~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Lyrics: 10 Irving Berlin Classics</string>
+	<string>245~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Vol. 15 - Rodgers &amp; Hammerstein</string>
+	<string>246~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Bali Ha'i_C</string>
+	<string>247~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Do I Love You Because You're Beautiful_C</string>
+	<string>249~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Hello, Young Lovers_C</string>
+	<string>251~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~I Have Dreamed_C</string>
+	<string>253~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~It Might As Well Be Spring_C</string>
+	<string>255~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Love, Look Away_C</string>
+	<string>257~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~My Favorite Things_C</string>
+	<string>259~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~The Surrey With The Fringe On Top_C</string>
+	<string>261~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~The Sweetest Sounds_C</string>
+	<string>263~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Yunger Than Springtime_C</string>
+	<string>265~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Bali Ha'i_Bb</string>
+	<string>266~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Do I Love You Because You're Beautiful_Bb</string>
+	<string>268~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Hello, Young Lovers_Bb</string>
+	<string>270~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~I Have Dreamed_Bb</string>
+	<string>272~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~It Might As Well Be Spring_Bb</string>
+	<string>274~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Love, Look Away_Bb</string>
+	<string>276~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~My Favorite Things_Bb</string>
+	<string>278~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~The Surrey With The Fringe On Top_Bb</string>
+	<string>280~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~The Sweetest Sounds_Bb</string>
+	<string>282~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Yunger Than Springtime_Bb</string>
+	<string>284~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Bali Ha'i_Eb</string>
+	<string>285~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Do I Love You Because You're Beautiful_Eb</string>
+	<string>287~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Hello, Young Lovers_Eb</string>
+	<string>289~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~I Have Dreamed_Eb</string>
+	<string>291~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~It Might As Well Be Spring_Eb</string>
+	<string>293~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Love, Look Away_Eb</string>
+	<string>295~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~My Favorite Things_Eb</string>
+	<string>297~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~The Surrey With The Fringe On Top_Eb</string>
+	<string>299~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~The Sweetest Sounds_Eb</string>
+	<string>301~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Yunger Than Springtime_Eb</string>
+	<string>303~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Bali Ha'i_Bass Clef</string>
+	<string>304~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Do I Love You Because You're Beautiful_Bass Clef</string>
+	<string>306~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Hello, Young Lovers_Bass Clef</string>
+	<string>308~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~I Have Dreamed_Bass Clef</string>
+	<string>310~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~It Might As Well Be Spring_Bass Clef</string>
+	<string>312~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Love, Look Away_Bass Clef</string>
+	<string>314~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~My Favorite Things_Bass Clef</string>
+	<string>316~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~The Surrey With The Fringe On Top_Bass Clef</string>
+	<string>318~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~The Sweetest Sounds_Bass Clef</string>
+	<string>320~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Yunger Than Springtime_Bass Clef</string>
+	<string>322~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Lyrics: 10 Rodgers &amp; Hammerstein Classics</string>
+	<string>326~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Vol. 16 - Cole Porter</string>
+	<string>327~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~All Of You_C</string>
+	<string>329~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~At Long Last Love_C</string>
+	<string>331~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Ev'ry Time We Say Goodbye_C</string>
+	<string>333~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~I Concentrate On You_C</string>
+	<string>335~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~In The Still Of The Night_C</string>
+	<string>337~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~It's All Right With Me_C</string>
+	<string>339~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~It's De-lovely_C</string>
+	<string>341~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~I've Got You Under My Skin_C</string>
+	<string>343~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~You'd Be So Nice To Come Home To_C</string>
+	<string>345~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Easy To Love_C</string>
+	<string>346~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~All Of You_Bb</string>
+	<string>348~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~At Long Last Love_Bb</string>
+	<string>350~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Ev'ry Time We Say Goodbye_Bb</string>
+	<string>352~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~I Concentrate On You_Bb</string>
+	<string>354~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~In The Still Of The Night_Bb</string>
+	<string>356~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~It's All Right With Me_Bb</string>
+	<string>358~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~It's De-lovely_Bb</string>
+	<string>360~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~I've Got You Under My Skin_Bb</string>
+	<string>362~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~You'd Be So Nice To Come Home To_Bb</string>
+	<string>364~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Easy To Love_Bb</string>
+	<string>365~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~All Of You_Eb</string>
+	<string>367~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~At Long Last Love_Eb</string>
+	<string>369~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Ev'ry Time We Say Goodbye_Eb</string>
+	<string>371~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~I Concentrate On You_Eb</string>
+	<string>373~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~In The Still Of The Night_Eb</string>
+	<string>375~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~It's All Right With Me_Eb</string>
+	<string>377~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~It's De-lovely_Eb</string>
+	<string>379~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~I've Got You Under My Skin_Eb</string>
+	<string>381~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~You'd Be So Nice To Come Home To_Eb</string>
+	<string>383~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Easy To Love_Eb</string>
+	<string>384~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~All Of You_Bass Clef</string>
+	<string>386~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~At Long Last Love_Bass Clef</string>
+	<string>388~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Ev'ry Time We Say Goodbye_Bass Clef</string>
+	<string>390~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~I Concentrate On You_Bass Clef</string>
+	<string>392~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~In The Still Of The Night_Bass Clef</string>
+	<string>394~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~It's All Right With Me_Bass Clef</string>
+	<string>396~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~It's De-lovely_Bass Clef</string>
+	<string>398~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~I've Got You Under My Skin_Bass Clef</string>
+	<string>400~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~You'd Be So Nice To Come Home To_Bass Clef</string>
+	<string>402~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Easy To Love_Bass Clef</string>
+	<string>403~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Lyrics: 10 Cole Porter Classics</string>
+	<string>408~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Vol. 17 - Count Basie</string>
+	<string>409~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~All Of Me_C</string>
+	<string>411~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Blues In Hoss Flat_C</string>
+	<string>412~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Jumpin' At The Woodside_C</string>
+	<string>413~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Moten Swing_C</string>
+	<string>415~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Li'l Darlin'_C</string>
+	<string>416~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Cute_C</string>
+	<string>417~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Shiny Stockings_C</string>
+	<string>418~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~One O'Clock Jump_C</string>
+	<string>419~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Until I Met You_C</string>
+	<string>421~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~April Paris_C</string>
+	<string>423~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~All Of Me_Bb</string>
+	<string>425~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Blues In Hoss Flat_Bb</string>
+	<string>426~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Jumpin' At The Woodside_Bb</string>
+	<string>427~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Moten Swing_Bb</string>
+	<string>429~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Li'l Darlin'_Bb</string>
+	<string>430~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Cute_Bb</string>
+	<string>431~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Shiny Stockings_Bb</string>
+	<string>432~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~One O'Clock Jump_Bb</string>
+	<string>433~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Until I Met You_Bb</string>
+	<string>435~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~April Paris_Bb</string>
+	<string>437~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~All Of Me_Eb</string>
+	<string>439~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Blues In Hoss Flat_Eb</string>
+	<string>440~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Jumpin' At The Woodside_Eb</string>
+	<string>441~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Moten Swing_Eb</string>
+	<string>443~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Li'l Darlin'_Eb</string>
+	<string>444~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Cute_Eb</string>
+	<string>445~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Shiny Stockings_Eb</string>
+	<string>446~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~One O'Clock Jump_Eb</string>
+	<string>447~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Until I Met You_Eb</string>
+	<string>449~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~April Paris_Eb</string>
+	<string>451~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~All Of Me_Bass Clef</string>
+	<string>453~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Blues In Hoss Flat_Bass Clef</string>
+	<string>454~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Jumpin' At The Woodside_Bass Clef</string>
+	<string>455~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Moten Swing_Bass Clef</string>
+	<string>457~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Li'l Darlin'_Bass Clef</string>
+	<string>458~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Cute_Bass Clef</string>
+	<string>459~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Shiny Stockings_Bass Clef</string>
+	<string>460~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~One O'Clock Jump_Bass Clef</string>
+	<string>461~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Until I Met You_Bass Clef</string>
+	<string>463~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~April Paris_Bass Clef</string>
+	<string>465~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Vol. 18 - Harold Arlen</string>
+	<string>466~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Ac-Cent-Tchu-Ate The Positive_C</string>
+	<string>467~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~I've Got The World On A String_C</string>
+	<string>468~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~It's Only A Paper Moon_C</string>
+	<string>470~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~If I Only Had A Brain_C</string>
+	<string>472~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~My Shining Hour_C</string>
+	<string>474~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Come Rain Come Shine_C</string>
+	<string>476~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Stormy Weather_C</string>
+	<string>478~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Between The Devil And The Deep Blue Sea_C</string>
+	<string>480~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Over The Rainbow_C</string>
+	<string>482~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~That Old Black Magic_C</string>
+	<string>484~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Ac-Cent-Tchu-Ate The Positive_Bb</string>
+	<string>485~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~I've Got The World On A String_Bb</string>
+	<string>486~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~It's Only A Paper Moon_Bb</string>
+	<string>488~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~If I Only Had A Brain_Bb</string>
+	<string>490~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~My Shining Hour_Bb</string>
+	<string>492~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Come Rain Come Shine_Bb</string>
+	<string>494~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Stormy Weather_Bb</string>
+	<string>496~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Between The Devil And The Deep Blue Sea_Bb</string>
+	<string>498~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Over The Rainbow_Bb</string>
+	<string>500~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~That Old Black Magic_Bb</string>
+	<string>502~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Ac-Cent-Tchu-Ate The Positive_Eb</string>
+	<string>503~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~I've Got The World On A String_Eb</string>
+	<string>504~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~It's Only A Paper Moon_Eb</string>
+	<string>506~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~If I Only Had A Brain_Eb</string>
+	<string>508~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~My Shining Hour_Eb</string>
+	<string>510~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Come Rain Come Shine_Eb</string>
+	<string>512~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Stormy Weather_Eb</string>
+	<string>514~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Between The Devil And The Deep Blue Sea_Eb</string>
+	<string>516~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Over The Rainbow_Eb</string>
+	<string>518~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~That Old Black Magic_Eb</string>
+	<string>520~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Ac-Cent-Tchu-Ate The Positive_Bass Clef</string>
+	<string>521~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~I've Got The World On A String_Bass Clef</string>
+	<string>522~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~It's Only A Paper Moon_Bass Clef</string>
+	<string>524~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~If I Only Had A Brain_Bass Clef</string>
+	<string>526~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~My Shining Hour_Bass Clef</string>
+	<string>528~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Come Rain Come Shine_Bass Clef</string>
+	<string>530~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Stormy Weather_Bass Clef</string>
+	<string>532~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Between The Devil And The Deep Blue Sea_Bass Clef</string>
+	<string>534~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Over The Rainbow_Bass Clef</string>
+	<string>536~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~That Old Black Magic_Bass Clef</string>
+	<string>538~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Lyrics: 10 Harold Arlin Classics</string>
+	<string>542~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Vol. 19 - Cool Jazz</string>
+	<string>543~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Boplicity_C</string>
+	<string>545~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Line For Lyons_C</string>
+	<string>547~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Whisper Not_C</string>
+	<string>549~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Budo_C</string>
+	<string>551~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Waltz For Debby_C</string>
+	<string>553~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Five Brothers_C</string>
+	<string>555~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Walkin' Shoes_C</string>
+	<string>557~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Bernie's Tune_C</string>
+	<string>558~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Django_C</string>
+	<string>559~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Conception_C</string>
+	<string>561~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Bopplicity_Bb</string>
+	<string>563~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Line For Lyons_Bb</string>
+	<string>565~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Whisper Not_Bb</string>
+	<string>567~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Budo_Bb</string>
+	<string>569~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Waltz For Debby_Bb</string>
+	<string>571~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Five Brothers_Bb</string>
+	<string>573~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Walkin' Shoes_Bb</string>
+	<string>575~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Bernie's Tune_Bb</string>
+	<string>576~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Django_Bb</string>
+	<string>577~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Conception_Bb</string>
+	<string>579~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Boplicity_Eb</string>
+	<string>581~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Line For Lyons_Eb</string>
+	<string>583~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Whisper Not_Eb</string>
+	<string>585~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Budo_Eb</string>
+	<string>587~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Waltz For Debby_Eb</string>
+	<string>589~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Five Brothers_Eb</string>
+	<string>591~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Walkin' Shoes_Eb</string>
+	<string>593~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Bernie's Tune_Eb</string>
+	<string>594~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Django_Eb</string>
+	<string>595~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Conception_Eb</string>
+	<string>597~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Boplicity_Bass Clef</string>
+	<string>599~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Line For Lyons_Bass Clef</string>
+	<string>601~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Whisper Not_Bass Clef</string>
+	<string>603~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Budo_Bass Clef</string>
+	<string>605~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Waltz For Debby_Bass Clef</string>
+	<string>607~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Five Brothers_Bass Clef</string>
+	<string>609~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Walkin' Shoes_Bass Clef</string>
+	<string>611~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Bernie's Tune_Bass Clef</string>
+	<string>612~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Django_Bass Clef</string>
+	<string>613~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Conception_Bass Clef</string>
+	<string>615~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Vol. 20 - Herbie Hancock</string>
+	<string>616~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Butterfly_C</string>
+	<string>617~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Canteloupe Island_C</string>
+	<string>618~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Chameleon_C</string>
+	<string>619~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Maiden Voyage_C</string>
+	<string>620~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Dolphin Dance_C</string>
+	<string>622~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~One Finger Snap_C</string>
+	<string>623~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~The Sorcerer_C</string>
+	<string>624~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Tell Me A Bedtime Story_C</string>
+	<string>626~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Watermelon Man_C</string>
+	<string>627~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Butterfly_Bb</string>
+	<string>628~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Canteloupe Island_Bb</string>
+	<string>629~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Chameleon_Bb</string>
+	<string>630~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Maiden Voyage_Bb</string>
+	<string>631~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~One Finger Snap_Bb</string>
+	<string>632~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Dolphin Dance_Bb</string>
+	<string>634~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~The Sorcerer_Bb</string>
+	<string>635~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Watermelon Man_Bb</string>
+	<string>636~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Tell Me A Bedtime Story_Bb</string>
+	<string>638~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Butterfly_Eb</string>
+	<string>639~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Canteloupe Island_Eb</string>
+	<string>640~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Chameleon_Eb</string>
+	<string>641~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Maiden Voyage_Eb</string>
+	<string>642~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Dolphin Dance_Eb</string>
+	<string>644~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~One Finger Snap_Eb</string>
+	<string>645~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~The Sorcerer_Eb</string>
+	<string>646~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Tell Me A Bedtime Story_Eb</string>
+	<string>648~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Watermelon Man_Eb</string>
+	<string>649~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Butterfly_Bass Clef</string>
+	<string>650~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Canteloupe Island_Bass Clef</string>
+	<string>651~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Chameleon_Bass Clef</string>
+	<string>652~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Maiden Voyage_Bass Clef</string>
+	<string>653~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~One Finger Snap_Bass Clef</string>
+	<string>654~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Dolphin Dance_Bass Clef</string>
+	<string>656~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~The Sorcerer_Bass Clef</string>
+	<string>657~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Watermelon Man_Bass Clef</string>
+	<string>658~70~!s Hal Leonard Play Along V11-20 all keys.pdf~2263~0~0~1~Tell Me A Bedtime Story_Bass Clef</string>
+	<string>Bookmark Current Page</string>
+</array>
+</plist>

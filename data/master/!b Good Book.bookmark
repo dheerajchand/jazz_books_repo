@@ -1,0 +1,615 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>641~70~!b Good Book.pdf~2263~0~0~1~(Index: All Tunes)</string>
+	<string>630~70~!b Good Book.pdf~2263~0~0~1~(Index: Ballads)</string>
+	<string>634~70~!b Good Book.pdf~2263~0~0~1~(Index: Jazz)</string>
+	<string>636~70~!b Good Book.pdf~2263~0~0~1~(Index: Latin)</string>
+	<string>632~70~!b Good Book.pdf~2263~0~0~1~(Index: Medium/Up)</string>
+	<string>639~70~!b Good Book.pdf~2263~0~0~1~(Index: Special Occasion)</string>
+	<string>422~70~!b Good Book.pdf~2263~0~0~1~A Felicidade</string>
+	<string>475~70~!b Good Book.pdf~2263~0~0~1~Adios Muchachos</string>
+	<string>287~70~!b Good Book.pdf~2263~0~0~1~Afro Blue</string>
+	<string>575~70~!b Good Book.pdf~2263~0~0~1~After The Lovin'</string>
+	<string>144~70~!b Good Book.pdf~2263~0~0~1~After You've Gone</string>
+	<string>3~70~!b Good Book.pdf~2263~0~0~1~Ain't Misbehavin'</string>
+	<string>512~70~!b Good Book.pdf~2263~0~0~1~Ain't She Sweet</string>
+	<string>288~70~!b Good Book.pdf~2263~0~0~1~Airegin</string>
+	<string>513~70~!b Good Book.pdf~2263~0~0~1~Alexander's Ragtime Band</string>
+	<string>555~70~!b Good Book.pdf~2263~0~0~1~All About Ronnie</string>
+	<string>289~70~!b Good Book.pdf~2263~0~0~1~All Blues</string>
+	<string>145~70~!b Good Book.pdf~2263~0~0~1~All Of Me</string>
+	<string>146~70~!b Good Book.pdf~2263~0~0~1~All of You</string>
+	<string>147~70~!b Good Book.pdf~2263~0~0~1~All Or Nothing At All</string>
+	<string>148~70~!b Good Book.pdf~2263~0~0~1~All The Things You Are</string>
+	<string>514~70~!b Good Book.pdf~2263~0~0~1~Alley Cat</string>
+	<string>149~70~!b Good Book.pdf~2263~0~0~1~Almost Like Being In Love</string>
+	<string>610~70~!b Good Book.pdf~2263~0~0~1~Aloha Oe</string>
+	<string>290~70~!b Good Book.pdf~2263~0~0~1~Along Came Betty</string>
+	<string>480~70~!b Good Book.pdf~2263~0~0~1~Always</string>
+	<string>4~70~!b Good Book.pdf~2263~0~0~1~Am I Blue?</string>
+	<string>622~70~!b Good Book.pdf~2263~0~0~1~America</string>
+	<string>622~70~!b Good Book.pdf~2263~0~0~1~America The Beautiful</string>
+	<string>456~70~!b Good Book.pdf~2263~0~0~1~Amour</string>
+	<string>5~70~!b Good Book.pdf~2263~0~0~1~Angel Eyes</string>
+	<string>481~70~!b Good Book.pdf~2263~0~0~1~Anniversary Song</string>
+	<string>482~70~!b Good Book.pdf~2263~0~0~1~Anniversary Waltz</string>
+	<string>291~70~!b Good Book.pdf~2263~0~0~1~Anthropology</string>
+	<string>574~70~!b Good Book.pdf~2263~0~0~1~Anytime</string>
+	<string>6~70~!b Good Book.pdf~2263~0~0~1~April In Paris</string>
+	<string>577~70~!b Good Book.pdf~2263~0~0~1~Are You Lonesome Tonight?</string>
+	<string>483~70~!b Good Book.pdf~2263~0~0~1~Around The World</string>
+	<string>603~70~!b Good Book.pdf~2263~0~0~1~Arrivederci, Roma</string>
+	<string>7~70~!b Good Book.pdf~2263~0~0~1~As Time Goes By</string>
+	<string>150~70~!b Good Book.pdf~2263~0~0~1~Ask Me Now</string>
+	<string>292~70~!b Good Book.pdf~2263~0~0~1~Ask Me Now</string>
+	<string>515~70~!b Good Book.pdf~2263~0~0~1~At Sundown</string>
+	<string>293~70~!b Good Book.pdf~2263~0~0~1~Au Privave</string>
+	<string>616~70~!b Good Book.pdf~2263~0~0~1~Auld Lang Syne</string>
+	<string>8~70~!b Good Book.pdf~2263~0~0~1~Autumn In New York</string>
+	<string>151~70~!b Good Book.pdf~2263~0~0~1~Autumn Leaves</string>
+	<string>516~70~!b Good Book.pdf~2263~0~0~1~Avalon</string>
+	<string>517~70~!b Good Book.pdf~2263~0~0~1~Baby Face</string>
+	<string>294~70~!b Good Book.pdf~2263~0~0~1~Bag's Groove</string>
+	<string>518~70~!b Good Book.pdf~2263~0~0~1~Ballin' The Jack</string>
+	<string>519~70~!b Good Book.pdf~2263~0~0~1~Basin Street Blues</string>
+	<string>152~70~!b Good Book.pdf~2263~0~0~1~Beautiful Love</string>
+	<string>9~70~!b Good Book.pdf~2263~0~0~1~Beautiful Love</string>
+	<string>484~70~!b Good Book.pdf~2263~0~0~1~Beautiful Ohio</string>
+	<string>617~70~!b Good Book.pdf~2263~0~0~1~Beer Barrel Polka</string>
+	<string>153~70~!b Good Book.pdf~2263~0~0~1~Begin The Beguine</string>
+	<string>295~70~!b Good Book.pdf~2263~0~0~1~Bernie's Tune</string>
+	<string>457~70~!b Good Book.pdf~2263~0~0~1~Besame Mucho</string>
+	<string>10~70~!b Good Book.pdf~2263~0~0~1~Bewitched</string>
+	<string>520~70~!b Good Book.pdf~2263~0~0~1~Bill Bailey</string>
+	<string>296~70~!b Good Book.pdf~2263~0~0~1~Billie's Bounce</string>
+	<string>297~70~!b Good Book.pdf~2263~0~0~1~Birk's Works</string>
+	<string>521~70~!b Good Book.pdf~2263~0~0~1~Birth Of The Blues</string>
+	<string>423~70~!b Good Book.pdf~2263~0~0~1~Black Orpheus (Manha de Carnaval)</string>
+	<string>458~70~!b Good Book.pdf~2263~0~0~1~Blue Bayou</string>
+	<string>424~70~!b Good Book.pdf~2263~0~0~1~Blue Bossa</string>
+	<string>298~70~!b Good Book.pdf~2263~0~0~1~Blue Daniel</string>
+	<string>611~70~!b Good Book.pdf~2263~0~0~1~Blue Hawaii</string>
+	<string>299~70~!b Good Book.pdf~2263~0~0~1~Blue Monk</string>
+	<string>11~70~!b Good Book.pdf~2263~0~0~1~Blue Moon</string>
+	<string>155~70~!b Good Book.pdf~2263~0~0~1~Blue Room</string>
+	<string>156~70~!b Good Book.pdf~2263~0~0~1~Blue Skies</string>
+	<string>299~70~!b Good Book.pdf~2263~0~0~1~Blue Train</string>
+	<string>300~70~!b Good Book.pdf~2263~0~0~1~Blues For Alice</string>
+	<string>300~70~!b Good Book.pdf~2263~0~0~1~Blues For Philly Joe</string>
+	<string>301~70~!b Good Book.pdf~2263~0~0~1~Blues In The Closet</string>
+	<string>302~70~!b Good Book.pdf~2263~0~0~1~Blues March</string>
+	<string>301~70~!b Good Book.pdf~2263~0~0~1~Blues Walk, The</string>
+	<string>303~70~!b Good Book.pdf~2263~0~0~1~Bluesette</string>
+	<string>12~70~!b Good Book.pdf~2263~0~0~1~Body And Soul</string>
+	<string>504~70~!b Good Book.pdf~2263~0~0~1~Boy Next Door, The</string>
+	<string>469~70~!b Good Book.pdf~2263~0~0~1~Brazil</string>
+	<string>453~70~!b Good Book.pdf~2263~0~0~1~Brown Skin Girl</string>
+	<string>13~70~!b Good Book.pdf~2263~0~0~1~But Beautiful</string>
+	<string>157~70~!b Good Book.pdf~2263~0~0~1~But Not For Me</string>
+	<string>158~70~!b Good Book.pdf~2263~0~0~1~Bye Bye Blackbird</string>
+	<string>522~70~!b Good Book.pdf~2263~0~0~1~Bye Bye Blues</string>
+	<string>305~70~!b Good Book.pdf~2263~0~0~1~C Jam Blues</string>
+	<string>523~70~!b Good Book.pdf~2263~0~0~1~Cabaret</string>
+	<string>159~70~!b Good Book.pdf~2263~0~0~1~Canadian Sunset</string>
+	<string>305~70~!b Good Book.pdf~2263~0~0~1~Cantelope Island</string>
+	<string>306~70~!b Good Book.pdf~2263~0~0~1~Caravan</string>
+	<string>307~70~!b Good Book.pdf~2263~0~0~1~Ceora</string>
+	<string>595~70~!b Good Book.pdf~2263~0~0~1~C'est Magnifique</string>
+	<string>594~70~!b Good Book.pdf~2263~0~0~1~C'est Si Bon</string>
+	<string>309~70~!b Good Book.pdf~2263~0~0~1~Chameleon</string>
+	<string>485~70~!b Good Book.pdf~2263~0~0~1~Charade</string>
+	<string>524~70~!b Good Book.pdf~2263~0~0~1~Charleston</string>
+	<string>486~70~!b Good Book.pdf~2263~0~0~1~Charmaine</string>
+	<string>160~70~!b Good Book.pdf~2263~0~0~1~Chattanooga Choo Choo</string>
+	<string>161~70~!b Good Book.pdf~2263~0~0~1~Cheek To Cheek</string>
+	<string>425~70~!b Good Book.pdf~2263~0~0~1~Chega De Saudade</string>
+	<string>14~70~!b Good Book.pdf~2263~0~0~1~Chelsea Bridge</string>
+	<string>310~70~!b Good Book.pdf~2263~0~0~1~Cherokee</string>
+	<string>444~70~!b Good Book.pdf~2263~0~0~1~Cherry Pink and Apple Blossom White</string>
+	<string>162~70~!b Good Book.pdf~2263~0~0~1~Chicago</string>
+	<string>284~70~!b Good Book.pdf~2263~0~0~1~Child Is Born, A</string>
+	<string>562~70~!b Good Book.pdf~2263~0~0~1~Christmas Song, The</string>
+	<string>605~70~!b Good Book.pdf~2263~0~0~1~Come Back To Sorrento</string>
+	<string>15~70~!b Good Book.pdf~2263~0~0~1~Come Rain Or Come Shine</string>
+	<string>16~70~!b Good Book.pdf~2263~0~0~1~Come Sunday</string>
+	<string>311~70~!b Good Book.pdf~2263~0~0~1~Comin' Home Baby</string>
+	<string>451~70~!b Good Book.pdf~2263~0~0~1~Compadre Pedro Juan</string>
+	<string>312~70~!b Good Book.pdf~2263~0~0~1~Con Alma</string>
+	<string>313~70~!b Good Book.pdf~2263~0~0~1~Confirmation</string>
+	<string>311~70~!b Good Book.pdf~2263~0~0~1~Cool Blues</string>
+	<string>315~70~!b Good Book.pdf~2263~0~0~1~Cottontail</string>
+	<string>487~70~!b Good Book.pdf~2263~0~0~1~Could I Have This Dance?</string>
+	<string>578~70~!b Good Book.pdf~2263~0~0~1~Crazy</string>
+	<string>316~70~!b Good Book.pdf~2263~0~0~1~Crisis</string>
+	<string>17~70~!b Good Book.pdf~2263~0~0~1~Cry Me a River</string>
+	<string>317~70~!b Good Book.pdf~2263~0~0~1~Daahoud</string>
+	<string>163~70~!b Good Book.pdf~2263~0~0~1~Dancing On The Ceiling</string>
+	<string>627~70~!b Good Book.pdf~2263~0~0~1~Danny Boy</string>
+	<string>445~70~!b Good Book.pdf~2263~0~0~1~Dansero</string>
+	<string>525~70~!b Good Book.pdf~2263~0~0~1~Darktown Strutter's Ball</string>
+	<string>19~70~!b Good Book.pdf~2263~0~0~1~Darn That Dream</string>
+	<string>318~70~!b Good Book.pdf~2263~0~0~1~Dat Dere</string>
+	<string>164~70~!b Good Book.pdf~2263~0~0~1~Day By Day</string>
+	<string>165~70~!b Good Book.pdf~2263~0~0~1~Days Of Wine And Roses</string>
+	<string>488~70~!b Good Book.pdf~2263~0~0~1~Dear Heart</string>
+	<string>319~70~!b Good Book.pdf~2263~0~0~1~Dear Old Stockholm</string>
+	<string>166~70~!b Good Book.pdf~2263~0~0~1~Dearly Beloved</string>
+	<string>20~70~!b Good Book.pdf~2263~0~0~1~Deep Purple</string>
+	<string>427~70~!b Good Book.pdf~2263~0~0~1~Desafinado</string>
+	<string>320~70~!b Good Book.pdf~2263~0~0~1~Dig</string>
+	<string>628~70~!b Good Book.pdf~2263~0~0~1~Dindi</string>
+	<string>21~70~!b Good Book.pdf~2263~0~0~1~Django</string>
+	<string>167~70~!b Good Book.pdf~2263~0~0~1~Do Nothing Till You Hear From Me </string>
+	<string>23~70~!b Good Book.pdf~2263~0~0~1~Do You Know What It Means to Miss New Orleans?</string>
+	<string>321~70~!b Good Book.pdf~2263~0~0~1~Dolphin Dance</string>
+	<string>322~70~!b Good Book.pdf~2263~0~0~1~Donna</string>
+	<string>323~70~!b Good Book.pdf~2263~0~0~1~Donna Lee</string>
+	<string>22~70~!b Good Book.pdf~2263~0~0~1~Don't Blame Me</string>
+	<string>168~70~!b Good Book.pdf~2263~0~0~1~Don't Get Around Much Anymore</string>
+	<string>169~70~!b Good Book.pdf~2263~0~0~1~Don't Take Your Love From Me</string>
+	<string>526~70~!b Good Book.pdf~2263~0~0~1~Down By The Riverside</string>
+	<string>325~70~!b Good Book.pdf~2263~0~0~1~Doxy</string>
+	<string>24~70~!b Good Book.pdf~2263~0~0~1~Early Autumn</string>
+	<string>25~70~!b Good Book.pdf~2263~0~0~1~East Of The Sun</string>
+	<string>592~70~!b Good Book.pdf~2263~0~0~1~Easter Parade</string>
+	<string>26~70~!b Good Book.pdf~2263~0~0~1~Easy Living</string>
+	<string>170~70~!b Good Book.pdf~2263~0~0~1~Easy Street</string>
+	<string>27~70~!b Good Book.pdf~2263~0~0~1~Easy To Love</string>
+	<string>171~70~!b Good Book.pdf~2263~0~0~1~Easy To Love</string>
+	<string>489~70~!b Good Book.pdf~2263~0~0~1~Edelweiss</string>
+	<string>527~70~!b Good Book.pdf~2263~0~0~1~Elmer's Tune</string>
+	<string>28~70~!b Good Book.pdf~2263~0~0~1~Embraceable You</string>
+	<string>490~70~!b Good Book.pdf~2263~0~0~1~Emily</string>
+	<string>29~70~!b Good Book.pdf~2263~0~0~1~Everything Happens to Me</string>
+	<string>326~70~!b Good Book.pdf~2263~0~0~1~Eye Of The Hurricane</string>
+	<string>491~70~!b Good Book.pdf~2263~0~0~1~Falling In Love With Love</string>
+	<string>492~70~!b Good Book.pdf~2263~0~0~1~Fascination</string>
+	<string>528~70~!b Good Book.pdf~2263~0~0~1~Five Foot Two</string>
+	<string>327~70~!b Good Book.pdf~2263~0~0~1~Five Hundred (500) Miles High</string>
+	<string>459~70~!b Good Book.pdf~2263~0~0~1~Flamingo</string>
+	<string>172~70~!b Good Book.pdf~2263~0~0~1~Fly Me To The Moon</string>
+	<string>328~70~!b Good Book.pdf~2263~0~0~1~Flying Home</string>
+	<string>142~70~!b Good Book.pdf~2263~0~0~1~Foggy Day, A</string>
+	<string>31~70~!b Good Book.pdf~2263~0~0~1~Fools Rush In</string>
+	<string>329~70~!b Good Book.pdf~2263~0~0~1~Footprints</string>
+	<string>32~70~!b Good Book.pdf~2263~0~0~1~For All We Know</string>
+	<string>579~70~!b Good Book.pdf~2263~0~0~1~For The Good Times</string>
+	<string>330~70~!b Good Book.pdf~2263~0~0~1~Forest Flower</string>
+	<string>331~70~!b Good Book.pdf~2263~0~0~1~Four</string>
+	<string>332~70~!b Good Book.pdf~2263~0~0~1~Freddie Freeloader</string>
+	<string>332~70~!b Good Book.pdf~2263~0~0~1~Freedom Jazz Dance</string>
+	<string>460~70~!b Good Book.pdf~2263~0~0~1~Frenesi</string>
+	<string>173~70~!b Good Book.pdf~2263~0~0~1~From This Moment On</string>
+	<string>563~70~!b Good Book.pdf~2263~0~0~1~Frosty The Snowman</string>
+	<string>429~70~!b Good Book.pdf~2263~0~0~1~Gentle Rain</string>
+	<string>33~70~!b Good Book.pdf~2263~0~0~1~Georgia</string>
+	<string>174~70~!b Good Book.pdf~2263~0~0~1~Get Happy</string>
+	<string>333~70~!b Good Book.pdf~2263~0~0~1~Giant Steps</string>
+	<string>439~70~!b Good Book.pdf~2263~0~0~1~Girl From Ipanema, The</string>
+	<string>34~70~!b Good Book.pdf~2263~0~0~1~Girl Talk</string>
+	<string>117~70~!b Good Book.pdf~2263~0~0~1~Glory Of Love, The</string>
+	<string>35~70~!b Good Book.pdf~2263~0~0~1~God Bless The Child</string>
+	<string>334~70~!b Good Book.pdf~2263~0~0~1~Good Bait</string>
+	<string>335~70~!b Good Book.pdf~2263~0~0~1~Goodbye Pork Pie Hat</string>
+	<string>624~70~!b Good Book.pdf~2263~0~0~1~Grand Old Flag</string>
+	<string>336~70~!b Good Book.pdf~2263~0~0~1~Gravy Waltz</string>
+	<string>175~70~!b Good Book.pdf~2263~0~0~1~Green Dolphin Street, On</string>
+	<string>461~70~!b Good Book.pdf~2263~0~0~1~Green Eyes</string>
+	<string>564~70~!b Good Book.pdf~2263~0~0~1~Greensleeves</string>
+	<string>337~70~!b Good Book.pdf~2263~0~0~1~Groovin' High</string>
+	<string>446~70~!b Good Book.pdf~2263~0~0~1~Guantanamera</string>
+	<string>338~70~!b Good Book.pdf~2263~0~0~1~Half Nelson</string>
+	<string>36~70~!b Good Book.pdf~2263~0~0~1~Harbor Lights</string>
+	<string>37~70~!b Good Book.pdf~2263~0~0~1~Harlem Nocturne</string>
+	<string>607~70~!b Good Book.pdf~2263~0~0~1~Hava Nagilah</string>
+	<string>176~70~!b Good Book.pdf~2263~0~0~1~Have You Met Miss Jones?</string>
+	<string>565~70~!b Good Book.pdf~2263~0~0~1~Have Yourself A Merry Little Christmas</string>
+	<string>612~70~!b Good Book.pdf~2263~0~0~1~Hawaiian Wedding Song</string>
+	<string>529~70~!b Good Book.pdf~2263~0~0~1~Hello Dolly</string>
+	<string>580~70~!b Good Book.pdf~2263~0~0~1~Help Me Make It Through the Night</string>
+	<string>39~70~!b Good Book.pdf~2263~0~0~1~Here's That Rainy Day</string>
+	<string>479~70~!b Good Book.pdf~2263~0~0~1~Hernando's Hideaway</string>
+	<string>581~70~!b Good Book.pdf~2263~0~0~1~Hey, Good Lookin'</string>
+	<string>177~70~!b Good Book.pdf~2263~0~0~1~Honeysuckle Rose</string>
+	<string>178~70~!b Good Book.pdf~2263~0~0~1~How About You?</string>
+	<string>598~70~!b Good Book.pdf~2263~0~0~1~How Are Things in Glocca Morra?</string>
+	<string>40~70~!b Good Book.pdf~2263~0~0~1~How Deep Is The Ocean</string>
+	<string>179~70~!b Good Book.pdf~2263~0~0~1~How High The Moon?</string>
+	<string>430~70~!b Good Book.pdf~2263~0~0~1~How Insensitive</string>
+	<string>41~70~!b Good Book.pdf~2263~0~0~1~How Long Has This Been Going On?</string>
+	<string>42~70~!b Good Book.pdf~2263~0~0~1~I Can't Get Started</string>
+	<string>629~70~!b Good Book.pdf~2263~0~0~1~I Can't Give You Anything But Love</string>
+	<string>582~70~!b Good Book.pdf~2263~0~0~1~I Can't Stop Loving You</string>
+	<string>493~70~!b Good Book.pdf~2263~0~0~1~I Could Have Danced All Night</string>
+	<string>180~70~!b Good Book.pdf~2263~0~0~1~I Could Write A Book</string>
+	<string>43~70~!b Good Book.pdf~2263~0~0~1~I Cover The Waterfront</string>
+	<string>44~70~!b Good Book.pdf~2263~0~0~1~I Don't Know Why</string>
+	<string>45~70~!b Good Book.pdf~2263~0~0~1~I Don't Stand A Ghost of a Chance</string>
+	<string>181~70~!b Good Book.pdf~2263~0~0~1~I Get A Kick Out Of You</string>
+	<string>46~70~!b Good Book.pdf~2263~0~0~1~I Got It Bad</string>
+	<string>183~70~!b Good Book.pdf~2263~0~0~1~I Got Rhythm</string>
+	<string>47~70~!b Good Book.pdf~2263~0~0~1~I Hadn't Anyone Till You</string>
+	<string>184~70~!b Good Book.pdf~2263~0~0~1~I Hear A Rhapsody</string>
+	<string>462~70~!b Good Book.pdf~2263~0~0~1~I Just Called to Say I Love You</string>
+	<string>48~70~!b Good Book.pdf~2263~0~0~1~I Left My Heart in San Francisco</string>
+	<string>185~70~!b Good Book.pdf~2263~0~0~1~I Let A Song Go Out of My Heart</string>
+	<string>186~70~!b Good Book.pdf~2263~0~0~1~I Love Paris</string>
+	<string>187~70~!b Good Book.pdf~2263~0~0~1~I Love You</string>
+	<string>188~70~!b Good Book.pdf~2263~0~0~1~I Only Have Eyes For You</string>
+	<string>49~70~!b Good Book.pdf~2263~0~0~1~I Only Have Eyes For You</string>
+	<string>65~70~!b Good Book.pdf~2263~0~0~1~I Remember Clifford</string>
+	<string>189~70~!b Good Book.pdf~2263~0~0~1~I Remember You</string>
+	<string>50~70~!b Good Book.pdf~2263~0~0~1~I Should Care</string>
+	<string>51~70~!b Good Book.pdf~2263~0~0~1~I Thought About You</string>
+	<string>190~70~!b Good Book.pdf~2263~0~0~1~I Wish You Love</string>
+	<string>191~70~!b Good Book.pdf~2263~0~0~1~If I Had You</string>
+	<string>52~70~!b Good Book.pdf~2263~0~0~1~I'll Be Around</string>
+	<string>566~70~!b Good Book.pdf~2263~0~0~1~I'll Be Home For Christmas</string>
+	<string>53~70~!b Good Book.pdf~2263~0~0~1~I'll Be Seeing You</string>
+	<string>54~70~!b Good Book.pdf~2263~0~0~1~I'll Get By</string>
+	<string>192~70~!b Good Book.pdf~2263~0~0~1~I'll Remember April</string>
+	<string>615~70~!b Good Book.pdf~2263~0~0~1~I'll Remember You</string>
+	<string>494~70~!b Good Book.pdf~2263~0~0~1~I'll Take Romance</string>
+	<string>60~70~!b Good Book.pdf~2263~0~0~1~Ill Wind</string>
+	<string>193~70~!b Good Book.pdf~2263~0~0~1~I'm Beginning To See The Light</string>
+	<string>55~70~!b Good Book.pdf~2263~0~0~1~I'm Getting Sentimental Over You</string>
+	<string>56~70~!b Good Book.pdf~2263~0~0~1~I'm Glad There Is You</string>
+	<string>530~70~!b Good Book.pdf~2263~0~0~1~I'm Gonna Sit Right Down and Write Myself A Letter</string>
+	<string>57~70~!b Good Book.pdf~2263~0~0~1~I'm In The Mood For Love</string>
+	<string>194~70~!b Good Book.pdf~2263~0~0~1~I'm Old Fashioned</string>
+	<string>61~70~!b Good Book.pdf~2263~0~0~1~Imagination</string>
+	<string>339~70~!b Good Book.pdf~2263~0~0~1~Impressions</string>
+	<string>195~70~!b Good Book.pdf~2263~0~0~1~In A Mellow Tone</string>
+	<string>62~70~!b Good Book.pdf~2263~0~0~1~In A Sentimental Mood</string>
+	<string>196~70~!b Good Book.pdf~2263~0~0~1~In The Mood</string>
+	<string>63~70~!b Good Book.pdf~2263~0~0~1~In The Wee Small Hours</string>
+	<string>532~70~!b Good Book.pdf~2263~0~0~1~Indiana</string>
+	<string>340~70~!b Good Book.pdf~2263~0~0~1~Inner Urge</string>
+	<string>64~70~!b Good Book.pdf~2263~0~0~1~Invitation</string>
+	<string>599~70~!b Good Book.pdf~2263~0~0~1~Irish Washerwoman</string>
+	<string>197~70~!b Good Book.pdf~2263~0~0~1~Isn't It Romantic?</string>
+	<string>341~70~!b Good Book.pdf~2263~0~0~1~Isotope</string>
+	<string>341~70~!b Good Book.pdf~2263~0~0~1~Israel</string>
+	<string>198~70~!b Good Book.pdf~2263~0~0~1~It Could Happen To You</string>
+	<string>199~70~!b Good Book.pdf~2263~0~0~1~It Don't Mean A Thing</string>
+	<string>200~70~!b Good Book.pdf~2263~0~0~1~It Had To Be You</string>
+	<string>67~70~!b Good Book.pdf~2263~0~0~1~It Might as Well Be Spring</string>
+	<string>201~70~!b Good Book.pdf~2263~0~0~1~It's Alright With Me</string>
+	<string>203~70~!b Good Book.pdf~2263~0~0~1~It's Only A Paper Moon</string>
+	<string>531~70~!b Good Book.pdf~2263~0~0~1~I've Found A New Baby</string>
+	<string>58~70~!b Good Book.pdf~2263~0~0~1~I've Got A Crush On You</string>
+	<string>204~70~!b Good Book.pdf~2263~0~0~1~I've Got The World On A String</string>
+	<string>59~70~!b Good Book.pdf~2263~0~0~1~I've Grown Accustomed to Her Face</string>
+	<string>533~70~!b Good Book.pdf~2263~0~0~1~Ja Da</string>
+	<string>583~70~!b Good Book.pdf~2263~0~0~1~Jambalaya</string>
+	<string>534~70~!b Good Book.pdf~2263~0~0~1~Jazz Me Blues</string>
+	<string>556~70~!b Good Book.pdf~2263~0~0~1~Jeanine</string>
+	<string>205~70~!b Good Book.pdf~2263~0~0~1~Jeepers Creepers</string>
+	<string>206~70~!b Good Book.pdf~2263~0~0~1~Jersey Bounce</string>
+	<string>567~70~!b Good Book.pdf~2263~0~0~1~Jingle Bell Rock</string>
+	<string>568~70~!b Good Book.pdf~2263~0~0~1~Jingle Bells</string>
+	<string>342~70~!b Good Book.pdf~2263~0~0~1~Jitterbug Waltz</string>
+	<string>343~70~!b Good Book.pdf~2263~0~0~1~Jive Samba</string>
+	<string>406~70~!b Good Book.pdf~2263~0~0~1~Jody Grind, The</string>
+	<string>344~70~!b Good Book.pdf~2263~0~0~1~Jordu</string>
+	<string>345~70~!b Good Book.pdf~2263~0~0~1~Joy Spring</string>
+	<string>347~70~!b Good Book.pdf~2263~0~0~1~Jumpin' W/ Symphony Sid</string>
+	<string>535~70~!b Good Book.pdf~2263~0~0~1~Just A Closer Walk With Thee</string>
+	<string>207~70~!b Good Book.pdf~2263~0~0~1~Just Friends</string>
+	<string>208~70~!b Good Book.pdf~2263~0~0~1~Just In Time</string>
+	<string>209~70~!b Good Book.pdf~2263~0~0~1~Just One Of Those Things</string>
+	<string>210~70~!b Good Book.pdf~2263~0~0~1~Just Squeeze Me</string>
+	<string>211~70~!b Good Book.pdf~2263~0~0~1~Just The Way You Are</string>
+	<string>213~70~!b Good Book.pdf~2263~0~0~1~Kansas City</string>
+	<string>348~70~!b Good Book.pdf~2263~0~0~1~Killer Joe</string>
+	<string>477~70~!b Good Book.pdf~2263~0~0~1~La Compasita</string>
+	<string>596~70~!b Good Book.pdf~2263~0~0~1~La Vie En Rose</string>
+	<string>214~70~!b Good Book.pdf~2263~0~0~1~Lady Be Good</string>
+	<string>260~70~!b Good Book.pdf~2263~0~0~1~Lady Is A Tramp, The</string>
+	<string>349~70~!b Good Book.pdf~2263~0~0~1~Ladybird</string>
+	<string>350~70~!b Good Book.pdf~2263~0~0~1~Land Of Make Believe</string>
+	<string>597~70~!b Good Book.pdf~2263~0~0~1~Last Time I Saw Paris, The</string>
+	<string>68~70~!b Good Book.pdf~2263~0~0~1~Laura</string>
+	<string>351~70~!b Good Book.pdf~2263~0~0~1~Lazybird</string>
+	<string>353~70~!b Good Book.pdf~2263~0~0~1~Lester Leaps In</string>
+	<string>569~70~!b Good Book.pdf~2263~0~0~1~Let It Snow</string>
+	<string>495~70~!b Good Book.pdf~2263~0~0~1~Let Me Call You Sweetheart</string>
+	<string>69~70~!b Good Book.pdf~2263~0~0~1~Lil' Darlin'</string>
+	<string>557~70~!b Good Book.pdf~2263~0~0~1~Limelight</string>
+	<string>354~70~!b Good Book.pdf~2263~0~0~1~Line For Lyons</string>
+	<string>431~70~!b Good Book.pdf~2263~0~0~1~Little Boat</string>
+	<string>558~70~!b Good Book.pdf~2263~0~0~1~Little Sunflower</string>
+	<string>355~70~!b Good Book.pdf~2263~0~0~1~Locomotion</string>
+	<string>496~70~!b Good Book.pdf~2263~0~0~1~Lollipops And Roses</string>
+	<string>215~70~!b Good Book.pdf~2263~0~0~1~Long Ago And Far Away</string>
+	<string>216~70~!b Good Book.pdf~2263~0~0~1~Look For The Silver Lining</string>
+	<string>217~70~!b Good Book.pdf~2263~0~0~1~Love For Sale</string>
+	<string>219~70~!b Good Book.pdf~2263~0~0~1~Love Is Just Around the Corner</string>
+	<string>220~70~!b Good Book.pdf~2263~0~0~1~Lover</string>
+	<string>70~70~!b Good Book.pdf~2263~0~0~1~Lover Man</string>
+	<string>221~70~!b Good Book.pdf~2263~0~0~1~Lover, Come Back To Me</string>
+	<string>222~70~!b Good Book.pdf~2263~0~0~1~Lullaby Of Birdland</string>
+	<string>223~70~!b Good Book.pdf~2263~0~0~1~Lulu's Back In Town</string>
+	<string>71~70~!b Good Book.pdf~2263~0~0~1~Lush Life</string>
+	<string>535~70~!b Good Book.pdf~2263~0~0~1~Mack The Knife</string>
+	<string>356~70~!b Good Book.pdf~2263~0~0~1~Maiden Voyage</string>
+	<string>584~70~!b Good Book.pdf~2263~0~0~1~Make The World Go Away</string>
+	<string>224~70~!b Good Book.pdf~2263~0~0~1~Makin' Whoopee</string>
+	<string>449~70~!b Good Book.pdf~2263~0~0~1~Mambo No. 5</string>
+	<string>536~70~!b Good Book.pdf~2263~0~0~1~Mame</string>
+	<string>118~70~!b Good Book.pdf~2263~0~0~1~Man I Love, The</string>
+	<string>357~70~!b Good Book.pdf~2263~0~0~1~Manteca</string>
+	<string>537~70~!b Good Book.pdf~2263~0~0~1~Margie</string>
+	<string>225~70~!b Good Book.pdf~2263~0~0~1~Mean To Me</string>
+	<string>432~70~!b Good Book.pdf~2263~0~0~1~Meditation</string>
+	<string>75~70~!b Good Book.pdf~2263~0~0~1~Melancholy Baby</string>
+	<string>76~70~!b Good Book.pdf~2263~0~0~1~Memories of You</string>
+	<string>359~70~!b Good Book.pdf~2263~0~0~1~Mercy, Mercy, Mercy</string>
+	<string>77~70~!b Good Book.pdf~2263~0~0~1~Michelle</string>
+	<string>538~70~!b Good Book.pdf~2263~0~0~1~Midnight In Moscow</string>
+	<string>78~70~!b Good Book.pdf~2263~0~0~1~Midnight Sun</string>
+	<string>360~70~!b Good Book.pdf~2263~0~0~1~Milestones (new)</string>
+	<string>361~70~!b Good Book.pdf~2263~0~0~1~Milestones (old)</string>
+	<string>539~70~!b Good Book.pdf~2263~0~0~1~Mississippi Mud</string>
+	<string>79~70~!b Good Book.pdf~2263~0~0~1~Misty</string>
+	<string>559~70~!b Good Book.pdf~2263~0~0~1~Moanin'</string>
+	<string>363~70~!b Good Book.pdf~2263~0~0~1~Moment's Notice</string>
+	<string>80~70~!b Good Book.pdf~2263~0~0~1~Mona Lisa</string>
+	<string>365~70~!b Good Book.pdf~2263~0~0~1~Monk's Mood</string>
+	<string>81~70~!b Good Book.pdf~2263~0~0~1~Mood Indigo</string>
+	<string>497~70~!b Good Book.pdf~2263~0~0~1~Moon River</string>
+	<string>82~70~!b Good Book.pdf~2263~0~0~1~Moonglow</string>
+	<string>83~70~!b Good Book.pdf~2263~0~0~1~Moonlight In Vermont</string>
+	<string>84~70~!b Good Book.pdf~2263~0~0~1~Moonlight Serenade</string>
+	<string>463~70~!b Good Book.pdf~2263~0~0~1~More</string>
+	<string>261~70~!b Good Book.pdf~2263~0~0~1~More I See You, The</string>
+	<string>454~70~!b Good Book.pdf~2263~0~0~1~Morning</string>
+	<string>226~70~!b Good Book.pdf~2263~0~0~1~Moten Swing</string>
+	<string>552~70~!b Good Book.pdf~2263~0~0~1~Mountain Greenery</string>
+	<string>366~70~!b Good Book.pdf~2263~0~0~1~Move</string>
+	<string>362~70~!b Good Book.pdf~2263~0~0~1~Mr. Clean</string>
+	<string>362~70~!b Good Book.pdf~2263~0~0~1~Mr. P.C.</string>
+	<string>541~70~!b Good Book.pdf~2263~0~0~1~Muskrat Ramble</string>
+	<string>227~70~!b Good Book.pdf~2263~0~0~1~My Blue Heaven</string>
+	<string>498~70~!b Good Book.pdf~2263~0~0~1~My Buddy</string>
+	<string>367~70~!b Good Book.pdf~2263~0~0~1~My Favorite Things</string>
+	<string>85~70~!b Good Book.pdf~2263~0~0~1~My Foolish Heart</string>
+	<string>86~70~!b Good Book.pdf~2263~0~0~1~My Funny Valentine</string>
+	<string>228~70~!b Good Book.pdf~2263~0~0~1~My Heart Belongs To Daddy</string>
+	<string>368~70~!b Good Book.pdf~2263~0~0~1~My Little Suede Shoes</string>
+	<string>87~70~!b Good Book.pdf~2263~0~0~1~My Old Flame</string>
+	<string>88~70~!b Good Book.pdf~2263~0~0~1~My One And Only Love</string>
+	<string>89~70~!b Good Book.pdf~2263~0~0~1~My Romance</string>
+	<string>90~70~!b Good Book.pdf~2263~0~0~1~My Ship</string>
+	<string>600~70~!b Good Book.pdf~2263~0~0~1~My Wild Irish Rose</string>
+	<string>369~70~!b Good Book.pdf~2263~0~0~1~Naima</string>
+	<string>370~70~!b Good Book.pdf~2263~0~0~1~Nardis</string>
+	<string>91~70~!b Good Book.pdf~2263~0~0~1~Nature Boy</string>
+	<string>119~70~!b Good Book.pdf~2263~0~0~1~Nearness Of You, The</string>
+	<string>371~70~!b Good Book.pdf~2263~0~0~1~Nefertiti</string>
+	<string>447~70~!b Good Book.pdf~2263~0~0~1~Never On Sunday</string>
+	<string>229~70~!b Good Book.pdf~2263~0~0~1~New York, New York</string>
+	<string>372~70~!b Good Book.pdf~2263~0~0~1~Nica's Dream</string>
+	<string>230~70~!b Good Book.pdf~2263~0~0~1~Night And Day</string>
+	<string>285~70~!b Good Book.pdf~2263~0~0~1~Night In Tunisia, A</string>
+	<string>585~70~!b Good Book.pdf~2263~0~0~1~Night Life</string>
+	<string>231~70~!b Good Book.pdf~2263~0~0~1~Night Train</string>
+	<string>2~70~!b Good Book.pdf~2263~0~0~1~Nightingale Sang in Berkeley Sq., A</string>
+	<string>232~70~!b Good Book.pdf~2263~0~0~1~No Moon At All</string>
+	<string>499~70~!b Good Book.pdf~2263~0~0~1~Norwegian Wood</string>
+	<string>373~70~!b Good Book.pdf~2263~0~0~1~Now's The Time</string>
+	<string>374~70~!b Good Book.pdf~2263~0~0~1~Nutville</string>
+	<string>604~70~!b Good Book.pdf~2263~0~0~1~O Sole Mio</string>
+	<string>233~70~!b Good Book.pdf~2263~0~0~1~Old Devil Moon</string>
+	<string>92~70~!b Good Book.pdf~2263~0~0~1~Old Folks</string>
+	<string>375~70~!b Good Book.pdf~2263~0~0~1~Oleo</string>
+	<string>234~70~!b Good Book.pdf~2263~0~0~1~On A Clear Day</string>
+	<string>586~70~!b Good Book.pdf~2263~0~0~1~On The Road Again</string>
+	<string>236~70~!b Good Book.pdf~2263~0~0~1~On the Street Where You Live</string>
+	<string>235~70~!b Good Book.pdf~2263~0~0~1~On the Sunny Side of the Street</string>
+	<string>433~70~!b Good Book.pdf~2263~0~0~1~Once I Loved</string>
+	<string>93~70~!b Good Book.pdf~2263~0~0~1~Once In A While</string>
+	<string>434~70~!b Good Book.pdf~2263~0~0~1~One Note Samba</string>
+	<string>237~70~!b Good Book.pdf~2263~0~0~1~Opus One</string>
+	<string>376~70~!b Good Book.pdf~2263~0~0~1~Ornithology</string>
+	<string>238~70~!b Good Book.pdf~2263~0~0~1~Our Day Will Come</string>
+	<string>239~70~!b Good Book.pdf~2263~0~0~1~Our Love Is Here To Stay</string>
+	<string>240~70~!b Good Book.pdf~2263~0~0~1~Out Of Nowhere</string>
+	<string>94~70~!b Good Book.pdf~2263~0~0~1~Over The Rainbow</string>
+	<string>120~70~!b Good Book.pdf~2263~0~0~1~Party's Over, The</string>
+	<string>614~70~!b Good Book.pdf~2263~0~0~1~Pearly Shells</string>
+	<string>241~70~!b Good Book.pdf~2263~0~0~1~Pennies From Heaven</string>
+	<string>619~70~!b Good Book.pdf~2263~0~0~1~Pennsylvania Polka</string>
+	<string>435~70~!b Good Book.pdf~2263~0~0~1~Pensativa</string>
+	<string>377~70~!b Good Book.pdf~2263~0~0~1~Pent Up House</string>
+	<string>242~70~!b Good Book.pdf~2263~0~0~1~Perdido</string>
+	<string>464~70~!b Good Book.pdf~2263~0~0~1~Perfidia</string>
+	<string>593~70~!b Good Book.pdf~2263~0~0~1~Peter Cottontail</string>
+	<string>378~70~!b Good Book.pdf~2263~0~0~1~Pfrancing (No Blues)</string>
+	<string>465~70~!b Good Book.pdf~2263~0~0~1~Poinciana</string>
+	<string>95~70~!b Good Book.pdf~2263~0~0~1~Polkadots and Moonbeams</string>
+	<string>407~70~!b Good Book.pdf~2263~0~0~1~Preacher, The</string>
+	<string>96~70~!b Good Book.pdf~2263~0~0~1~Prelude To A Kiss</string>
+	<string>379~70~!b Good Book.pdf~2263~0~0~1~Prince Albert</string>
+	<string>471~70~!b Good Book.pdf~2263~0~0~1~Quando, Quando, Quando</string>
+	<string>437~70~!b Good Book.pdf~2263~0~0~1~Quiet Nights (Corcovado)</string>
+	<string>587~70~!b Good Book.pdf~2263~0~0~1~Ramblin' Rose</string>
+	<string>381~70~!b Good Book.pdf~2263~0~0~1~Recordame</string>
+	<string>560~70~!b Good Book.pdf~2263~0~0~1~Red Clay</string>
+	<string>587~70~!b Good Book.pdf~2263~0~0~1~Release Me</string>
+	<string>382~70~!b Good Book.pdf~2263~0~0~1~Robbin's Nest</string>
+	<string>243~70~!b Good Book.pdf~2263~0~0~1~Rose Room</string>
+	<string>244~70~!b Good Book.pdf~2263~0~0~1~Rosetta</string>
+	<string>97~70~!b Good Book.pdf~2263~0~0~1~'Round Midnight</string>
+	<string>98~70~!b Good Book.pdf~2263~0~0~1~Ruby My Dear</string>
+	<string>383~70~!b Good Book.pdf~2263~0~0~1~Rythmn-A-Ning</string>
+	<string>257~70~!b Good Book.pdf~2263~0~0~1~'S Wonderful</string>
+	<string>384~70~!b Good Book.pdf~2263~0~0~1~Salt Peanuts</string>
+	<string>472~70~!b Good Book.pdf~2263~0~0~1~Samba De Orpheu</string>
+	<string>588~70~!b Good Book.pdf~2263~0~0~1~San Antonio Rose</string>
+	<string>385~70~!b Good Book.pdf~2263~0~0~1~Sandu</string>
+	<string>570~70~!b Good Book.pdf~2263~0~0~1~Santa Claus Is Coming to Town</string>
+	<string>245~70~!b Good Book.pdf~2263~0~0~1~Satin Doll</string>
+	<string>99~70~!b Good Book.pdf~2263~0~0~1~Scotch and Soda</string>
+	<string>386~70~!b Good Book.pdf~2263~0~0~1~Scrapple From The Apple</string>
+	<string>246~70~!b Good Book.pdf~2263~0~0~1~Secret Love</string>
+	<string>247~70~!b Good Book.pdf~2263~0~0~1~Sentimental Journey</string>
+	<string>248~70~!b Good Book.pdf~2263~0~0~1~September In The Rain</string>
+	<string>100~70~!b Good Book.pdf~2263~0~0~1~September Song</string>
+	<string>387~70~!b Good Book.pdf~2263~0~0~1~Serpent's Tooth</string>
+	<string>388~70~!b Good Book.pdf~2263~0~0~1~Seven Steps To Heaven</string>
+	<string>440~70~!b Good Book.pdf~2263~0~0~1~Shadow of Your Smile, The</string>
+	<string>249~70~!b Good Book.pdf~2263~0~0~1~Shiny Stockings</string>
+	<string>543~70~!b Good Book.pdf~2263~0~0~1~Side By Side</string>
+	<string>389~70~!b Good Book.pdf~2263~0~0~1~Sidewinder</string>
+	<string>571~70~!b Good Book.pdf~2263~0~0~1~Silver Bells</string>
+	<string>391~70~!b Good Book.pdf~2263~0~0~1~Sippin' At Bells</string>
+	<string>392~70~!b Good Book.pdf~2263~0~0~1~Sister Sadie</string>
+	<string>101~70~!b Good Book.pdf~2263~0~0~1~Skylark</string>
+	<string>102~70~!b Good Book.pdf~2263~0~0~1~Smoke Gets In Your Eyes</string>
+	<string>393~70~!b Good Book.pdf~2263~0~0~1~So What?</string>
+	<string>250~70~!b Good Book.pdf~2263~0~0~1~Softly, As In a Morning Sunrise</string>
+	<string>394~70~!b Good Book.pdf~2263~0~0~1~Solar (Sunny)</string>
+	<string>394~70~!b Good Book.pdf~2263~0~0~1~Solid</string>
+	<string>103~70~!b Good Book.pdf~2263~0~0~1~Solitude</string>
+	<string>395~70~!b Good Book.pdf~2263~0~0~1~Some Other Blues</string>
+	<string>500~70~!b Good Book.pdf~2263~0~0~1~Someday My Prince Will Come</string>
+	<string>104~70~!b Good Book.pdf~2263~0~0~1~Someone To Watch Over Me</string>
+	<string>501~70~!b Good Book.pdf~2263~0~0~1~Somewhere My Love</string>
+	<string>396~70~!b Good Book.pdf~2263~0~0~1~Song For My Father</string>
+	<string>262~70~!b Good Book.pdf~2263~0~0~1~Song Is You, The</string>
+	<string>105~70~!b Good Book.pdf~2263~0~0~1~Sophisticated Lady</string>
+	<string>106~70~!b Good Book.pdf~2263~0~0~1~Soul Eyes</string>
+	<string>544~70~!b Good Book.pdf~2263~0~0~1~South</string>
+	<string>466~70~!b Good Book.pdf~2263~0~0~1~Spanish Eyes</string>
+	<string>252~70~!b Good Book.pdf~2263~0~0~1~Speak Low</string>
+	<string>107~70~!b Good Book.pdf~2263~0~0~1~Spring Can Really Hang You Up the Most</string>
+	<string>109~70~!b Good Book.pdf~2263~0~0~1~Spring Is Here</string>
+	<string>397~70~!b Good Book.pdf~2263~0~0~1~St. Louis Blues</string>
+	<string>473~70~!b Good Book.pdf~2263~0~0~1~St. Thomas</string>
+	<string>398~70~!b Good Book.pdf~2263~0~0~1~Stablemates</string>
+	<string>251~70~!b Good Book.pdf~2263~0~0~1~Star Eyes</string>
+	<string>623~70~!b Good Book.pdf~2263~0~0~1~Star Spangled Banner, The</string>
+	<string>111~70~!b Good Book.pdf~2263~0~0~1~Stardust</string>
+	<string>113~70~!b Good Book.pdf~2263~0~0~1~Stars Fell On Alabama</string>
+	<string>253~70~!b Good Book.pdf~2263~0~0~1~Stella By Starlight</string>
+	<string>399~70~!b Good Book.pdf~2263~0~0~1~Stolen Moments</string>
+	<string>254~70~!b Good Book.pdf~2263~0~0~1~Stompin' At The Savoy</string>
+	<string>114~70~!b Good Book.pdf~2263~0~0~1~Stormy Weather</string>
+	<string>400~70~!b Good Book.pdf~2263~0~0~1~Straight No Chaser</string>
+	<string>143~70~!b Good Book.pdf~2263~0~0~1~String Of Pearls, A</string>
+	<string>626~70~!b Good Book.pdf~2263~0~0~1~Stripper, The</string>
+	<string>401~70~!b Good Book.pdf~2263~0~0~1~Strollin'</string>
+	<string>474~70~!b Good Book.pdf~2263~0~0~1~Sudden Samba</string>
+	<string>403~70~!b Good Book.pdf~2263~0~0~1~Sugar</string>
+	<string>438~70~!b Good Book.pdf~2263~0~0~1~Summer Samba</string>
+	<string>110~70~!b Good Book.pdf~2263~0~0~1~Summertime</string>
+	<string>608~70~!b Good Book.pdf~2263~0~0~1~Sunrise, Sunset</string>
+	<string>467~70~!b Good Book.pdf~2263~0~0~1~Sway</string>
+	<string>255~70~!b Good Book.pdf~2263~0~0~1~Sweet and Lovely</string>
+	<string>545~70~!b Good Book.pdf~2263~0~0~1~Sweet Georgia Brown</string>
+	<string>256~70~!b Good Book.pdf~2263~0~0~1~Sweet Lorraine</string>
+	<string>404~70~!b Good Book.pdf~2263~0~0~1~Take Five</string>
+	<string>405~70~!b Good Book.pdf~2263~0~0~1~Take The "A" Train</string>
+	<string>258~70~!b Good Book.pdf~2263~0~0~1~Taking A Chance On Love</string>
+	<string>553~70~!b Good Book.pdf~2263~0~0~1~Tangerine</string>
+	<string>609~70~!b Good Book.pdf~2263~0~0~1~Tarantella</string>
+	<string>448~70~!b Good Book.pdf~2263~0~0~1~Tea For Two</string>
+	<string>115~70~!b Good Book.pdf~2263~0~0~1~Teach Me Tonight</string>
+	<string>502~70~!b Good Book.pdf~2263~0~0~1~Tenderly</string>
+	<string>503~70~!b Good Book.pdf~2263~0~0~1~Tennessee Waltz</string>
+	<string>406~70~!b Good Book.pdf~2263~0~0~1~Tenor Madness</string>
+	<string>259~70~!b Good Book.pdf~2263~0~0~1~That Old Feeling</string>
+	<string>116~70~!b Good Book.pdf~2263~0~0~1~That's All</string>
+	<string>546~70~!b Good Book.pdf~2263~0~0~1~The Sheik Of Araby</string>
+	<string>265~70~!b Good Book.pdf~2263~0~0~1~Them There Eyes</string>
+	<string>408~70~!b Good Book.pdf~2263~0~0~1~Theme, The</string>
+	<string>266~70~!b Good Book.pdf~2263~0~0~1~There Is No Greater Love</string>
+	<string>267~70~!b Good Book.pdf~2263~0~0~1~There Will Never Be Another You</string>
+	<string>268~70~!b Good Book.pdf~2263~0~0~1~There's A Small Hotel</string>
+	<string>121~70~!b Good Book.pdf~2263~0~0~1~These Foolish Things</string>
+	<string>269~70~!b Good Book.pdf~2263~0~0~1~They Can't Take That Away From Me</string>
+	<string>409~70~!b Good Book.pdf~2263~0~0~1~Things Ain't What They Used To Be</string>
+	<string>410~70~!b Good Book.pdf~2263~0~0~1~Things To Come</string>
+	<string>455~70~!b Good Book.pdf~2263~0~0~1~This Masquerade</string>
+	<string>270~70~!b Good Book.pdf~2263~0~0~1~Thou Swell</string>
+	<string>411~70~!b Good Book.pdf~2263~0~0~1~Thriving On A Riff</string>
+	<string>122~70~!b Good Book.pdf~2263~0~0~1~Till There Was You</string>
+	<string>123~70~!b Good Book.pdf~2263~0~0~1~Time After Time</string>
+	<string>547~70~!b Good Book.pdf~2263~0~0~1~Tin Roof Blues</string>
+	<string>613~70~!b Good Book.pdf~2263~0~0~1~Tiny Bubbles</string>
+	<string>621~70~!b Good Book.pdf~2263~0~0~1~Too Fat Polka</string>
+	<string>601~70~!b Good Book.pdf~2263~0~0~1~Too Ra Loo Ra Loo Ral</string>
+	<string>441~70~!b Good Book.pdf~2263~0~0~1~Triste</string>
+	<string>452~70~!b Good Book.pdf~2263~0~0~1~Tropical Merengue</string>
+	<string>505~70~!b Good Book.pdf~2263~0~0~1~Try To Remember</string>
+	<string>412~70~!b Good Book.pdf~2263~0~0~1~Tune Up</string>
+	<string>271~70~!b Good Book.pdf~2263~0~0~1~Tuxedo Junction</string>
+	<string>272~70~!b Good Book.pdf~2263~0~0~1~Undecided</string>
+	<string>124~70~!b Good Book.pdf~2263~0~0~1~Unforgettable</string>
+	<string>413~70~!b Good Book.pdf~2263~0~0~1~Unit Seven</string>
+	<string>506~70~!b Good Book.pdf~2263~0~0~1~Up Jumped Spring</string>
+	<string>548~70~!b Good Book.pdf~2263~0~0~1~Up the Lazy River</string>
+	<string>414~70~!b Good Book.pdf~2263~0~0~1~Valse Hot</string>
+	<string>507~70~!b Good Book.pdf~2263~0~0~1~Vienna Life</string>
+	<string>606~70~!b Good Book.pdf~2263~0~0~1~Volare</string>
+	<string>547~70~!b Good Book.pdf~2263~0~0~1~Wabash Blues</string>
+	<string>415~70~!b Good Book.pdf~2263~0~0~1~Walkin'</string>
+	<string>589~70~!b Good Book.pdf~2263~0~0~1~Walking The Floor Over You</string>
+	<string>416~70~!b Good Book.pdf~2263~0~0~1~Waltz For Debby</string>
+	<string>442~70~!b Good Book.pdf~2263~0~0~1~Watch What Happens</string>
+	<string>415~70~!b Good Book.pdf~2263~0~0~1~Watermelon Man</string>
+	<string>443~70~!b Good Book.pdf~2263~0~0~1~Wave</string>
+	<string>549~70~!b Good Book.pdf~2263~0~0~1~Way Down Yonder in New Oreleans</string>
+	<string>263~70~!b Good Book.pdf~2263~0~0~1~Way You Look Tonight, The</string>
+	<string>125~70~!b Good Book.pdf~2263~0~0~1~We'll Be Together Again</string>
+	<string>417~70~!b Good Book.pdf~2263~0~0~1~Well You Needn't</string>
+	<string>508~70~!b Good Book.pdf~2263~0~0~1~West Coast Blues</string>
+	<string>273~70~!b Good Book.pdf~2263~0~0~1~What a Difference a Day Makes</string>
+	<string>126~70~!b Good Book.pdf~2263~0~0~1~What A Wonderful World</string>
+	<string>274~70~!b Good Book.pdf~2263~0~0~1~What Am I Here For?</string>
+	<string>127~70~!b Good Book.pdf~2263~0~0~1~What Are You Doing the Rest of Your Life?</string>
+	<string>275~70~!b Good Book.pdf~2263~0~0~1~What Is This Thing Called Love?</string>
+	<string>128~70~!b Good Book.pdf~2263~0~0~1~What's New?</string>
+	<string>129~70~!b Good Book.pdf~2263~0~0~1~When I Fall In Love</string>
+	<string>509~70~!b Good Book.pdf~2263~0~0~1~When I Grow Too Old To Dream</string>
+	<string>602~70~!b Good Book.pdf~2263~0~0~1~When Irish Eyes Are Smiling</string>
+	<string>550~70~!b Good Book.pdf~2263~0~0~1~When It's Sleepy Time Down South</string>
+	<string>561~70~!b Good Book.pdf~2263~0~0~1~When Lights Are Low</string>
+	<string>130~70~!b Good Book.pdf~2263~0~0~1~When Sunny Gets Blue</string>
+	<string>551~70~!b Good Book.pdf~2263~0~0~1~When The Saints Go Marching In </string>
+	<string>131~70~!b Good Book.pdf~2263~0~0~1~When You Wish Upon A Star</string>
+	<string>276~70~!b Good Book.pdf~2263~0~0~1~When Your Lover Has Gone</string>
+	<string>554~70~!b Good Book.pdf~2263~0~0~1~When You're Smiling</string>
+	<string>132~70~!b Good Book.pdf~2263~0~0~1~Where Are You?</string>
+	<string>572~70~!b Good Book.pdf~2263~0~0~1~White Christmas</string>
+	<string>133~70~!b Good Book.pdf~2263~0~0~1~Willow Weep For Me</string>
+	<string>573~70~!b Good Book.pdf~2263~0~0~1~Winter Wonderland</string>
+	<string>418~70~!b Good Book.pdf~2263~0~0~1~Witch Hunt</string>
+	<string>277~70~!b Good Book.pdf~2263~0~0~1~Witchcraft</string>
+	<string>278~70~!b Good Book.pdf~2263~0~0~1~With A Song In My Heart</string>
+	<string>279~70~!b Good Book.pdf~2263~0~0~1~Without A Song</string>
+	<string>510~70~!b Good Book.pdf~2263~0~0~1~Wonderful Copenhagen</string>
+	<string>419~70~!b Good Book.pdf~2263~0~0~1~Woody'n You</string>
+	<string>420~70~!b Good Book.pdf~2263~0~0~1~Work Song</string>
+	<string>625~70~!b Good Book.pdf~2263~0~0~1~Yankee Doodle Dandy</string>
+	<string>421~70~!b Good Book.pdf~2263~0~0~1~Yardbird Suite</string>
+	<string>468~70~!b Good Book.pdf~2263~0~0~1~Yellow Bird</string>
+	<string>134~70~!b Good Book.pdf~2263~0~0~1~Yesterday</string>
+	<string>135~70~!b Good Book.pdf~2263~0~0~1~Yesterdays</string>
+	<string>136~70~!b Good Book.pdf~2263~0~0~1~You Are Too Beautiful</string>
+	<string>280~70~!b Good Book.pdf~2263~0~0~1~You Do Something To Me</string>
+	<string>590~70~!b Good Book.pdf~2263~0~0~1~You Don't Know Me</string>
+	<string>137~70~!b Good Book.pdf~2263~0~0~1~You Don't Know What Love Is</string>
+	<string>138~70~!b Good Book.pdf~2263~0~0~1~You Go To My Head</string>
+	<string>139~70~!b Good Book.pdf~2263~0~0~1~You Made Me Love You</string>
+	<string>281~70~!b Good Book.pdf~2263~0~0~1~You Stepped Out Of A Dream</string>
+	<string>282~70~!b Good Book.pdf~2263~0~0~1~You Took Advantage Of Me</string>
+	<string>283~70~!b Good Book.pdf~2263~0~0~1~You'd Be So Nice To Come Home To</string>
+	<string>591~70~!b Good Book.pdf~2263~0~0~1~Your Cheatin' Heart</string>
+	<string>140~70~!b Good Book.pdf~2263~0~0~1~You've Changed</string>
+	<string>Bookmark Current Page</string>
+</array>
+</plist>

@@ -1,0 +1,3359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>book</key>
+		<integer>70</integer>
+		<key>page</key>
+		<integer>140</integer>
+		<key>path_list</key>
+		<array>
+			<dict>
+				<key>color_rgb</key>
+				<integer>16711680</integer>
+				<key>opacity</key>
+				<real>1</real>
+				<key>px1</key>
+				<real>850</real>
+				<key>px2</key>
+				<real>920.5</real>
+				<key>py1</key>
+				<real>852.5</real>
+				<key>py2</key>
+				<real>907</real>
+				<key>touch_list</key>
+				<array>
+					<string>{886, 857.5}</string>
+					<string>{886, 857.5}</string>
+					<string>{886, 857.5}</string>
+					<string>{886, 857.5}</string>
+					<string>{886, 857.5}</string>
+					<string>{886, 857.5}</string>
+					<string>{886, 857.5}</string>
+					<string>{886, 857.5}</string>
+					<string>{886, 857.5}</string>
+					<string>{886, 857}</string>
+					<string>{886, 857}</string>
+					<string>{886, 856.5}</string>
+					<string>{886, 856.5}</string>
+					<string>{886, 856}</string>
+					<string>{886, 855.5}</string>
+					<string>{886, 855.5}</string>
+					<string>{886, 855}</string>
+					<string>{886, 854.5}</string>
+					<string>{886, 854.5}</string>
+					<string>{886, 854}</string>
+					<string>{886, 854}</string>
+					<string>{885.5, 853.5}</string>
+					<string>{885.5, 853.5}</string>
+					<string>{885.5, 853.5}</string>
+					<string>{885.5, 853.5}</string>
+					<string>{885.5, 853}</string>
+					<string>{885.5, 853}</string>
+					<string>{885.5, 853}</string>
+					<string>{885, 853}</string>
+					<string>{885, 853}</string>
+					<string>{885, 853}</string>
+					<string>{885, 853}</string>
+					<string>{885, 853}</string>
+					<string>{885, 853}</string>
+					<string>{884.5, 853}</string>
+					<string>{884.5, 853}</string>
+					<string>{884.5, 853}</string>
+					<string>{884, 853}</string>
+					<string>{884, 852.5}</string>
+					<string>{884, 852.5}</string>
+					<string>{883.5, 852.5}</string>
+					<string>{883.5, 852.5}</string>
+					<string>{883.5, 852.5}</string>
+					<string>{883, 852.5}</string>
+					<string>{882.5, 852.5}</string>
+					<string>{882.5, 852.5}</string>
+					<string>{882, 852.5}</string>
+					<string>{882, 852.5}</string>
+					<string>{881.5, 852.5}</string>
+					<string>{881, 852.5}</string>
+					<string>{880.5, 852.5}</string>
+					<string>{880.5, 853}</string>
+					<string>{880, 853}</string>
+					<string>{879.5, 853}</string>
+					<string>{878.5, 853}</string>
+					<string>{878, 853}</string>
+					<string>{877.5, 853.5}</string>
+					<string>{876.5, 853.5}</string>
+					<string>{876, 853.5}</string>
+					<string>{875.5, 853.5}</string>
+					<string>{874.5, 853.5}</string>
+					<string>{874, 853.5}</string>
+					<string>{873, 854}</string>
+					<string>{872.5, 854}</string>
+					<string>{871.5, 854}</string>
+					<string>{871, 854}</string>
+					<string>{870, 854}</string>
+					<string>{869.5, 854}</string>
+					<string>{868.5, 854}</string>
+					<string>{868, 854}</string>
+					<string>{867, 854}</string>
+					<string>{866.5, 854.5}</string>
+					<string>{865.5, 854.5}</string>
+					<string>{865, 855}</string>
+					<string>{864, 855}</string>
+					<string>{863.5, 855.5}</string>
+					<string>{862.5, 856}</string>
+					<string>{862, 856}</string>
+					<string>{861.5, 856.5}</string>
+					<string>{861, 856.5}</string>
+					<string>{860.5, 857}</string>
+					<string>{860, 857.5}</string>
+					<string>{859.5, 857.5}</string>
+					<string>{859, 858}</string>
+					<string>{858.5, 858.5}</string>
+					<string>{858, 859.5}</string>
+					<string>{857, 860}</string>
+					<string>{856.5, 860.5}</string>
+					<string>{856, 861.5}</string>
+					<string>{855.5, 862}</string>
+					<string>{855, 863}</string>
+					<string>{854.5, 863.5}</string>
+					<string>{854, 864.5}</string>
+					<string>{853.5, 865}</string>
+					<string>{853, 866}</string>
+					<string>{853, 866.5}</string>
+					<string>{852.5, 867.5}</string>
+					<string>{852, 868}</string>
+					<string>{852, 869}</string>
+					<string>{851.5, 869.5}</string>
+					<string>{851, 870}</string>
+					<string>{851, 871}</string>
+					<string>{850.5, 871.5}</string>
+					<string>{850.5, 872.5}</string>
+					<string>{850.5, 873.5}</string>
+					<string>{850, 874}</string>
+					<string>{850, 875}</string>
+					<string>{850, 876}</string>
+					<string>{850, 877}</string>
+					<string>{850, 878}</string>
+					<string>{850, 879}</string>
+					<string>{850, 880}</string>
+					<string>{850, 881}</string>
+					<string>{850, 882}</string>
+					<string>{850, 883.5}</string>
+					<string>{850.5, 884.5}</string>
+					<string>{850.5, 885.5}</string>
+					<string>{851, 886.5}</string>
+					<string>{851.5, 888}</string>
+					<string>{851.5, 889}</string>
+					<string>{852, 890}</string>
+					<string>{852.5, 891.5}</string>
+					<string>{853, 892.5}</string>
+					<string>{854, 893.5}</string>
+					<string>{854.5, 894.5}</string>
+					<string>{855, 895.5}</string>
+					<string>{856, 896.5}</string>
+					<string>{857, 897.5}</string>
+					<string>{857.5, 898.5}</string>
+					<string>{858.5, 899}</string>
+					<string>{860, 900}</string>
+					<string>{861, 900.5}</string>
+					<string>{862.5, 901}</string>
+					<string>{863.5, 902}</string>
+					<string>{865, 902.5}</string>
+					<string>{866.5, 903}</string>
+					<string>{868, 903.5}</string>
+					<string>{870, 904}</string>
+					<string>{871.5, 904.5}</string>
+					<string>{873, 905}</string>
+					<string>{874.5, 905}</string>
+					<string>{876, 905.5}</string>
+					<string>{877.5, 905.5}</string>
+					<string>{879, 906}</string>
+					<string>{880.5, 906}</string>
+					<string>{882, 906.5}</string>
+					<string>{883.5, 906.5}</string>
+					<string>{885.5, 906.5}</string>
+					<string>{886.5, 907}</string>
+					<string>{888, 907}</string>
+					<string>{889.5, 907}</string>
+					<string>{891, 907}</string>
+					<string>{892.5, 907}</string>
+					<string>{894, 907}</string>
+					<string>{895.5, 907}</string>
+					<string>{897, 907}</string>
+					<string>{898.5, 907}</string>
+					<string>{900, 906.5}</string>
+					<string>{901, 906.5}</string>
+					<string>{902.5, 906}</string>
+					<string>{904, 905.5}</string>
+					<string>{905, 905}</string>
+					<string>{906.5, 904.5}</string>
+					<string>{907.5, 903.5}</string>
+					<string>{909, 903}</string>
+					<string>{910, 902}</string>
+					<string>{911, 901}</string>
+					<string>{912, 900}</string>
+					<string>{913, 899.5}</string>
+					<string>{914, 898}</string>
+					<string>{915, 897}</string>
+					<string>{916, 896}</string>
+					<string>{917, 894.5}</string>
+					<string>{917.5, 893.5}</string>
+					<string>{918, 892.5}</string>
+					<string>{918.5, 891.5}</string>
+					<string>{919, 890.5}</string>
+					<string>{919.5, 889.5}</string>
+					<string>{920, 888.5}</string>
+					<string>{920, 887.5}</string>
+					<string>{920, 886.5}</string>
+					<string>{920.5, 885.5}</string>
+					<string>{920.5, 885}</string>
+					<string>{920.5, 884}</string>
+					<string>{920.5, 883.5}</string>
+					<string>{920.5, 883}</string>
+					<string>{920.5, 882}</string>
+					<string>{920, 881}</string>
+					<string>{919.5, 880.5}</string>
+					<string>{919, 879.5}</string>
+					<string>{919, 878.5}</string>
+					<string>{918, 878}</string>
+					<string>{917.5, 877.5}</string>
+					<string>{917, 876.5}</string>
+					<string>{916.5, 876}</string>
+					<string>{915.5, 875}</string>
+					<string>{915, 874.5}</string>
+					<string>{914, 874}</string>
+					<string>{913.5, 873}</string>
+					<string>{912.5, 872.5}</string>
+					<string>{912, 872}</string>
+					<string>{911, 871}</string>
+					<string>{910.5, 870.5}</string>
+					<string>{909.5, 870}</string>
+					<string>{909, 869.5}</string>
+					<string>{908, 868.5}</string>
+					<string>{907.5, 868}</string>
+					<string>{906.5, 867.5}</string>
+					<string>{905.5, 867}</string>
+					<string>{905, 866.5}</string>
+					<string>{904, 866}</string>
+					<string>{903, 865.5}</string>
+					<string>{902, 865}</string>
+					<string>{901, 864.5}</string>
+					<string>{900.5, 864}</string>
+					<string>{899.5, 863.5}</string>
+					<string>{898.5, 863}</string>
+					<string>{898, 862.5}</string>
+					<string>{897, 862}</string>
+					<string>{896.5, 861.5}</string>
+					<string>{895.5, 861}</string>
+					<string>{895, 860.5}</string>
+					<string>{894.5, 860}</string>
+					<string>{893.5, 859.5}</string>
+					<string>{893, 859}</string>
+					<string>{892.5, 858.5}</string>
+					<string>{892, 858}</string>
+					<string>{891.5, 858}</string>
+					<string>{891, 857.5}</string>
+					<string>{890, 857}</string>
+					<string>{889.5, 856.5}</string>
+					<string>{889, 856.5}</string>
+					<string>{888, 856}</string>
+					<string>{887.5, 856}</string>
+					<string>{887, 855.5}</string>
+					<string>{886, 855}</string>
+					<string>{885, 855}</string>
+					<string>{884.5, 855}</string>
+					<string>{883.5, 854.5}</string>
+					<string>{882, 854.5}</string>
+					<string>{880.5, 854.5}</string>
+					<string>{879, 854.5}</string>
+					<string>{876.5, 855}</string>
+					<string>{875, 855.5}</string>
+				</array>
+				<key>width</key>
+				<integer>4</integer>
+			</dict>
+			<dict>
+				<key>color_rgb</key>
+				<integer>16711680</integer>
+				<key>opacity</key>
+				<real>1</real>
+				<key>px1</key>
+				<real>21</real>
+				<key>px2</key>
+				<real>75</real>
+				<key>py1</key>
+				<real>282</real>
+				<key>py2</key>
+				<real>347</real>
+				<key>touch_list</key>
+				<array>
+					<string>{52.5, 287}</string>
+					<string>{52.5, 287}</string>
+					<string>{52.5, 287.5}</string>
+					<string>{52.5, 287.5}</string>
+					<string>{52, 287.5}</string>
+					<string>{52, 287.5}</string>
+					<string>{52, 287.5}</string>
+					<string>{52, 287.5}</string>
+					<string>{52, 287.5}</string>
+					<string>{52, 287.5}</string>
+					<string>{52, 287.5}</string>
+					<string>{51.5, 287.5}</string>
+					<string>{51.5, 287.5}</string>
+					<string>{51.5, 287.5}</string>
+					<string>{51, 287.5}</string>
+					<string>{51, 287.5}</string>
+					<string>{51, 288}</string>
+					<string>{51, 288}</string>
+					<string>{50.5, 288}</string>
+					<string>{50.5, 288.5}</string>
+					<string>{50.5, 288.5}</string>
+					<string>{50, 288.5}</string>
+					<string>{50, 288.5}</string>
+					<string>{50, 288.5}</string>
+					<string>{49.5, 288.5}</string>
+					<string>{49.5, 288.5}</string>
+					<string>{49, 288.5}</string>
+					<string>{49, 288.5}</string>
+					<string>{49, 288.5}</string>
+					<string>{48.5, 288.5}</string>
+					<string>{48.5, 288.5}</string>
+					<string>{48.5, 288.5}</string>
+					<string>{48, 288.5}</string>
+					<string>{48, 288.5}</string>
+					<string>{48, 288.5}</string>
+					<string>{47.5, 288.5}</string>
+					<string>{47.5, 288.5}</string>
+					<string>{47.5, 288.5}</string>
+					<string>{47, 288.5}</string>
+					<string>{47, 288.5}</string>
+					<string>{46.5, 288.5}</string>
+					<string>{46, 288.5}</string>
+					<string>{46, 288.5}</string>
+					<string>{45.5, 288.5}</string>
+					<string>{45, 288.5}</string>
+					<string>{44.5, 288.5}</string>
+					<string>{43.5, 288.5}</string>
+					<string>{43, 288.5}</string>
+					<string>{42, 288.5}</string>
+					<string>{41.5, 288.5}</string>
+					<string>{40.5, 288.5}</string>
+					<string>{40, 288}</string>
+					<string>{39.5, 288}</string>
+					<string>{38.5, 288}</string>
+					<string>{38, 288}</string>
+					<string>{37, 288}</string>
+					<string>{36.5, 288}</string>
+					<string>{35.5, 288}</string>
+					<string>{35, 288}</string>
+					<string>{34, 288}</string>
+					<string>{33, 288}</string>
+					<string>{32, 288}</string>
+					<string>{31.5, 288.5}</string>
+					<string>{30.5, 289}</string>
+					<string>{29.5, 289.5}</string>
+					<string>{29, 290.5}</string>
+					<string>{28, 291}</string>
+					<string>{27.5, 292}</string>
+					<string>{26.5, 293}</string>
+					<string>{26, 294}</string>
+					<string>{25.5, 295}</string>
+					<string>{24.5, 296}</string>
+					<string>{24, 297}</string>
+					<string>{23.5, 298.5}</string>
+					<string>{23, 299.5}</string>
+					<string>{22.5, 301}</string>
+					<string>{22, 302.5}</string>
+					<string>{21.5, 304}</string>
+					<string>{21.5, 305.5}</string>
+					<string>{21, 307}</string>
+					<string>{21, 308.5}</string>
+					<string>{21, 310.5}</string>
+					<string>{21, 312}</string>
+					<string>{21, 314}</string>
+					<string>{21, 315.5}</string>
+					<string>{21, 317.5}</string>
+					<string>{21, 319.5}</string>
+					<string>{21.5, 321.5}</string>
+					<string>{22, 324}</string>
+					<string>{22.5, 325.5}</string>
+					<string>{23, 327.5}</string>
+					<string>{24, 329.5}</string>
+					<string>{24.5, 331.5}</string>
+					<string>{25.5, 333}</string>
+					<string>{26.5, 334.5}</string>
+					<string>{28, 336}</string>
+					<string>{29, 337.5}</string>
+					<string>{30.5, 339}</string>
+					<string>{32.5, 340}</string>
+					<string>{34, 341.5}</string>
+					<string>{35.5, 342.5}</string>
+					<string>{37.5, 343.5}</string>
+					<string>{39, 344.5}</string>
+					<string>{40.5, 345.5}</string>
+					<string>{42.5, 346}</string>
+					<string>{44, 346.5}</string>
+					<string>{45.5, 346.5}</string>
+					<string>{47.5, 347}</string>
+					<string>{49, 347}</string>
+					<string>{50.5, 347}</string>
+					<string>{52.5, 347}</string>
+					<string>{54, 346.5}</string>
+					<string>{55, 346}</string>
+					<string>{57, 345.5}</string>
+					<string>{58, 345}</string>
+					<string>{59.5, 345}</string>
+					<string>{60.5, 344.5}</string>
+					<string>{62, 344}</string>
+					<string>{63, 343.5}</string>
+					<string>{64, 343}</string>
+					<string>{64.5, 343}</string>
+					<string>{65.5, 342.5}</string>
+					<string>{66, 342.5}</string>
+					<string>{66.5, 342}</string>
+					<string>{67, 342}</string>
+					<string>{67.5, 341.5}</string>
+					<string>{68, 341.5}</string>
+					<string>{68, 341}</string>
+					<string>{68.5, 341}</string>
+					<string>{68.5, 341}</string>
+					<string>{69, 340.5}</string>
+					<string>{69, 340}</string>
+					<string>{69.5, 339.5}</string>
+					<string>{69.5, 339}</string>
+					<string>{69.5, 338.5}</string>
+					<string>{69.5, 338}</string>
+					<string>{70, 337}</string>
+					<string>{70, 336}</string>
+					<string>{70, 334.5}</string>
+					<string>{70.5, 333}</string>
+					<string>{70.5, 331}</string>
+					<string>{71, 329.5}</string>
+					<string>{71.5, 327.5}</string>
+					<string>{71.5, 326}</string>
+					<string>{71.5, 324}</string>
+					<string>{72, 322.5}</string>
+					<string>{72, 320.5}</string>
+					<string>{72, 319}</string>
+					<string>{72.5, 317.5}</string>
+					<string>{72.5, 315.5}</string>
+					<string>{73, 314}</string>
+					<string>{73, 312.5}</string>
+					<string>{73.5, 310.5}</string>
+					<string>{74, 309}</string>
+					<string>{74, 307.5}</string>
+					<string>{74, 306}</string>
+					<string>{74.5, 305}</string>
+					<string>{74.5, 303.5}</string>
+					<string>{74.5, 302.5}</string>
+					<string>{74.5, 301.5}</string>
+					<string>{75, 300.5}</string>
+					<string>{75, 299.5}</string>
+					<string>{75, 298.5}</string>
+					<string>{75, 298}</string>
+					<string>{75, 297.5}</string>
+					<string>{75, 296.5}</string>
+					<string>{74.5, 296}</string>
+					<string>{74.5, 295.5}</string>
+					<string>{74, 295}</string>
+					<string>{74, 294.5}</string>
+					<string>{74, 294}</string>
+					<string>{73.5, 293.5}</string>
+					<string>{73, 292.5}</string>
+					<string>{73, 292}</string>
+					<string>{72.5, 291.5}</string>
+					<string>{72, 291}</string>
+					<string>{71.5, 290.5}</string>
+					<string>{71, 290}</string>
+					<string>{70, 289}</string>
+					<string>{69.5, 288.5}</string>
+					<string>{68.5, 287.5}</string>
+					<string>{68, 287}</string>
+					<string>{67, 286}</string>
+					<string>{66.5, 285.5}</string>
+					<string>{65.5, 285}</string>
+					<string>{64.5, 284.5}</string>
+					<string>{63.5, 284}</string>
+					<string>{62.5, 283.5}</string>
+					<string>{61.5, 283}</string>
+					<string>{60.5, 282.5}</string>
+					<string>{59.5, 282.5}</string>
+					<string>{58.5, 282}</string>
+					<string>{57.5, 282}</string>
+					<string>{56, 282}</string>
+					<string>{54.5, 282}</string>
+					<string>{53, 282}</string>
+					<string>{51.5, 282}</string>
+					<string>{50, 282.5}</string>
+					<string>{48, 283}</string>
+					<string>{46.5, 283.5}</string>
+					<string>{45, 284}</string>
+					<string>{43.5, 284.5}</string>
+					<string>{41.5, 285}</string>
+					<string>{40, 285.5}</string>
+					<string>{38.5, 286}</string>
+					<string>{37, 286.5}</string>
+				</array>
+				<key>width</key>
+				<integer>4</integer>
+			</dict>
+			<dict>
+				<key>color_rgb</key>
+				<integer>16711680</integer>
+				<key>opacity</key>
+				<real>1</real>
+				<key>px1</key>
+				<real>721</real>
+				<key>px2</key>
+				<real>795.5</real>
+				<key>py1</key>
+				<real>1029.5</real>
+				<key>py2</key>
+				<real>1089</real>
+				<key>touch_list</key>
+				<array>
+					<string>{766, 1037.5}</string>
+					<string>{766, 1037.5}</string>
+					<string>{766.5, 1037.5}</string>
+					<string>{766.5, 1037.5}</string>
+					<string>{766.5, 1037.5}</string>
+					<string>{766.5, 1037}</string>
+					<string>{766.5, 1037}</string>
+					<string>{766.5, 1037}</string>
+					<string>{766.5, 1037}</string>
+					<string>{766.5, 1036.5}</string>
+					<string>{766.5, 1036.5}</string>
+					<string>{766.5, 1036.5}</string>
+					<string>{766, 1036.5}</string>
+					<string>{766, 1036}</string>
+					<string>{766, 1036}</string>
+					<string>{765.5, 1036}</string>
+					<string>{765.5, 1035.5}</string>
+					<string>{765, 1035.5}</string>
+					<string>{765, 1035.5}</string>
+					<string>{764.5, 1035}</string>
+					<string>{764, 1035}</string>
+					<string>{764, 1034.5}</string>
+					<string>{763.5, 1034.5}</string>
+					<string>{763, 1034.5}</string>
+					<string>{762.5, 1034.5}</string>
+					<string>{762, 1034.5}</string>
+					<string>{761.5, 1034}</string>
+					<string>{761, 1034}</string>
+					<string>{761, 1034}</string>
+					<string>{760.5, 1034}</string>
+					<string>{760, 1034}</string>
+					<string>{759.5, 1034}</string>
+					<string>{758.5, 1034}</string>
+					<string>{758, 1034}</string>
+					<string>{757.5, 1033.5}</string>
+					<string>{757, 1033.5}</string>
+					<string>{756.5, 1033.5}</string>
+					<string>{755.5, 1033.5}</string>
+					<string>{755, 1033}</string>
+					<string>{754, 1033}</string>
+					<string>{753.5, 1033}</string>
+					<string>{753, 1033}</string>
+					<string>{752, 1032.5}</string>
+					<string>{751, 1032.5}</string>
+					<string>{750, 1032.5}</string>
+					<string>{749.5, 1032.5}</string>
+					<string>{748.5, 1032.5}</string>
+					<string>{747.5, 1032}</string>
+					<string>{746.5, 1032}</string>
+					<string>{746, 1032}</string>
+					<string>{745, 1032}</string>
+					<string>{744, 1032}</string>
+					<string>{743.5, 1032}</string>
+					<string>{742.5, 1032}</string>
+					<string>{741.5, 1032}</string>
+					<string>{740.5, 1032}</string>
+					<string>{739.5, 1032}</string>
+					<string>{738.5, 1032}</string>
+					<string>{737.5, 1032}</string>
+					<string>{736.5, 1032}</string>
+					<string>{736, 1032}</string>
+					<string>{735, 1032.5}</string>
+					<string>{734, 1032.5}</string>
+					<string>{732.5, 1033}</string>
+					<string>{731.5, 1033.5}</string>
+					<string>{730.5, 1034}</string>
+					<string>{729.5, 1034.5}</string>
+					<string>{728.5, 1035}</string>
+					<string>{728, 1035.5}</string>
+					<string>{727, 1036}</string>
+					<string>{726.5, 1036.5}</string>
+					<string>{725.5, 1037}</string>
+					<string>{725, 1037.5}</string>
+					<string>{724.5, 1038}</string>
+					<string>{724, 1038.5}</string>
+					<string>{723.5, 1039}</string>
+					<string>{723, 1040}</string>
+					<string>{722.5, 1040.5}</string>
+					<string>{722, 1041}</string>
+					<string>{722, 1042}</string>
+					<string>{721.5, 1042.5}</string>
+					<string>{721.5, 1043.5}</string>
+					<string>{721, 1044.5}</string>
+					<string>{721, 1045.5}</string>
+					<string>{721, 1046.5}</string>
+					<string>{721, 1047.5}</string>
+					<string>{721, 1049}</string>
+					<string>{721, 1050.5}</string>
+					<string>{721, 1052}</string>
+					<string>{721, 1053}</string>
+					<string>{721, 1054.5}</string>
+					<string>{721.5, 1055.5}</string>
+					<string>{721.5, 1057}</string>
+					<string>{722, 1058}</string>
+					<string>{722.5, 1059.5}</string>
+					<string>{723, 1060.5}</string>
+					<string>{723.5, 1061.5}</string>
+					<string>{724.5, 1062.5}</string>
+					<string>{725, 1064}</string>
+					<string>{726, 1065}</string>
+					<string>{726.5, 1066}</string>
+					<string>{727.5, 1067}</string>
+					<string>{728.5, 1068}</string>
+					<string>{729.5, 1068.5}</string>
+					<string>{730.5, 1069.5}</string>
+					<string>{731.5, 1070.5}</string>
+					<string>{732.5, 1071.5}</string>
+					<string>{733.5, 1072}</string>
+					<string>{734.5, 1073}</string>
+					<string>{736, 1073.5}</string>
+					<string>{737, 1074.5}</string>
+					<string>{738.5, 1075.5}</string>
+					<string>{739.5, 1076}</string>
+					<string>{741, 1077}</string>
+					<string>{742, 1077.5}</string>
+					<string>{743.5, 1078.5}</string>
+					<string>{744.5, 1079.5}</string>
+					<string>{746, 1080.5}</string>
+					<string>{747, 1081}</string>
+					<string>{748.5, 1082}</string>
+					<string>{749.5, 1083}</string>
+					<string>{751, 1083.5}</string>
+					<string>{752, 1084}</string>
+					<string>{753, 1085}</string>
+					<string>{754.5, 1085.5}</string>
+					<string>{755.5, 1086}</string>
+					<string>{756.5, 1086.5}</string>
+					<string>{758, 1087}</string>
+					<string>{759, 1087.5}</string>
+					<string>{760.5, 1087.5}</string>
+					<string>{761.5, 1088}</string>
+					<string>{762.5, 1088.5}</string>
+					<string>{764, 1088.5}</string>
+					<string>{765, 1089}</string>
+					<string>{766, 1089}</string>
+					<string>{767.5, 1089}</string>
+					<string>{768.5, 1089}</string>
+					<string>{769.5, 1089}</string>
+					<string>{771, 1089}</string>
+					<string>{772, 1089}</string>
+					<string>{773.5, 1089}</string>
+					<string>{774.5, 1089}</string>
+					<string>{775.5, 1089}</string>
+					<string>{776.5, 1089}</string>
+					<string>{777.5, 1089}</string>
+					<string>{778.5, 1088.5}</string>
+					<string>{779.5, 1088.5}</string>
+					<string>{780.5, 1088}</string>
+					<string>{781.5, 1087.5}</string>
+					<string>{782.5, 1087}</string>
+					<string>{783.5, 1087}</string>
+					<string>{784.5, 1086.5}</string>
+					<string>{785.5, 1086}</string>
+					<string>{786.5, 1085.5}</string>
+					<string>{787, 1085}</string>
+					<string>{787.5, 1084.5}</string>
+					<string>{788.5, 1084}</string>
+					<string>{789, 1083.5}</string>
+					<string>{789.5, 1083}</string>
+					<string>{790, 1082.5}</string>
+					<string>{791, 1081.5}</string>
+					<string>{791.5, 1081}</string>
+					<string>{792, 1080.5}</string>
+					<string>{792, 1080}</string>
+					<string>{792.5, 1079.5}</string>
+					<string>{793, 1079}</string>
+					<string>{793.5, 1078}</string>
+					<string>{794, 1077.5}</string>
+					<string>{794.5, 1076.5}</string>
+					<string>{794.5, 1075.5}</string>
+					<string>{795, 1075}</string>
+					<string>{795, 1074}</string>
+					<string>{795.5, 1073}</string>
+					<string>{795.5, 1072.5}</string>
+					<string>{795.5, 1071.5}</string>
+					<string>{795.5, 1070.5}</string>
+					<string>{795.5, 1070}</string>
+					<string>{795.5, 1069}</string>
+					<string>{795.5, 1068}</string>
+					<string>{795.5, 1067.5}</string>
+					<string>{795, 1066.5}</string>
+					<string>{795, 1065.5}</string>
+					<string>{794.5, 1065}</string>
+					<string>{794, 1064}</string>
+					<string>{793.5, 1063.5}</string>
+					<string>{793, 1062.5}</string>
+					<string>{792.5, 1061.5}</string>
+					<string>{792, 1061}</string>
+					<string>{791, 1060}</string>
+					<string>{790.5, 1059.5}</string>
+					<string>{790, 1058.5}</string>
+					<string>{789, 1057.5}</string>
+					<string>{788.5, 1057}</string>
+					<string>{787.5, 1056}</string>
+					<string>{787, 1055}</string>
+					<string>{786, 1054}</string>
+					<string>{785, 1053}</string>
+					<string>{784, 1052}</string>
+					<string>{783, 1051}</string>
+					<string>{782, 1049.5}</string>
+					<string>{781.5, 1048.5}</string>
+					<string>{780.5, 1047.5}</string>
+					<string>{779.5, 1046.5}</string>
+					<string>{779, 1045.5}</string>
+					<string>{778, 1044.5}</string>
+					<string>{777, 1043.5}</string>
+					<string>{776, 1042}</string>
+					<string>{775.5, 1041}</string>
+					<string>{775, 1040}</string>
+					<string>{774, 1039}</string>
+					<string>{773.5, 1038.5}</string>
+					<string>{772.5, 1037.5}</string>
+					<string>{771.5, 1037}</string>
+					<string>{771, 1036.5}</string>
+					<string>{770, 1035.5}</string>
+					<string>{769.5, 1035}</string>
+					<string>{768.5, 1034.5}</string>
+					<string>{768, 1034}</string>
+					<string>{767, 1033.5}</string>
+					<string>{766.5, 1033}</string>
+					<string>{766, 1032.5}</string>
+					<string>{765, 1032}</string>
+					<string>{764, 1031.5}</string>
+					<string>{763, 1031}</string>
+					<string>{762, 1030}</string>
+					<string>{761, 1029.5}</string>
+				</array>
+				<key>width</key>
+				<integer>4</integer>
+			</dict>
+			<dict>
+				<key>color_rgb</key>
+				<integer>16711680</integer>
+				<key>opacity</key>
+				<real>1</real>
+				<key>px1</key>
+				<real>38</real>
+				<key>px2</key>
+				<real>106</real>
+				<key>py1</key>
+				<real>1042.4879150390625</real>
+				<key>py2</key>
+				<real>1101.495849609375</real>
+				<key>touch_list</key>
+				<array>
+					<string>{62, 1047.9906005859375}</string>
+					<string>{62, 1047.9906005859375}</string>
+					<string>{62, 1047.9906005859375}</string>
+					<string>{62, 1047.9906005859375}</string>
+					<string>{61.5, 1047.9906005859375}</string>
+					<string>{61.5, 1047.9906005859375}</string>
+					<string>{61, 1047.9906005859375}</string>
+					<string>{61, 1047.9906005859375}</string>
+					<string>{61, 1047.9906005859375}</string>
+					<string>{61, 1047.9906005859375}</string>
+					<string>{60.5, 1047.9906005859375}</string>
+					<string>{60.5, 1047.9906005859375}</string>
+					<string>{60.5, 1047.9906005859375}</string>
+					<string>{60.5, 1047.9906005859375}</string>
+					<string>{60, 1047.9906005859375}</string>
+					<string>{60, 1047.9906005859375}</string>
+					<string>{60, 1047.9906005859375}</string>
+					<string>{60, 1047.9906005859375}</string>
+					<string>{59.5, 1047.9906005859375}</string>
+					<string>{59.5, 1048.4908447265625}</string>
+					<string>{59, 1048.4908447265625}</string>
+					<string>{59, 1048.4908447265625}</string>
+					<string>{58.5, 1048.4908447265625}</string>
+					<string>{58.5, 1048.4908447265625}</string>
+					<string>{58, 1048.9910888671875}</string>
+					<string>{57.5, 1048.9910888671875}</string>
+					<string>{57.5, 1048.9910888671875}</string>
+					<string>{57, 1049.4913330078125}</string>
+					<string>{56.5, 1049.4913330078125}</string>
+					<string>{56.5, 1049.9915771484375}</string>
+					<string>{56, 1049.9915771484375}</string>
+					<string>{55.5, 1050.4918212890625}</string>
+					<string>{55, 1050.9920654296875}</string>
+					<string>{54.5, 1050.9920654296875}</string>
+					<string>{54, 1051.4923095703125}</string>
+					<string>{53.5, 1051.9925537109375}</string>
+					<string>{53, 1052.4927978515625}</string>
+					<string>{52.5, 1052.9930419921875}</string>
+					<string>{52, 1053.4932861328125}</string>
+					<string>{51.5, 1053.4932861328125}</string>
+					<string>{51, 1054.4937744140625}</string>
+					<string>{50.5, 1054.9940185546875}</string>
+					<string>{50, 1055.4942626953125}</string>
+					<string>{49.5, 1055.9945068359375}</string>
+					<string>{49, 1056.4947509765625}</string>
+					<string>{48, 1057.4952392578125}</string>
+					<string>{47.5, 1057.9954833984375}</string>
+					<string>{47, 1058.9959716796875}</string>
+					<string>{46.5, 1059.4962158203125}</string>
+					<string>{45.5, 1060.4967041015625}</string>
+					<string>{45, 1060.9969482421875}</string>
+					<string>{44.5, 1061.4971923828125}</string>
+					<string>{44, 1062.4976806640625}</string>
+					<string>{43.5, 1062.9979248046875}</string>
+					<string>{43, 1063.4981689453125}</string>
+					<string>{42.5, 1063.9984130859375}</string>
+					<string>{42.5, 1064.4986572265625}</string>
+					<string>{42, 1064.9989013671875}</string>
+					<string>{41.5, 1065.4991455078125}</string>
+					<string>{41, 1065.9993896484375}</string>
+					<string>{41, 1066.9998779296875}</string>
+					<string>{40.5, 1067.479248046875}</string>
+					<string>{40.5, 1067.9794921875}</string>
+					<string>{40, 1068.97998046875}</string>
+					<string>{39.5, 1069.480224609375}</string>
+					<string>{39.5, 1069.98046875}</string>
+					<string>{39.5, 1070.98095703125}</string>
+					<string>{39, 1071.481201171875}</string>
+					<string>{39, 1072.481689453125}</string>
+					<string>{39, 1072.98193359375}</string>
+					<string>{38.5, 1073.982421875}</string>
+					<string>{38.5, 1074.482666015625}</string>
+					<string>{38.5, 1075.483154296875}</string>
+					<string>{38.5, 1075.9833984375}</string>
+					<string>{38, 1076.98388671875}</string>
+					<string>{38, 1077.984375}</string>
+					<string>{38, 1078.484619140625}</string>
+					<string>{38, 1079.485107421875}</string>
+					<string>{38, 1079.9853515625}</string>
+					<string>{38, 1080.98583984375}</string>
+					<string>{38, 1081.486083984375}</string>
+					<string>{38, 1082.486572265625}</string>
+					<string>{38, 1082.98681640625}</string>
+					<string>{38.5, 1083.487060546875}</string>
+					<string>{38.5, 1084.487548828125}</string>
+					<string>{39, 1084.98779296875}</string>
+					<string>{39, 1085.488037109375}</string>
+					<string>{39.5, 1085.98828125}</string>
+					<string>{39.5, 1086.488525390625}</string>
+					<string>{40, 1086.98876953125}</string>
+					<string>{40.5, 1087.489013671875}</string>
+					<string>{40.5, 1087.9892578125}</string>
+					<string>{41, 1088.489501953125}</string>
+					<string>{41.5, 1088.98974609375}</string>
+					<string>{41.5, 1089.489990234375}</string>
+					<string>{42, 1089.489990234375}</string>
+					<string>{42.5, 1089.990234375}</string>
+					<string>{42.5, 1090.490478515625}</string>
+					<string>{43, 1090.99072265625}</string>
+					<string>{43.5, 1091.490966796875}</string>
+					<string>{44, 1091.490966796875}</string>
+					<string>{44, 1091.9912109375}</string>
+					<string>{44.5, 1092.491455078125}</string>
+					<string>{44.5, 1092.99169921875}</string>
+					<string>{45, 1092.99169921875}</string>
+					<string>{45.5, 1093.491943359375}</string>
+					<string>{45.5, 1093.9921875}</string>
+					<string>{46, 1093.9921875}</string>
+					<string>{46, 1094.492431640625}</string>
+					<string>{46.5, 1094.99267578125}</string>
+					<string>{46.5, 1094.99267578125}</string>
+					<string>{47, 1095.492919921875}</string>
+					<string>{47, 1095.492919921875}</string>
+					<string>{47, 1095.9931640625}</string>
+					<string>{47.5, 1095.9931640625}</string>
+					<string>{47.5, 1096.493408203125}</string>
+					<string>{48, 1096.493408203125}</string>
+					<string>{48, 1096.99365234375}</string>
+					<string>{48.5, 1096.99365234375}</string>
+					<string>{48.5, 1097.493896484375}</string>
+					<string>{48.5, 1097.493896484375}</string>
+					<string>{49, 1097.493896484375}</string>
+					<string>{49, 1097.994140625}</string>
+					<string>{49, 1097.994140625}</string>
+					<string>{49.5, 1097.994140625}</string>
+					<string>{49.5, 1097.994140625}</string>
+					<string>{50, 1098.494384765625}</string>
+					<string>{50, 1098.494384765625}</string>
+					<string>{50, 1098.494384765625}</string>
+					<string>{50.5, 1098.99462890625}</string>
+					<string>{50.5, 1098.99462890625}</string>
+					<string>{51, 1098.99462890625}</string>
+					<string>{51, 1098.99462890625}</string>
+					<string>{51, 1099.494873046875}</string>
+					<string>{51.5, 1099.494873046875}</string>
+					<string>{51.5, 1099.494873046875}</string>
+					<string>{52, 1099.494873046875}</string>
+					<string>{52, 1099.9951171875}</string>
+					<string>{52.5, 1099.9951171875}</string>
+					<string>{52.5, 1099.9951171875}</string>
+					<string>{52.5, 1100.495361328125}</string>
+					<string>{53, 1100.495361328125}</string>
+					<string>{53.5, 1100.495361328125}</string>
+					<string>{53.5, 1100.495361328125}</string>
+					<string>{53.5, 1100.99560546875}</string>
+					<string>{54, 1100.99560546875}</string>
+					<string>{54.5, 1100.99560546875}</string>
+					<string>{54.5, 1100.99560546875}</string>
+					<string>{55, 1101.495849609375}</string>
+					<string>{55, 1101.495849609375}</string>
+					<string>{55.5, 1101.495849609375}</string>
+					<string>{55.5, 1101.495849609375}</string>
+					<string>{56, 1101.495849609375}</string>
+					<string>{56.5, 1101.495849609375}</string>
+					<string>{56.5, 1101.495849609375}</string>
+					<string>{57, 1101.495849609375}</string>
+					<string>{57.5, 1101.495849609375}</string>
+					<string>{57.5, 1101.495849609375}</string>
+					<string>{58, 1101.495849609375}</string>
+					<string>{58.5, 1101.495849609375}</string>
+					<string>{58.5, 1101.495849609375}</string>
+					<string>{59, 1101.495849609375}</string>
+					<string>{59.5, 1101.495849609375}</string>
+					<string>{59.5, 1101.495849609375}</string>
+					<string>{60, 1101.495849609375}</string>
+					<string>{60, 1101.495849609375}</string>
+					<string>{60.5, 1101.495849609375}</string>
+					<string>{61, 1101.495849609375}</string>
+					<string>{61.5, 1101.495849609375}</string>
+					<string>{62, 1100.99560546875}</string>
+					<string>{62, 1100.99560546875}</string>
+					<string>{62.5, 1100.99560546875}</string>
+					<string>{63, 1100.99560546875}</string>
+					<string>{63, 1100.495361328125}</string>
+					<string>{63.5, 1100.495361328125}</string>
+					<string>{64, 1100.495361328125}</string>
+					<string>{64.5, 1100.495361328125}</string>
+					<string>{64.5, 1099.9951171875}</string>
+					<string>{65, 1099.9951171875}</string>
+					<string>{65.5, 1099.494873046875}</string>
+					<string>{66, 1099.494873046875}</string>
+					<string>{66, 1099.494873046875}</string>
+					<string>{66.5, 1098.99462890625}</string>
+					<string>{67, 1098.99462890625}</string>
+					<string>{67, 1098.494384765625}</string>
+					<string>{67.5, 1098.494384765625}</string>
+					<string>{67.5, 1098.494384765625}</string>
+					<string>{68, 1097.994140625}</string>
+					<string>{68.5, 1097.994140625}</string>
+					<string>{68.5, 1097.994140625}</string>
+					<string>{69, 1097.493896484375}</string>
+					<string>{69.5, 1097.493896484375}</string>
+					<string>{69.5, 1097.493896484375}</string>
+					<string>{70, 1096.99365234375}</string>
+					<string>{70.5, 1096.99365234375}</string>
+					<string>{70.5, 1096.99365234375}</string>
+					<string>{71, 1096.493408203125}</string>
+					<string>{71.5, 1096.493408203125}</string>
+					<string>{71.5, 1096.493408203125}</string>
+					<string>{72, 1095.9931640625}</string>
+					<string>{72, 1095.9931640625}</string>
+					<string>{72.5, 1095.9931640625}</string>
+					<string>{73, 1095.492919921875}</string>
+					<string>{73, 1095.492919921875}</string>
+					<string>{73.5, 1094.99267578125}</string>
+					<string>{73.5, 1094.99267578125}</string>
+					<string>{74, 1094.99267578125}</string>
+					<string>{74.5, 1094.492431640625}</string>
+					<string>{74.5, 1094.492431640625}</string>
+					<string>{75, 1093.9921875}</string>
+					<string>{75, 1093.9921875}</string>
+					<string>{75.5, 1093.9921875}</string>
+					<string>{75.5, 1093.491943359375}</string>
+					<string>{76, 1093.491943359375}</string>
+					<string>{76, 1093.491943359375}</string>
+					<string>{76, 1092.99169921875}</string>
+					<string>{76.5, 1092.99169921875}</string>
+					<string>{76.5, 1092.99169921875}</string>
+					<string>{77, 1092.99169921875}</string>
+					<string>{77, 1092.99169921875}</string>
+					<string>{77, 1092.491455078125}</string>
+					<string>{77.5, 1092.491455078125}</string>
+					<string>{77.5, 1092.491455078125}</string>
+					<string>{77.5, 1092.491455078125}</string>
+					<string>{78, 1092.491455078125}</string>
+					<string>{78, 1092.491455078125}</string>
+					<string>{78, 1092.491455078125}</string>
+					<string>{78.5, 1092.491455078125}</string>
+					<string>{78.5, 1092.491455078125}</string>
+					<string>{78.5, 1092.491455078125}</string>
+					<string>{79, 1092.491455078125}</string>
+					<string>{79, 1092.491455078125}</string>
+					<string>{79, 1092.491455078125}</string>
+					<string>{79, 1092.491455078125}</string>
+					<string>{79.5, 1092.491455078125}</string>
+					<string>{79.5, 1092.491455078125}</string>
+					<string>{80, 1092.491455078125}</string>
+					<string>{80, 1092.491455078125}</string>
+					<string>{80, 1092.491455078125}</string>
+					<string>{80.5, 1092.491455078125}</string>
+					<string>{80.5, 1092.491455078125}</string>
+					<string>{80.5, 1091.9912109375}</string>
+					<string>{81, 1091.9912109375}</string>
+					<string>{81, 1091.9912109375}</string>
+					<string>{81.5, 1091.9912109375}</string>
+					<string>{81.5, 1091.9912109375}</string>
+					<string>{82, 1091.9912109375}</string>
+					<string>{82.5, 1091.9912109375}</string>
+					<string>{82.5, 1091.9912109375}</string>
+					<string>{83, 1091.9912109375}</string>
+					<string>{83.5, 1091.9912109375}</string>
+					<string>{83.5, 1091.9912109375}</string>
+					<string>{84, 1091.9912109375}</string>
+					<string>{84.5, 1091.490966796875}</string>
+					<string>{85, 1091.490966796875}</string>
+					<string>{85.5, 1091.490966796875}</string>
+					<string>{85.5, 1091.490966796875}</string>
+					<string>{86, 1091.490966796875}</string>
+					<string>{86.5, 1091.490966796875}</string>
+					<string>{87, 1091.490966796875}</string>
+					<string>{87.5, 1090.99072265625}</string>
+					<string>{87.5, 1090.99072265625}</string>
+					<string>{88, 1090.99072265625}</string>
+					<string>{88.5, 1090.99072265625}</string>
+					<string>{89, 1090.99072265625}</string>
+					<string>{89.5, 1090.490478515625}</string>
+					<string>{90, 1090.490478515625}</string>
+					<string>{90, 1090.490478515625}</string>
+					<string>{90.5, 1090.490478515625}</string>
+					<string>{91, 1089.990234375}</string>
+					<string>{91.5, 1089.990234375}</string>
+					<string>{92, 1089.990234375}</string>
+					<string>{92.5, 1089.489990234375}</string>
+					<string>{93, 1089.489990234375}</string>
+					<string>{93.5, 1089.489990234375}</string>
+					<string>{94, 1088.98974609375}</string>
+					<string>{94.5, 1088.98974609375}</string>
+					<string>{94.5, 1088.98974609375}</string>
+					<string>{95, 1088.489501953125}</string>
+					<string>{95.5, 1088.489501953125}</string>
+					<string>{96, 1088.489501953125}</string>
+					<string>{96.5, 1087.9892578125}</string>
+					<string>{97, 1087.9892578125}</string>
+					<string>{97, 1087.489013671875}</string>
+					<string>{97.5, 1087.489013671875}</string>
+					<string>{98, 1087.489013671875}</string>
+					<string>{98.5, 1086.98876953125}</string>
+					<string>{98.5, 1086.98876953125}</string>
+					<string>{99, 1086.488525390625}</string>
+					<string>{99.5, 1086.488525390625}</string>
+					<string>{100, 1085.98828125}</string>
+					<string>{100, 1085.98828125}</string>
+					<string>{100.5, 1085.488037109375}</string>
+					<string>{101, 1085.488037109375}</string>
+					<string>{101, 1084.98779296875}</string>
+					<string>{101.5, 1084.98779296875}</string>
+					<string>{102, 1084.487548828125}</string>
+					<string>{102, 1084.487548828125}</string>
+					<string>{102.5, 1083.9873046875}</string>
+					<string>{102.5, 1083.487060546875}</string>
+					<string>{103, 1082.98681640625}</string>
+					<string>{103, 1082.98681640625}</string>
+					<string>{103.5, 1082.486572265625}</string>
+					<string>{103.5, 1081.986328125}</string>
+					<string>{104, 1081.486083984375}</string>
+					<string>{104, 1080.98583984375}</string>
+					<string>{104.5, 1080.485595703125}</string>
+					<string>{104.5, 1079.9853515625}</string>
+					<string>{105, 1079.485107421875}</string>
+					<string>{105, 1078.98486328125}</string>
+					<string>{105, 1078.484619140625}</string>
+					<string>{105.5, 1077.984375}</string>
+					<string>{105.5, 1076.98388671875}</string>
+					<string>{105.5, 1076.483642578125}</string>
+					<string>{105.5, 1075.9833984375}</string>
+					<string>{105.5, 1075.483154296875}</string>
+					<string>{106, 1074.98291015625}</string>
+					<string>{106, 1074.482666015625}</string>
+					<string>{106, 1073.482177734375}</string>
+					<string>{106, 1072.98193359375}</string>
+					<string>{106, 1072.481689453125}</string>
+					<string>{106, 1071.9814453125}</string>
+					<string>{106, 1071.481201171875}</string>
+					<string>{106, 1070.98095703125}</string>
+					<string>{106, 1069.98046875}</string>
+					<string>{106, 1069.480224609375}</string>
+					<string>{106, 1068.97998046875}</string>
+					<string>{106, 1068.479736328125}</string>
+					<string>{106, 1067.9794921875}</string>
+					<string>{106, 1067.479248046875}</string>
+					<string>{105.5, 1066.9998779296875}</string>
+					<string>{105.5, 1066.4996337890625}</string>
+					<string>{105.5, 1065.9993896484375}</string>
+					<string>{105, 1065.4991455078125}</string>
+					<string>{105, 1064.9989013671875}</string>
+					<string>{104.5, 1064.4986572265625}</string>
+					<string>{104.5, 1064.4986572265625}</string>
+					<string>{104, 1063.9984130859375}</string>
+					<string>{104, 1063.4981689453125}</string>
+					<string>{104, 1063.4981689453125}</string>
+					<string>{103.5, 1062.9979248046875}</string>
+					<string>{103.5, 1062.4976806640625}</string>
+					<string>{103, 1062.4976806640625}</string>
+					<string>{102.5, 1061.9974365234375}</string>
+					<string>{102.5, 1061.4971923828125}</string>
+					<string>{102, 1061.4971923828125}</string>
+					<string>{102, 1060.9969482421875}</string>
+					<string>{101.5, 1060.4967041015625}</string>
+					<string>{101, 1060.4967041015625}</string>
+					<string>{101, 1059.9964599609375}</string>
+					<string>{100.5, 1059.9964599609375}</string>
+					<string>{100, 1059.9964599609375}</string>
+					<string>{99.5, 1059.4962158203125}</string>
+					<string>{99.5, 1059.4962158203125}</string>
+					<string>{99, 1059.4962158203125}</string>
+					<string>{98.5, 1058.9959716796875}</string>
+					<string>{98, 1058.9959716796875}</string>
+					<string>{97.5, 1058.9959716796875}</string>
+					<string>{97, 1058.4957275390625}</string>
+					<string>{96.5, 1058.4957275390625}</string>
+					<string>{96, 1058.4957275390625}</string>
+					<string>{95.5, 1058.4957275390625}</string>
+					<string>{95, 1057.9954833984375}</string>
+					<string>{94.5, 1057.9954833984375}</string>
+					<string>{94, 1057.9954833984375}</string>
+					<string>{93.5, 1057.9954833984375}</string>
+					<string>{93, 1057.9954833984375}</string>
+					<string>{92.5, 1057.9954833984375}</string>
+					<string>{92, 1057.9954833984375}</string>
+					<string>{91.5, 1057.4952392578125}</string>
+					<string>{91, 1057.4952392578125}</string>
+					<string>{90.5, 1057.4952392578125}</string>
+					<string>{90, 1057.4952392578125}</string>
+					<string>{89, 1057.4952392578125}</string>
+					<string>{88.5, 1056.9949951171875}</string>
+					<string>{88, 1056.9949951171875}</string>
+					<string>{87.5, 1056.9949951171875}</string>
+					<string>{87, 1056.9949951171875}</string>
+					<string>{86.5, 1056.9949951171875}</string>
+					<string>{86, 1056.4947509765625}</string>
+					<string>{85.5, 1056.4947509765625}</string>
+					<string>{85, 1056.4947509765625}</string>
+					<string>{84.5, 1056.4947509765625}</string>
+					<string>{84, 1056.4947509765625}</string>
+					<string>{83.5, 1055.9945068359375}</string>
+					<string>{83, 1055.9945068359375}</string>
+					<string>{82.5, 1055.9945068359375}</string>
+					<string>{82, 1055.9945068359375}</string>
+					<string>{81.5, 1055.9945068359375}</string>
+					<string>{81.5, 1055.9945068359375}</string>
+					<string>{81, 1055.4942626953125}</string>
+					<string>{80.5, 1055.4942626953125}</string>
+					<string>{80, 1055.4942626953125}</string>
+					<string>{80, 1055.4942626953125}</string>
+					<string>{79.5, 1054.9940185546875}</string>
+					<string>{79, 1054.9940185546875}</string>
+					<string>{78.5, 1054.9940185546875}</string>
+					<string>{78.5, 1054.9940185546875}</string>
+					<string>{78, 1054.4937744140625}</string>
+					<string>{77.5, 1054.4937744140625}</string>
+					<string>{77.5, 1054.4937744140625}</string>
+					<string>{77, 1054.4937744140625}</string>
+					<string>{77, 1054.4937744140625}</string>
+					<string>{76.5, 1053.9935302734375}</string>
+					<string>{76, 1053.9935302734375}</string>
+					<string>{76, 1053.9935302734375}</string>
+					<string>{75.5, 1053.9935302734375}</string>
+					<string>{75.5, 1053.9935302734375}</string>
+					<string>{75, 1053.4932861328125}</string>
+					<string>{74.5, 1053.4932861328125}</string>
+					<string>{74.5, 1053.4932861328125}</string>
+					<string>{74, 1053.4932861328125}</string>
+					<string>{74, 1053.4932861328125}</string>
+					<string>{73.5, 1052.9930419921875}</string>
+					<string>{73.5, 1052.9930419921875}</string>
+					<string>{73, 1052.9930419921875}</string>
+					<string>{72.5, 1052.4927978515625}</string>
+					<string>{72.5, 1052.4927978515625}</string>
+					<string>{72, 1052.4927978515625}</string>
+					<string>{72, 1052.4927978515625}</string>
+					<string>{71.5, 1051.9925537109375}</string>
+					<string>{71.5, 1051.9925537109375}</string>
+					<string>{71, 1051.4923095703125}</string>
+					<string>{70.5, 1051.4923095703125}</string>
+					<string>{70.5, 1050.9920654296875}</string>
+					<string>{70, 1050.9920654296875}</string>
+					<string>{70, 1050.4918212890625}</string>
+					<string>{69.5, 1050.4918212890625}</string>
+					<string>{69.5, 1049.9915771484375}</string>
+					<string>{69, 1049.4913330078125}</string>
+					<string>{69, 1049.4913330078125}</string>
+					<string>{68.5, 1048.9910888671875}</string>
+					<string>{68.5, 1048.9910888671875}</string>
+					<string>{68.5, 1048.4908447265625}</string>
+					<string>{68.5, 1048.4908447265625}</string>
+					<string>{68, 1047.9906005859375}</string>
+					<string>{68, 1047.9906005859375}</string>
+					<string>{68, 1047.4903564453125}</string>
+					<string>{67.5, 1046.9901123046875}</string>
+					<string>{67.5, 1046.9901123046875}</string>
+					<string>{67.5, 1046.4898681640625}</string>
+					<string>{67.5, 1046.4898681640625}</string>
+					<string>{67, 1045.9896240234375}</string>
+					<string>{67, 1045.9896240234375}</string>
+					<string>{67, 1045.4893798828125}</string>
+					<string>{66.5, 1045.4893798828125}</string>
+					<string>{66.5, 1044.9891357421875}</string>
+					<string>{66.5, 1044.4888916015625}</string>
+					<string>{66.5, 1044.4888916015625}</string>
+					<string>{66, 1043.9886474609375}</string>
+					<string>{66, 1043.9886474609375}</string>
+					<string>{66, 1043.4884033203125}</string>
+					<string>{65.5, 1043.4884033203125}</string>
+					<string>{65.5, 1043.4884033203125}</string>
+					<string>{65.5, 1042.9881591796875}</string>
+					<string>{65.5, 1042.9881591796875}</string>
+					<string>{65, 1042.9881591796875}</string>
+					<string>{65, 1042.9881591796875}</string>
+					<string>{65, 1042.9881591796875}</string>
+					<string>{65, 1042.4879150390625}</string>
+					<string>{64.5, 1042.4879150390625}</string>
+					<string>{64.5, 1042.4879150390625}</string>
+					<string>{64, 1042.4879150390625}</string>
+					<string>{64, 1042.4879150390625}</string>
+					<string>{64, 1042.4879150390625}</string>
+					<string>{63.5, 1042.4879150390625}</string>
+					<string>{63.5, 1042.4879150390625}</string>
+					<string>{63, 1042.4879150390625}</string>
+					<string>{63, 1042.4879150390625}</string>
+					<string>{63, 1042.9881591796875}</string>
+					<string>{62.5, 1042.9881591796875}</string>
+					<string>{62, 1043.4884033203125}</string>
+				</array>
+				<key>width</key>
+				<integer>4</integer>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>book</key>
+		<integer>70</integer>
+		<key>page</key>
+		<integer>98</integer>
+		<key>path_list</key>
+		<array>
+			<dict>
+				<key>color_rgb</key>
+				<integer>16711680</integer>
+				<key>opacity</key>
+				<real>1</real>
+				<key>px1</key>
+				<real>209</real>
+				<key>px2</key>
+				<real>212.5</real>
+				<key>py1</key>
+				<real>64</real>
+				<key>py2</key>
+				<real>90.5</real>
+				<key>touch_list</key>
+				<array>
+					<string>{212, 67}</string>
+					<string>{212, 67}</string>
+					<string>{212, 67}</string>
+					<string>{212, 67}</string>
+					<string>{212, 67}</string>
+					<string>{212, 67}</string>
+					<string>{211.5, 67}</string>
+					<string>{211.5, 67}</string>
+					<string>{211, 66.5}</string>
+					<string>{211, 66.5}</string>
+					<string>{211, 66.5}</string>
+					<string>{211, 66.5}</string>
+					<string>{210.5, 66}</string>
+					<string>{210.5, 66}</string>
+					<string>{210.5, 66}</string>
+					<string>{210.5, 66}</string>
+					<string>{210.5, 65.5}</string>
+					<string>{210.5, 65.5}</string>
+					<string>{210.5, 65.5}</string>
+					<string>{210.5, 65.5}</string>
+					<string>{210.5, 65.5}</string>
+					<string>{210.5, 65}</string>
+					<string>{210.5, 65}</string>
+					<string>{210.5, 65}</string>
+					<string>{210.5, 64.5}</string>
+					<string>{210.5, 64.5}</string>
+					<string>{210.5, 64.5}</string>
+					<string>{211, 64.5}</string>
+					<string>{211, 64}</string>
+					<string>{211, 64}</string>
+					<string>{211, 64}</string>
+					<string>{211, 64}</string>
+					<string>{211, 64}</string>
+					<string>{211, 64}</string>
+					<string>{211, 64.5}</string>
+					<string>{211, 65}</string>
+					<string>{210.5, 65.5}</string>
+					<string>{210.5, 66.5}</string>
+					<string>{210.5, 67.5}</string>
+					<string>{210, 68}</string>
+					<string>{210, 69}</string>
+					<string>{209.5, 70.5}</string>
+					<string>{209.5, 71.5}</string>
+					<string>{209.5, 73}</string>
+					<string>{209, 74.5}</string>
+					<string>{209, 76.5}</string>
+					<string>{209, 78}</string>
+					<string>{209, 79.5}</string>
+					<string>{209, 81}</string>
+					<string>{209, 82.5}</string>
+					<string>{209, 83.5}</string>
+					<string>{209, 84.5}</string>
+					<string>{209, 85.5}</string>
+					<string>{209.5, 86.5}</string>
+					<string>{210, 87.5}</string>
+					<string>{210.5, 88}</string>
+					<string>{211, 89}</string>
+					<string>{211.5, 89.5}</string>
+					<string>{212.5, 90.5}</string>
+				</array>
+				<key>width</key>
+				<integer>4</integer>
+			</dict>
+			<dict>
+				<key>color_rgb</key>
+				<integer>16711680</integer>
+				<key>opacity</key>
+				<real>1</real>
+				<key>px1</key>
+				<real>227</real>
+				<key>px2</key>
+				<real>237.5</real>
+				<key>py1</key>
+				<real>73.5</real>
+				<key>py2</key>
+				<real>92.5</real>
+				<key>touch_list</key>
+				<array>
+					<string>{231.5, 83.5}</string>
+					<string>{231.5, 83.5}</string>
+					<string>{231.5, 83.5}</string>
+					<string>{231.5, 84}</string>
+					<string>{231.5, 84}</string>
+					<string>{232, 84}</string>
+					<string>{232, 84.5}</string>
+					<string>{232, 84.5}</string>
+					<string>{232, 85}</string>
+					<string>{232, 85}</string>
+					<string>{232, 85}</string>
+					<string>{232, 85}</string>
+					<string>{232, 85.5}</string>
+					<string>{232, 85.5}</string>
+					<string>{232, 85.5}</string>
+					<string>{232, 85.5}</string>
+					<string>{232, 85.5}</string>
+					<string>{232, 85.5}</string>
+					<string>{232, 85.5}</string>
+					<string>{232, 85.5}</string>
+					<string>{232, 85.5}</string>
+					<string>{232, 85.5}</string>
+					<string>{231.5, 85.5}</string>
+					<string>{231.5, 85.5}</string>
+					<string>{231.5, 85.5}</string>
+					<string>{231.5, 85.5}</string>
+					<string>{231, 85.5}</string>
+					<string>{231, 85.5}</string>
+					<string>{231, 85.5}</string>
+					<string>{231, 85.5}</string>
+					<string>{230.5, 85}</string>
+					<string>{230.5, 85}</string>
+					<string>{230, 85}</string>
+					<string>{230, 84.5}</string>
+					<string>{230, 84.5}</string>
+					<string>{229.5, 84.5}</string>
+					<string>{229.5, 84}</string>
+					<string>{229.5, 83.5}</string>
+					<string>{229, 83.5}</string>
+					<string>{229, 83}</string>
+					<string>{229, 82.5}</string>
+					<string>{229, 81.5}</string>
+					<string>{228.5, 81}</string>
+					<string>{228.5, 80.5}</string>
+					<string>{228.5, 80}</string>
+					<string>{228, 79}</string>
+					<string>{228, 78.5}</string>
+					<string>{228, 77.5}</string>
+					<string>{228, 77}</string>
+					<string>{227.5, 76}</string>
+					<string>{227.5, 75.5}</string>
+					<string>{227.5, 75}</string>
+					<string>{227.5, 74.5}</string>
+					<string>{227.5, 74}</string>
+					<string>{227, 74}</string>
+					<string>{227, 74}</string>
+					<string>{227, 73.5}</string>
+					<string>{227, 73.5}</string>
+					<string>{227, 73.5}</string>
+					<string>{227, 73.5}</string>
+					<string>{227, 73.5}</string>
+					<string>{227, 73.5}</string>
+					<string>{227, 74}</string>
+					<string>{227, 74.5}</string>
+					<string>{227.5, 75.5}</string>
+					<string>{227.5, 76.5}</string>
+					<string>{228, 77.5}</string>
+					<string>{228, 78.5}</string>
+					<string>{228.5, 79.5}</string>
+					<string>{229, 81}</string>
+					<string>{229.5, 82.5}</string>
+					<string>{230, 83.5}</string>
+					<string>{230.5, 85}</string>
+					<string>{231, 86.5}</string>
+					<string>{231.5, 87.5}</string>
+					<string>{232, 88.5}</string>
+					<string>{233, 90}</string>
+					<string>{233.5, 90.5}</string>
+					<string>{234, 91}</string>
+					<string>{234.5, 92}</string>
+					<string>{234.5, 92}</string>
+					<string>{235, 92}</string>
+					<string>{235.5, 92.5}</string>
+					<string>{236, 92.5}</string>
+					<string>{236, 92.5}</string>
+					<string>{236.5, 92}</string>
+					<string>{236.5, 91}</string>
+					<string>{237, 90.5}</string>
+					<string>{237, 89.5}</string>
+					<string>{237, 89}</string>
+					<string>{237.5, 88}</string>
+					<string>{237.5, 87}</string>
+					<string>{237.5, 86}</string>
+					<string>{237.5, 85}</string>
+					<string>{237.5, 84}</string>
+					<string>{237.5, 83}</string>
+					<string>{237.5, 82}</string>
+					<string>{237.5, 81}</string>
+					<string>{237.5, 80}</string>
+					<string>{237.5, 79}</string>
+					<string>{237, 78.5}</string>
+					<string>{237, 78}</string>
+					<string>{236.5, 77.5}</string>
+					<string>{236.5, 77}</string>
+					<string>{236.5, 76.5}</string>
+					<string>{236, 76}</string>
+					<string>{236, 76}</string>
+					<string>{236, 75.5}</string>
+					<string>{236, 75.5}</string>
+					<string>{236, 75}</string>
+					<string>{236, 75}</string>
+					<string>{236, 75}</string>
+					<string>{236, 75}</string>
+					<string>{236, 75}</string>
+					<string>{236, 75}</string>
+					<string>{236, 74.5}</string>
+				</array>
+				<key>width</key>
+				<integer>4</integer>
+			</dict>
+			<dict>
+				<key>color_rgb</key>
+				<integer>16711680</integer>
+				<key>opacity</key>
+				<real>1</real>
+				<key>px1</key>
+				<real>249.5</real>
+				<key>px2</key>
+				<real>252.5</real>
+				<key>py1</key>
+				<real>70.5</real>
+				<key>py2</key>
+				<real>95</real>
+				<key>touch_list</key>
+				<array>
+					<string>{249.5, 72}</string>
+					<string>{249.5, 72}</string>
+					<string>{249.5, 72}</string>
+					<string>{249.5, 71.5}</string>
+					<string>{249.5, 71}</string>
+					<string>{249.5, 71}</string>
+					<string>{249.5, 71}</string>
+					<string>{249.5, 70.5}</string>
+					<string>{249.5, 70.5}</string>
+					<string>{249.5, 70.5}</string>
+					<string>{249.5, 70.5}</string>
+					<string>{249.5, 70.5}</string>
+					<string>{249.5, 70.5}</string>
+					<string>{249.5, 71}</string>
+					<string>{249.5, 71.5}</string>
+					<string>{250, 72}</string>
+					<string>{250.5, 72.5}</string>
+					<string>{250.5, 73.5}</string>
+					<string>{251, 74}</string>
+					<string>{251, 75.5}</string>
+					<string>{251.5, 76.5}</string>
+					<string>{251.5, 78}</string>
+					<string>{251.5, 79.5}</string>
+					<string>{252, 81}</string>
+					<string>{252, 82.5}</string>
+					<string>{252, 83.5}</string>
+					<string>{252, 85}</string>
+					<string>{252, 86.5}</string>
+					<string>{252, 88}</string>
+					<string>{252, 89.5}</string>
+					<string>{252, 90.5}</string>
+					<string>{252, 91.5}</string>
+					<string>{252, 92.5}</string>
+					<string>{252, 93}</string>
+					<string>{252, 94}</string>
+					<string>{252, 94.5}</string>
+					<string>{252, 94.5}</string>
+					<string>{252, 95}</string>
+					<string>{252, 95}</string>
+					<string>{252, 95}</string>
+					<string>{252, 95}</string>
+					<string>{252, 95}</string>
+					<string>{252, 94.5}</string>
+					<string>{252, 94}</string>
+					<string>{252.5, 93}</string>
+					<string>{252.5, 91.5}</string>
+				</array>
+				<key>width</key>
+				<integer>4</integer>
+			</dict>
+			<dict>
+				<key>color_rgb</key>
+				<integer>16711680</integer>
+				<key>opacity</key>
+				<real>1</real>
+				<key>px1</key>
+				<real>243</real>
+				<key>px2</key>
+				<real>270</real>
+				<key>py1</key>
+				<real>73.5</real>
+				<key>py2</key>
+				<real>77</real>
+				<key>touch_list</key>
+				<array>
+					<string>{245.5, 77}</string>
+					<string>{245.5, 77}</string>
+					<string>{245.5, 77}</string>
+					<string>{245, 76.5}</string>
+					<string>{244.5, 76}</string>
+					<string>{244, 76}</string>
+					<string>{244, 75.5}</string>
+					<string>{243.5, 75.5}</string>
+					<string>{243.5, 75}</string>
+					<string>{243, 75}</string>
+					<string>{243, 75}</string>
+					<string>{243, 75}</string>
+					<string>{243, 75}</string>
+					<string>{243, 74.5}</string>
+					<string>{243, 74.5}</string>
+					<string>{243.5, 74.5}</string>
+					<string>{244, 74.5}</string>
+					<string>{244.5, 74.5}</string>
+					<string>{245, 74.5}</string>
+					<string>{245.5, 74}</string>
+					<string>{246.5, 74}</string>
+					<string>{247, 73.5}</string>
+					<string>{248, 73.5}</string>
+					<string>{248.5, 73.5}</string>
+					<string>{249.5, 73.5}</string>
+					<string>{250.5, 73.5}</string>
+					<string>{251.5, 73.5}</string>
+					<string>{252, 73.5}</string>
+					<string>{253, 73.5}</string>
+					<string>{254, 73.5}</string>
+					<string>{255, 74}</string>
+					<string>{256, 74}</string>
+					<string>{257, 74.5}</string>
+					<string>{258, 74.5}</string>
+					<string>{259, 74.5}</string>
+					<string>{260.5, 75}</string>
+					<string>{261.5, 75}</string>
+					<string>{263, 75}</string>
+					<string>{264, 75}</string>
+					<string>{265, 75}</string>
+					<string>{266.5, 75}</string>
+					<string>{267.5, 75}</string>
+					<string>{268.5, 75}</string>
+					<string>{270, 75}</string>
+				</array>
+				<key>width</key>
+				<integer>4</integer>
+			</dict>
+			<dict>
+				<key>color_rgb</key>
+				<integer>16711680</integer>
+				<key>opacity</key>
+				<real>1</real>
+				<key>px1</key>
+				<real>272.5</real>
+				<key>px2</key>
+				<real>292</real>
+				<key>py1</key>
+				<real>72</real>
+				<key>py2</key>
+				<real>90</real>
+				<key>touch_list</key>
+				<array>
+					<string>{273.5, 84.5}</string>
+					<string>{273.5, 84.5}</string>
+					<string>{273.5, 85}</string>
+					<string>{273.5, 85}</string>
+					<string>{273, 85}</string>
+					<string>{273, 85.5}</string>
+					<string>{273, 85.5}</string>
+					<string>{273, 85.5}</string>
+					<string>{273, 85.5}</string>
+					<string>{272.5, 85.5}</string>
+					<string>{272.5, 85.5}</string>
+					<string>{272.5, 85.5}</string>
+					<string>{272.5, 85.5}</string>
+					<string>{272.5, 85.5}</string>
+					<string>{272.5, 85.5}</string>
+					<string>{272.5, 85.5}</string>
+					<string>{272.5, 86}</string>
+					<string>{272.5, 86}</string>
+					<string>{272.5, 86}</string>
+					<string>{272.5, 86}</string>
+					<string>{272.5, 86}</string>
+					<string>{272.5, 85.5}</string>
+					<string>{273, 85.5}</string>
+					<string>{273, 85}</string>
+					<string>{273, 84.5}</string>
+					<string>{273, 84}</string>
+					<string>{273, 83.5}</string>
+					<string>{273, 82.5}</string>
+					<string>{273.5, 82}</string>
+					<string>{273.5, 81}</string>
+					<string>{273.5, 80.5}</string>
+					<string>{274, 79.5}</string>
+					<string>{274, 78.5}</string>
+					<string>{274, 77.5}</string>
+					<string>{274.5, 76.5}</string>
+					<string>{275, 75.5}</string>
+					<string>{275, 75}</string>
+					<string>{275.5, 74.5}</string>
+					<string>{275.5, 74}</string>
+					<string>{276, 73.5}</string>
+					<string>{276.5, 73}</string>
+					<string>{276.5, 72.5}</string>
+					<string>{277, 72.5}</string>
+					<string>{277, 72}</string>
+					<string>{277.5, 72}</string>
+					<string>{278, 72}</string>
+					<string>{278, 72}</string>
+					<string>{278.5, 72}</string>
+					<string>{278.5, 72}</string>
+					<string>{279, 72}</string>
+					<string>{279.5, 72}</string>
+					<string>{279.5, 72.5}</string>
+					<string>{280, 72.5}</string>
+					<string>{280, 73}</string>
+					<string>{280.5, 73.5}</string>
+					<string>{280.5, 73.5}</string>
+					<string>{280.5, 74}</string>
+					<string>{280.5, 74.5}</string>
+					<string>{280.5, 75.5}</string>
+					<string>{280.5, 75.5}</string>
+					<string>{280.5, 76.5}</string>
+					<string>{280.5, 77}</string>
+					<string>{280.5, 77.5}</string>
+					<string>{280.5, 78}</string>
+					<string>{280.5, 78.5}</string>
+					<string>{280.5, 79}</string>
+					<string>{280.5, 79}</string>
+					<string>{280.5, 80}</string>
+					<string>{280, 80}</string>
+					<string>{280, 80.5}</string>
+					<string>{279.5, 81}</string>
+					<string>{279.5, 81.5}</string>
+					<string>{279, 82}</string>
+					<string>{279, 82}</string>
+					<string>{278.5, 82.5}</string>
+					<string>{278, 83}</string>
+					<string>{278, 83.5}</string>
+					<string>{277.5, 84}</string>
+					<string>{277.5, 84}</string>
+					<string>{277, 84.5}</string>
+					<string>{277, 84.5}</string>
+					<string>{277, 85}</string>
+					<string>{277, 85}</string>
+					<string>{277, 85.5}</string>
+					<string>{277, 85.5}</string>
+					<string>{277, 86}</string>
+					<string>{277, 86}</string>
+					<string>{277, 86.5}</string>
+					<string>{277, 86.5}</string>
+					<string>{277.5, 86.5}</string>
+					<string>{277.5, 87}</string>
+					<string>{278, 87.5}</string>
+					<string>{278.5, 87.5}</string>
+					<string>{279, 88}</string>
+					<string>{279.5, 88}</string>
+					<string>{280, 88.5}</string>
+					<string>{281, 88.5}</string>
+					<string>{281.5, 89}</string>
+					<string>{282.5, 89}</string>
+					<string>{283.5, 89}</string>
+					<string>{284.5, 89}</string>
+					<string>{285, 89}</string>
+					<string>{286.5, 89.5}</string>
+					<string>{287.5, 89.5}</string>
+					<string>{288.5, 89.5}</string>
+					<string>{289.5, 89.5}</string>
+					<string>{291, 89.5}</string>
+					<string>{292, 90}</string>
+				</array>
+				<key>width</key>
+				<integer>4</integer>
+			</dict>
+			<dict>
+				<key>color_rgb</key>
+				<integer>16711680</integer>
+				<key>opacity</key>
+				<real>1</real>
+				<key>px1</key>
+				<real>293.5</real>
+				<key>px2</key>
+				<real>303.5</real>
+				<key>py1</key>
+				<real>78</real>
+				<key>py2</key>
+				<real>90.5</real>
+				<key>touch_list</key>
+				<array>
+					<string>{301, 83.5}</string>
+					<string>{301, 83.5}</string>
+					<string>{301, 83.5}</string>
+					<string>{301, 83.5}</string>
+					<string>{301, 83.5}</string>
+					<string>{301, 83.5}</string>
+					<string>{300.5, 83.5}</string>
+					<string>{300.5, 83.5}</string>
+					<string>{300, 83.5}</string>
+					<string>{300, 83.5}</string>
+					<string>{299.5, 83.5}</string>
+					<string>{299.5, 84}</string>
+					<string>{299, 84}</string>
+					<string>{299, 84.5}</string>
+					<string>{299, 85}</string>
+					<string>{299, 85.5}</string>
+					<string>{299, 86}</string>
+					<string>{298.5, 86.5}</string>
+					<string>{298.5, 87}</string>
+					<string>{298.5, 87.5}</string>
+					<string>{298.5, 88}</string>
+					<string>{298.5, 88.5}</string>
+					<string>{298.5, 88.5}</string>
+					<string>{298.5, 89}</string>
+					<string>{298.5, 89.5}</string>
+					<string>{299, 89.5}</string>
+					<string>{299, 90}</string>
+					<string>{299, 90}</string>
+					<string>{299, 90}</string>
+					<string>{299.5, 90.5}</string>
+					<string>{299.5, 90.5}</string>
+					<string>{300, 90.5}</string>
+					<string>{300, 90.5}</string>
+					<string>{300.5, 90.5}</string>
+					<string>{300.5, 90.5}</string>
+					<string>{301, 90}</string>
+					<string>{301.5, 89.5}</string>
+					<string>{301.5, 88.5}</string>
+					<string>{302, 88}</string>
+					<string>{302.5, 87}</string>
+					<string>{302.5, 86}</string>
+					<string>{303, 85.5}</string>
+					<string>{303, 84.5}</string>
+					<string>{303.5, 83.5}</string>
+					<string>{303.5, 83}</string>
+					<string>{303.5, 82}</string>
+					<string>{303.5, 81.5}</string>
+					<string>{303.5, 80.5}</string>
+					<string>{303.5, 80}</string>
+					<string>{303.5, 79.5}</string>
+					<string>{303.5, 79}</string>
+					<string>{303, 78.5}</string>
+					<string>{302.5, 78}</string>
+					<string>{302, 78}</string>
+					<string>{301.5, 78}</string>
+					<string>{301, 78}</string>
+					<string>{300.5, 78}</string>
+					<string>{299.5, 78}</string>
+					<string>{299, 78.5}</string>
+					<string>{298, 79}</string>
+					<string>{297, 79.5}</string>
+					<string>{296.5, 80.5}</string>
+					<string>{296, 81}</string>
+					<string>{295.5, 82}</string>
+					<string>{295, 82.5}</string>
+					<string>{294.5, 83}</string>
+					<string>{294, 84}</string>
+					<string>{294, 84.5}</string>
+					<string>{293.5, 85}</string>
+				</array>
+				<key>width</key>
+				<integer>4</integer>
+			</dict>
+			<dict>
+				<key>color_rgb</key>
+				<integer>16711680</integer>
+				<key>opacity</key>
+				<real>1</real>
+				<key>px1</key>
+				<real>229</real>
+				<key>px2</key>
+				<real>230</real>
+				<key>py1</key>
+				<real>87</real>
+				<key>py2</key>
+				<real>94</real>
+				<key>touch_list</key>
+				<array>
+					<string>{229.5, 94}</string>
+					<string>{229.5, 94}</string>
+					<string>{229.5, 94}</string>
+					<string>{229.5, 94}</string>
+					<string>{229.5, 94}</string>
+					<string>{229.5, 94}</string>
+					<string>{229.5, 94}</string>
+					<string>{229.5, 93.5}</string>
+					<string>{229.5, 93.5}</string>
+					<string>{229.5, 93.5}</string>
+					<string>{229.5, 93.5}</string>
+					<string>{229.5, 93.5}</string>
+					<string>{229.5, 93.5}</string>
+					<string>{229, 93}</string>
+					<string>{229, 93}</string>
+					<string>{229, 93}</string>
+					<string>{229, 93}</string>
+					<string>{229, 93}</string>
+					<string>{229, 93}</string>
+					<string>{229, 93}</string>
+					<string>{229, 93}</string>
+					<string>{229, 93}</string>
+					<string>{229, 92.5}</string>
+					<string>{229, 92.5}</string>
+					<string>{229, 92.5}</string>
+					<string>{229, 92.5}</string>
+					<string>{229, 92}</string>
+					<string>{229, 92}</string>
+					<string>{229, 91.5}</string>
+					<string>{229, 91.5}</string>
+					<string>{229, 91.5}</string>
+					<string>{229, 91}</string>
+					<string>{229, 90.5}</string>
+					<string>{229, 90.5}</string>
+					<string>{229, 90}</string>
+					<string>{229, 90}</string>
+					<string>{229, 89.5}</string>
+					<string>{229, 89.5}</string>
+					<string>{229, 89}</string>
+					<string>{229.5, 88.5}</string>
+					<string>{229.5, 88}</string>
+					<string>{230, 87}</string>
+				</array>
+				<key>width</key>
+				<integer>4</integer>
+			</dict>
+			<dict>
+				<key>color_rgb</key>
+				<integer>16711680</integer>
+				<key>opacity</key>
+				<real>1</real>
+				<key>px1</key>
+				<real>225.5</real>
+				<key>px2</key>
+				<real>230.5</real>
+				<key>py1</key>
+				<real>81.5</real>
+				<key>py2</key>
+				<real>103</real>
+				<key>touch_list</key>
+				<array>
+					<string>{230.5, 82.5}</string>
+					<string>{230.5, 82.5}</string>
+					<string>{230.5, 82.5}</string>
+					<string>{230.5, 82.5}</string>
+					<string>{230.5, 82}</string>
+					<string>{230.5, 82}</string>
+					<string>{230, 82}</string>
+					<string>{230, 82}</string>
+					<string>{230, 81.5}</string>
+					<string>{229.5, 81.5}</string>
+					<string>{229.5, 81.5}</string>
+					<string>{229.5, 81.5}</string>
+					<string>{229.5, 81.5}</string>
+					<string>{229.5, 81.5}</string>
+					<string>{229.5, 81.5}</string>
+					<string>{229.5, 81.5}</string>
+					<string>{229.5, 81.5}</string>
+					<string>{229, 81.5}</string>
+					<string>{229, 82}</string>
+					<string>{229, 82.5}</string>
+					<string>{229, 83}</string>
+					<string>{229, 84}</string>
+					<string>{229, 85}</string>
+					<string>{228.5, 86}</string>
+					<string>{228.5, 87}</string>
+					<string>{228, 88}</string>
+					<string>{228, 89.5}</string>
+					<string>{227.5, 91}</string>
+					<string>{227.5, 92.5}</string>
+					<string>{227, 94}</string>
+					<string>{226.5, 95.5}</string>
+					<string>{226.5, 96.5}</string>
+					<string>{226.5, 98}</string>
+					<string>{226, 99.5}</string>
+					<string>{226, 100.5}</string>
+					<string>{226, 101.5}</string>
+					<string>{225.5, 103}</string>
+				</array>
+				<key>width</key>
+				<integer>4</integer>
+			</dict>
+			<dict>
+				<key>color_rgb</key>
+				<integer>16711680</integer>
+				<key>opacity</key>
+				<real>1</real>
+				<key>px1</key>
+				<real>331</real>
+				<key>px2</key>
+				<real>336.5</real>
+				<key>py1</key>
+				<real>78</real>
+				<key>py2</key>
+				<real>101</real>
+				<key>touch_list</key>
+				<array>
+					<string>{336, 101}</string>
+					<string>{336, 101}</string>
+					<string>{336, 101}</string>
+					<string>{336, 100.5}</string>
+					<string>{336, 100}</string>
+					<string>{336, 99.5}</string>
+					<string>{336, 99}</string>
+					<string>{336, 99}</string>
+					<string>{336, 98.5}</string>
+					<string>{335.5, 98}</string>
+					<string>{335.5, 97.5}</string>
+					<string>{335.5, 97.5}</string>
+					<string>{335.5, 96.5}</string>
+					<string>{335.5, 96}</string>
+					<string>{335, 95.5}</string>
+					<string>{335, 95}</string>
+					<string>{335, 94.5}</string>
+					<string>{335, 94}</string>
+					<string>{335, 93}</string>
+					<string>{334.5, 92.5}</string>
+					<string>{334.5, 92}</string>
+					<string>{334.5, 91.5}</string>
+					<string>{334, 91}</string>
+					<string>{334, 90.5}</string>
+					<string>{334, 90}</string>
+					<string>{333.5, 89.5}</string>
+					<string>{333.5, 89}</string>
+					<string>{333, 88.5}</string>
+					<string>{333, 88.5}</string>
+					<string>{333, 88}</string>
+					<string>{332.5, 87.5}</string>
+					<string>{332.5, 87}</string>
+					<string>{332, 86.5}</string>
+					<string>{332, 85.5}</string>
+					<string>{332, 85}</string>
+					<string>{331.5, 84.5}</string>
+					<string>{331.5, 84}</string>
+					<string>{331.5, 83.5}</string>
+					<string>{331, 83}</string>
+					<string>{331, 82.5}</string>
+					<string>{331, 82}</string>
+					<string>{331, 81.5}</string>
+					<string>{331, 81}</string>
+					<string>{331, 80.5}</string>
+					<string>{331, 80}</string>
+					<string>{331, 79.5}</string>
+					<string>{331, 79.5}</string>
+					<string>{331, 79}</string>
+					<string>{331.5, 79}</string>
+					<string>{331.5, 78.5}</string>
+					<string>{331.5, 78}</string>
+					<string>{331.5, 78}</string>
+					<string>{332, 78}</string>
+					<string>{332, 78}</string>
+					<string>{332.5, 78}</string>
+					<string>{332.5, 78}</string>
+					<string>{333, 78}</string>
+					<string>{333, 78}</string>
+					<string>{333.5, 78}</string>
+					<string>{334, 78}</string>
+					<string>{334, 78}</string>
+					<string>{334.5, 78}</string>
+					<string>{334.5, 78.5}</string>
+					<string>{335, 78.5}</string>
+					<string>{335, 79}</string>
+					<string>{335.5, 79.5}</string>
+					<string>{335.5, 79.5}</string>
+					<string>{336, 80}</string>
+					<string>{336, 80}</string>
+					<string>{336, 80.5}</string>
+					<string>{336, 80.5}</string>
+					<string>{336.5, 81}</string>
+					<string>{336.5, 81}</string>
+					<string>{336.5, 81.5}</string>
+					<string>{336.5, 81.5}</string>
+					<string>{336.5, 82}</string>
+					<string>{336.5, 82.5}</string>
+					<string>{336, 83}</string>
+					<string>{336, 83.5}</string>
+					<string>{335.5, 84}</string>
+					<string>{335, 84.5}</string>
+					<string>{334.5, 85}</string>
+					<string>{334, 85.5}</string>
+					<string>{333.5, 86}</string>
+					<string>{333, 86.5}</string>
+					<string>{333, 87}</string>
+					<string>{332.5, 87}</string>
+					<string>{332, 87.5}</string>
+					<string>{332, 88}</string>
+					<string>{332, 88}</string>
+					<string>{331.5, 88.5}</string>
+					<string>{331.5, 89}</string>
+					<string>{331.5, 89}</string>
+					<string>{331, 89.5}</string>
+				</array>
+				<key>width</key>
+				<integer>4</integer>
+			</dict>
+			<dict>
+				<key>color_rgb</key>
+				<integer>16711680</integer>
+				<key>opacity</key>
+				<real>1</real>
+				<key>px1</key>
+				<real>351.5</real>
+				<key>px2</key>
+				<real>354.5</real>
+				<key>py1</key>
+				<real>92.5</real>
+				<key>py2</key>
+				<real>95</real>
+				<key>touch_list</key>
+				<array>
+					<string>{352.5, 95}</string>
+					<string>{352.5, 95}</string>
+					<string>{352.5, 94.5}</string>
+					<string>{352, 93.5}</string>
+					<string>{352, 93}</string>
+					<string>{352, 92.5}</string>
+					<string>{351.5, 92.5}</string>
+					<string>{351.5, 92.5}</string>
+					<string>{351.5, 92.5}</string>
+					<string>{351.5, 92.5}</string>
+					<string>{351.5, 92.5}</string>
+					<string>{351.5, 92.5}</string>
+					<string>{352, 92.5}</string>
+					<string>{352, 92.5}</string>
+					<string>{352.5, 92.5}</string>
+					<string>{353, 92.5}</string>
+					<string>{353.5, 92.5}</string>
+					<string>{354.5, 93}</string>
+				</array>
+				<key>width</key>
+				<integer>4</integer>
+			</dict>
+			<dict>
+				<key>color_rgb</key>
+				<integer>16711680</integer>
+				<key>opacity</key>
+				<real>1</real>
+				<key>px1</key>
+				<real>366.5</real>
+				<key>px2</key>
+				<real>389.5</real>
+				<key>py1</key>
+				<real>74.5</real>
+				<key>py2</key>
+				<real>93.5</real>
+				<key>touch_list</key>
+				<array>
+					<string>{368, 83}</string>
+					<string>{368, 83}</string>
+					<string>{368, 83}</string>
+					<string>{368, 82.5}</string>
+					<string>{367.5, 82}</string>
+					<string>{367.5, 81.5}</string>
+					<string>{367.5, 81.5}</string>
+					<string>{367, 81}</string>
+					<string>{367, 81}</string>
+					<string>{367, 80.5}</string>
+					<string>{366.5, 80.5}</string>
+					<string>{366.5, 80.5}</string>
+					<string>{366.5, 80}</string>
+					<string>{366.5, 80}</string>
+					<string>{366.5, 79.5}</string>
+					<string>{366.5, 79.5}</string>
+					<string>{367, 79}</string>
+					<string>{367, 78.5}</string>
+					<string>{367.5, 78.5}</string>
+					<string>{367.5, 78}</string>
+					<string>{368, 77.5}</string>
+					<string>{368, 77.5}</string>
+					<string>{368.5, 77}</string>
+					<string>{369, 76.5}</string>
+					<string>{369, 76.5}</string>
+					<string>{369.5, 76.5}</string>
+					<string>{369.5, 76}</string>
+					<string>{370, 76}</string>
+					<string>{370.5, 75.5}</string>
+					<string>{370.5, 75.5}</string>
+					<string>{371, 75.5}</string>
+					<string>{371.5, 75}</string>
+					<string>{372, 75}</string>
+					<string>{372.5, 74.5}</string>
+					<string>{373, 74.5}</string>
+					<string>{374, 74.5}</string>
+					<string>{374.5, 74.5}</string>
+					<string>{375, 74.5}</string>
+					<string>{375.5, 74.5}</string>
+					<string>{376.5, 74.5}</string>
+					<string>{377, 74.5}</string>
+					<string>{377.5, 74.5}</string>
+					<string>{378, 75}</string>
+					<string>{378.5, 75.5}</string>
+					<string>{379, 76}</string>
+					<string>{379.5, 76.5}</string>
+					<string>{379.5, 77.5}</string>
+					<string>{379.5, 78}</string>
+					<string>{380, 79}</string>
+					<string>{380, 80}</string>
+					<string>{380, 81}</string>
+					<string>{380, 82}</string>
+					<string>{380, 83}</string>
+					<string>{379.5, 83.5}</string>
+					<string>{379, 84.5}</string>
+					<string>{378.5, 85.5}</string>
+					<string>{378, 86.5}</string>
+					<string>{377.5, 87.5}</string>
+					<string>{376.5, 88}</string>
+					<string>{376, 89}</string>
+					<string>{375.5, 89.5}</string>
+					<string>{375, 90}</string>
+					<string>{374.5, 91}</string>
+					<string>{374, 91.5}</string>
+					<string>{373.5, 92}</string>
+					<string>{373.5, 92}</string>
+					<string>{373, 92.5}</string>
+					<string>{373, 93}</string>
+					<string>{372.5, 93}</string>
+					<string>{372.5, 93}</string>
+					<string>{372.5, 93.5}</string>
+					<string>{372.5, 93.5}</string>
+					<string>{372.5, 93.5}</string>
+					<string>{372.5, 93.5}</string>
+					<string>{372.5, 93.5}</string>
+					<string>{372.5, 93.5}</string>
+					<string>{373, 93.5}</string>
+					<string>{373.5, 93.5}</string>
+					<string>{374, 93.5}</string>
+					<string>{375, 93.5}</string>
+					<string>{375.5, 93.5}</string>
+					<string>{376.5, 93}</string>
+					<string>{377.5, 93}</string>
+					<string>{378.5, 92.5}</string>
+					<string>{379.5, 92.5}</string>
+					<string>{380.5, 92}</string>
+					<string>{382, 92}</string>
+					<string>{383, 92}</string>
+					<string>{384.5, 92}</string>
+					<string>{385.5, 91.5}</string>
+					<string>{387, 91.5}</string>
+					<string>{388, 91.5}</string>
+					<string>{389.5, 91}</string>
+				</array>
+				<key>width</key>
+				<integer>4</integer>
+			</dict>
+			<dict>
+				<key>color_rgb</key>
+				<integer>16711680</integer>
+				<key>opacity</key>
+				<real>1</real>
+				<key>px1</key>
+				<real>762</real>
+				<key>px2</key>
+				<real>889</real>
+				<key>py1</key>
+				<real>1078.5</real>
+				<key>py2</key>
+				<real>1168</real>
+				<key>touch_list</key>
+				<array>
+					<string>{843.5, 1084}</string>
+					<string>{843.5, 1084}</string>
+					<string>{843.5, 1084}</string>
+					<string>{843.5, 1084}</string>
+					<string>{843.5, 1084}</string>
+					<string>{843.5, 1084}</string>
+					<string>{843.5, 1083.5}</string>
+					<string>{843.5, 1083.5}</string>
+					<string>{843.5, 1083.5}</string>
+					<string>{843.5, 1083.5}</string>
+					<string>{844, 1083}</string>
+					<string>{844, 1083}</string>
+					<string>{844, 1083}</string>
+					<string>{844, 1083}</string>
+					<string>{844, 1082.5}</string>
+					<string>{844, 1082.5}</string>
+					<string>{844.5, 1082.5}</string>
+					<string>{844.5, 1082}</string>
+					<string>{844.5, 1082}</string>
+					<string>{844.5, 1081.5}</string>
+					<string>{844.5, 1081.5}</string>
+					<string>{845, 1081.5}</string>
+					<string>{845, 1081}</string>
+					<string>{845, 1081}</string>
+					<string>{845, 1081}</string>
+					<string>{845, 1080.5}</string>
+					<string>{845, 1080.5}</string>
+					<string>{845, 1080.5}</string>
+					<string>{845, 1080.5}</string>
+					<string>{845, 1080.5}</string>
+					<string>{845, 1080.5}</string>
+					<string>{845, 1080.5}</string>
+					<string>{845, 1080.5}</string>
+					<string>{845, 1080}</string>
+					<string>{845, 1080}</string>
+					<string>{845, 1080}</string>
+					<string>{845, 1080}</string>
+					<string>{845, 1080}</string>
+					<string>{845, 1080}</string>
+					<string>{845, 1080}</string>
+					<string>{845, 1080}</string>
+					<string>{845, 1080}</string>
+					<string>{845, 1080}</string>
+					<string>{845, 1080}</string>
+					<string>{845, 1080}</string>
+					<string>{845, 1079.5}</string>
+					<string>{845, 1079.5}</string>
+					<string>{844.5, 1079.5}</string>
+					<string>{844.5, 1079.5}</string>
+					<string>{844.5, 1079}</string>
+					<string>{844, 1079}</string>
+					<string>{843.5, 1079}</string>
+					<string>{843.5, 1079}</string>
+					<string>{843, 1078.5}</string>
+					<string>{842.5, 1078.5}</string>
+					<string>{842.5, 1078.5}</string>
+					<string>{842, 1078.5}</string>
+					<string>{841.5, 1078.5}</string>
+					<string>{841, 1078.5}</string>
+					<string>{840, 1078.5}</string>
+					<string>{839.5, 1078.5}</string>
+					<string>{839, 1078.5}</string>
+					<string>{838.5, 1078.5}</string>
+					<string>{837.5, 1078.5}</string>
+					<string>{837, 1078.5}</string>
+					<string>{836, 1078.5}</string>
+					<string>{835, 1078.5}</string>
+					<string>{834, 1078.5}</string>
+					<string>{833, 1078.5}</string>
+					<string>{832, 1078.5}</string>
+					<string>{831, 1078.5}</string>
+					<string>{829.5, 1078.5}</string>
+					<string>{828.5, 1078.5}</string>
+					<string>{827, 1078.5}</string>
+					<string>{825.5, 1078.5}</string>
+					<string>{824, 1078.5}</string>
+					<string>{822.5, 1079}</string>
+					<string>{821, 1079.5}</string>
+					<string>{819, 1080}</string>
+					<string>{817.5, 1080.5}</string>
+					<string>{816, 1081}</string>
+					<string>{814.5, 1081.5}</string>
+					<string>{813, 1082}</string>
+					<string>{811.5, 1082.5}</string>
+					<string>{810, 1083.5}</string>
+					<string>{808.5, 1084}</string>
+					<string>{806.5, 1084.5}</string>
+					<string>{805, 1085}</string>
+					<string>{803.5, 1086}</string>
+					<string>{801.5, 1087}</string>
+					<string>{800, 1087.5}</string>
+					<string>{798.5, 1088}</string>
+					<string>{797, 1089}</string>
+					<string>{795.5, 1089.5}</string>
+					<string>{794, 1090}</string>
+					<string>{792.5, 1090.5}</string>
+					<string>{791, 1091.5}</string>
+					<string>{789.5, 1092}</string>
+					<string>{788.5, 1092.5}</string>
+					<string>{787, 1093.5}</string>
+					<string>{785.5, 1094}</string>
+					<string>{784, 1094.5}</string>
+					<string>{782.5, 1095.5}</string>
+					<string>{781.5, 1096.5}</string>
+					<string>{780, 1097}</string>
+					<string>{779, 1098}</string>
+					<string>{778, 1098.5}</string>
+					<string>{777.5, 1099}</string>
+					<string>{776.5, 1100}</string>
+					<string>{776, 1100.5}</string>
+					<string>{775, 1101.5}</string>
+					<string>{774.5, 1102}</string>
+					<string>{774, 1103}</string>
+					<string>{773.5, 1104}</string>
+					<string>{773, 1105}</string>
+					<string>{772.5, 1106}</string>
+					<string>{771.5, 1107}</string>
+					<string>{771.5, 1108}</string>
+					<string>{771, 1109}</string>
+					<string>{770.5, 1110}</string>
+					<string>{770, 1111}</string>
+					<string>{769.5, 1112}</string>
+					<string>{769.5, 1113}</string>
+					<string>{769, 1114}</string>
+					<string>{768.5, 1115}</string>
+					<string>{768, 1116}</string>
+					<string>{767.5, 1117}</string>
+					<string>{767, 1118.5}</string>
+					<string>{766.5, 1119.5}</string>
+					<string>{766, 1120.5}</string>
+					<string>{765.5, 1122}</string>
+					<string>{765, 1123}</string>
+					<string>{764.5, 1124.5}</string>
+					<string>{764, 1125.5}</string>
+					<string>{764, 1127}</string>
+					<string>{763.5, 1128}</string>
+					<string>{763, 1129.5}</string>
+					<string>{762.5, 1130.5}</string>
+					<string>{762.5, 1131.5}</string>
+					<string>{762, 1132.5}</string>
+					<string>{762, 1133.5}</string>
+					<string>{762, 1134.5}</string>
+					<string>{762, 1135.5}</string>
+					<string>{762, 1136.5}</string>
+					<string>{762, 1137.5}</string>
+					<string>{762, 1138.5}</string>
+					<string>{762, 1139.5}</string>
+					<string>{762, 1140.5}</string>
+					<string>{762.5, 1142}</string>
+					<string>{763, 1143}</string>
+					<string>{764, 1144.5}</string>
+					<string>{765, 1145.5}</string>
+					<string>{765.5, 1147}</string>
+					<string>{766.5, 1148}</string>
+					<string>{767.5, 1149}</string>
+					<string>{768.5, 1150}</string>
+					<string>{770, 1151}</string>
+					<string>{771, 1152}</string>
+					<string>{772.5, 1153}</string>
+					<string>{773.5, 1154}</string>
+					<string>{775, 1155}</string>
+					<string>{776.5, 1156}</string>
+					<string>{778, 1156.5}</string>
+					<string>{779.5, 1157.5}</string>
+					<string>{781, 1158}</string>
+					<string>{782.5, 1159}</string>
+					<string>{783.5, 1159.5}</string>
+					<string>{785.5, 1160}</string>
+					<string>{787, 1160.5}</string>
+					<string>{789, 1161}</string>
+					<string>{790.5, 1161.5}</string>
+					<string>{792.5, 1161.5}</string>
+					<string>{794.5, 1162}</string>
+					<string>{796.5, 1162.5}</string>
+					<string>{798.5, 1163}</string>
+					<string>{800.5, 1163}</string>
+					<string>{802.5, 1163.5}</string>
+					<string>{804.5, 1164}</string>
+					<string>{807.5, 1164.5}</string>
+					<string>{809.5, 1164.5}</string>
+					<string>{812, 1165}</string>
+					<string>{814.5, 1165.5}</string>
+					<string>{817, 1166}</string>
+					<string>{819, 1166.5}</string>
+					<string>{822, 1167}</string>
+					<string>{824.5, 1167}</string>
+					<string>{827, 1167.5}</string>
+					<string>{830, 1167.5}</string>
+					<string>{832.5, 1168}</string>
+					<string>{835.5, 1168}</string>
+					<string>{838, 1168}</string>
+					<string>{840.5, 1168}</string>
+					<string>{843.5, 1168}</string>
+					<string>{846, 1168}</string>
+					<string>{848.5, 1168}</string>
+					<string>{851, 1168}</string>
+					<string>{853.5, 1168}</string>
+					<string>{856, 1168}</string>
+					<string>{858, 1167.5}</string>
+					<string>{860.5, 1167.5}</string>
+					<string>{862.5, 1167}</string>
+					<string>{864.5, 1166.5}</string>
+					<string>{867, 1166}</string>
+					<string>{868.5, 1165.5}</string>
+					<string>{870.5, 1165}</string>
+					<string>{872.5, 1164}</string>
+					<string>{874.5, 1163.5}</string>
+					<string>{876, 1162.5}</string>
+					<string>{877.5, 1161}</string>
+					<string>{879, 1160}</string>
+					<string>{880.5, 1158.5}</string>
+					<string>{881.5, 1157.5}</string>
+					<string>{882.5, 1156}</string>
+					<string>{883.5, 1154.5}</string>
+					<string>{884.5, 1152.5}</string>
+					<string>{885.5, 1151}</string>
+					<string>{886, 1149}</string>
+					<string>{886.5, 1147}</string>
+					<string>{887, 1145.5}</string>
+					<string>{887.5, 1143.5}</string>
+					<string>{888, 1142}</string>
+					<string>{888, 1140.5}</string>
+					<string>{888.5, 1138.5}</string>
+					<string>{888.5, 1137}</string>
+					<string>{889, 1135.5}</string>
+					<string>{889, 1134.5}</string>
+					<string>{889, 1133}</string>
+					<string>{889, 1131.5}</string>
+					<string>{889, 1130.5}</string>
+					<string>{889, 1129}</string>
+					<string>{889, 1127.5}</string>
+					<string>{889, 1126.5}</string>
+					<string>{889, 1125}</string>
+					<string>{889, 1124}</string>
+					<string>{888.5, 1123}</string>
+					<string>{888.5, 1122}</string>
+					<string>{888, 1121}</string>
+					<string>{887.5, 1120}</string>
+					<string>{887, 1119}</string>
+					<string>{886.5, 1118}</string>
+					<string>{886, 1117.5}</string>
+					<string>{885.5, 1116.5}</string>
+					<string>{885, 1115.5}</string>
+					<string>{884, 1114}</string>
+					<string>{883.5, 1113}</string>
+					<string>{882.5, 1112}</string>
+					<string>{881.5, 1111}</string>
+					<string>{880.5, 1109.5}</string>
+					<string>{879.5, 1108.5}</string>
+					<string>{878, 1107}</string>
+					<string>{877, 1105.5}</string>
+					<string>{876, 1104}</string>
+					<string>{874.5, 1103}</string>
+					<string>{873.5, 1101.5}</string>
+					<string>{872.5, 1100.5}</string>
+					<string>{872, 1099.5}</string>
+					<string>{871, 1098.5}</string>
+					<string>{870.5, 1097.5}</string>
+					<string>{869.5, 1096.5}</string>
+					<string>{869, 1096}</string>
+					<string>{868.5, 1095.5}</string>
+					<string>{867.5, 1095}</string>
+					<string>{867, 1094.5}</string>
+					<string>{866.5, 1094}</string>
+					<string>{866, 1093.5}</string>
+					<string>{865.5, 1093}</string>
+					<string>{865, 1092.5}</string>
+					<string>{864.5, 1092}</string>
+					<string>{864, 1091.5}</string>
+					<string>{863.5, 1091.5}</string>
+					<string>{863, 1091}</string>
+					<string>{862.5, 1090.5}</string>
+					<string>{861.5, 1090.5}</string>
+					<string>{860.5, 1090}</string>
+					<string>{859.5, 1090}</string>
+					<string>{858.5, 1090}</string>
+					<string>{857.5, 1089.5}</string>
+					<string>{856.5, 1089.5}</string>
+					<string>{855, 1089.5}</string>
+					<string>{854, 1089.5}</string>
+					<string>{852.5, 1089.5}</string>
+					<string>{851.5, 1089.5}</string>
+					<string>{850, 1089.5}</string>
+					<string>{849, 1089.5}</string>
+					<string>{847.5, 1089.5}</string>
+					<string>{846.5, 1090}</string>
+					<string>{845, 1090.5}</string>
+					<string>{843.5, 1091}</string>
+				</array>
+				<key>width</key>
+				<integer>4</integer>
+			</dict>
+			<dict>
+				<key>color_rgb</key>
+				<integer>16711680</integer>
+				<key>opacity</key>
+				<real>1</real>
+				<key>px1</key>
+				<real>904</real>
+				<key>px2</key>
+				<real>914</real>
+				<key>py1</key>
+				<real>1086.5</real>
+				<key>py2</key>
+				<real>1115.5</real>
+				<key>touch_list</key>
+				<array>
+					<string>{911.5, 1095}</string>
+					<string>{911.5, 1095}</string>
+					<string>{911.5, 1095}</string>
+					<string>{911.5, 1095}</string>
+					<string>{911.5, 1094.5}</string>
+					<string>{911.5, 1094}</string>
+					<string>{911.5, 1094}</string>
+					<string>{911.5, 1093.5}</string>
+					<string>{911.5, 1093}</string>
+					<string>{911.5, 1092.5}</string>
+					<string>{911.5, 1092.5}</string>
+					<string>{911.5, 1092}</string>
+					<string>{911.5, 1091.5}</string>
+					<string>{911.5, 1091}</string>
+					<string>{911.5, 1091}</string>
+					<string>{911.5, 1090.5}</string>
+					<string>{911, 1090}</string>
+					<string>{911, 1089.5}</string>
+					<string>{911, 1089}</string>
+					<string>{911, 1089}</string>
+					<string>{911, 1088.5}</string>
+					<string>{911, 1088}</string>
+					<string>{911, 1088}</string>
+					<string>{911, 1087.5}</string>
+					<string>{911, 1087.5}</string>
+					<string>{911, 1087}</string>
+					<string>{910.5, 1087}</string>
+					<string>{910.5, 1087}</string>
+					<string>{910.5, 1087}</string>
+					<string>{910.5, 1087}</string>
+					<string>{910.5, 1087}</string>
+					<string>{910.5, 1086.5}</string>
+					<string>{910.5, 1086.5}</string>
+					<string>{910.5, 1086.5}</string>
+					<string>{910, 1086.5}</string>
+					<string>{910, 1086.5}</string>
+					<string>{909.5, 1086.5}</string>
+					<string>{909.5, 1086.5}</string>
+					<string>{909, 1086.5}</string>
+					<string>{908.5, 1086.5}</string>
+					<string>{908, 1087}</string>
+					<string>{908, 1087.5}</string>
+					<string>{907.5, 1087.5}</string>
+					<string>{907, 1088}</string>
+					<string>{906.5, 1088.5}</string>
+					<string>{906.5, 1089}</string>
+					<string>{906, 1089.5}</string>
+					<string>{905.5, 1090}</string>
+					<string>{905.5, 1090.5}</string>
+					<string>{905, 1090.5}</string>
+					<string>{905, 1091}</string>
+					<string>{904.5, 1091.5}</string>
+					<string>{904.5, 1092}</string>
+					<string>{904.5, 1092.5}</string>
+					<string>{904, 1092.5}</string>
+					<string>{904, 1093}</string>
+					<string>{904, 1093}</string>
+					<string>{904, 1093.5}</string>
+					<string>{904, 1093.5}</string>
+					<string>{904, 1094}</string>
+					<string>{904, 1094}</string>
+					<string>{904.5, 1094.5}</string>
+					<string>{904.5, 1095}</string>
+					<string>{905, 1095}</string>
+					<string>{905.5, 1095.5}</string>
+					<string>{906, 1095.5}</string>
+					<string>{906.5, 1096}</string>
+					<string>{907, 1096.5}</string>
+					<string>{907.5, 1097}</string>
+					<string>{908, 1097.5}</string>
+					<string>{908.5, 1098}</string>
+					<string>{909, 1098.5}</string>
+					<string>{909.5, 1098.5}</string>
+					<string>{910, 1099}</string>
+					<string>{910.5, 1099.5}</string>
+					<string>{911, 1100}</string>
+					<string>{911.5, 1100.5}</string>
+					<string>{912, 1101}</string>
+					<string>{912, 1101.5}</string>
+					<string>{912.5, 1102}</string>
+					<string>{913, 1102.5}</string>
+					<string>{913, 1103}</string>
+					<string>{913.5, 1103.5}</string>
+					<string>{913.5, 1104}</string>
+					<string>{913.5, 1104.5}</string>
+					<string>{913.5, 1105}</string>
+					<string>{914, 1105.5}</string>
+					<string>{914, 1106}</string>
+					<string>{914, 1106.5}</string>
+					<string>{914, 1107}</string>
+					<string>{914, 1107.5}</string>
+					<string>{914, 1108}</string>
+					<string>{914, 1108.5}</string>
+					<string>{914, 1109}</string>
+					<string>{913.5, 1109.5}</string>
+					<string>{913.5, 1110}</string>
+					<string>{913, 1110.5}</string>
+					<string>{912.5, 1111}</string>
+					<string>{912.5, 1111.5}</string>
+					<string>{912, 1112.5}</string>
+					<string>{911.5, 1113}</string>
+					<string>{911, 1113.5}</string>
+					<string>{910.5, 1113.5}</string>
+					<string>{910.5, 1114}</string>
+					<string>{910, 1114.5}</string>
+					<string>{909.5, 1115}</string>
+					<string>{909, 1115}</string>
+					<string>{908, 1115.5}</string>
+				</array>
+				<key>width</key>
+				<integer>4</integer>
+			</dict>
+			<dict>
+				<key>color_rgb</key>
+				<integer>16711680</integer>
+				<key>opacity</key>
+				<real>1</real>
+				<key>px1</key>
+				<real>920.5</real>
+				<key>px2</key>
+				<real>930</real>
+				<key>py1</key>
+				<real>1089</real>
+				<key>py2</key>
+				<real>1106</real>
+				<key>touch_list</key>
+				<array>
+					<string>{920.5, 1095.5}</string>
+					<string>{920.5, 1095.5}</string>
+					<string>{921, 1095.5}</string>
+					<string>{921, 1095.5}</string>
+					<string>{921, 1095.5}</string>
+					<string>{921, 1095}</string>
+					<string>{921, 1095}</string>
+					<string>{921, 1095}</string>
+					<string>{921, 1095}</string>
+					<string>{920.5, 1094.5}</string>
+					<string>{920.5, 1094.5}</string>
+					<string>{920.5, 1094.5}</string>
+					<string>{920.5, 1094.5}</string>
+					<string>{920.5, 1094.5}</string>
+					<string>{920.5, 1094.5}</string>
+					<string>{920.5, 1094.5}</string>
+					<string>{920.5, 1095}</string>
+					<string>{920.5, 1095}</string>
+					<string>{921, 1095.5}</string>
+					<string>{921, 1096}</string>
+					<string>{921, 1096.5}</string>
+					<string>{921, 1097}</string>
+					<string>{921.5, 1097}</string>
+					<string>{921.5, 1097.5}</string>
+					<string>{922, 1098}</string>
+					<string>{922, 1099}</string>
+					<string>{922, 1099.5}</string>
+					<string>{922.5, 1100}</string>
+					<string>{922.5, 1100.5}</string>
+					<string>{923, 1101.5}</string>
+					<string>{923, 1102}</string>
+					<string>{923.5, 1102.5}</string>
+					<string>{923.5, 1103.5}</string>
+					<string>{923.5, 1104}</string>
+					<string>{923.5, 1104.5}</string>
+					<string>{924, 1105}</string>
+					<string>{924, 1105}</string>
+					<string>{924, 1105.5}</string>
+					<string>{924, 1105.5}</string>
+					<string>{924, 1105.5}</string>
+					<string>{924, 1106}</string>
+					<string>{924, 1106}</string>
+					<string>{924.5, 1106}</string>
+					<string>{924.5, 1106}</string>
+					<string>{924.5, 1106}</string>
+					<string>{924.5, 1106}</string>
+					<string>{924.5, 1106}</string>
+					<string>{924.5, 1106}</string>
+					<string>{924.5, 1106}</string>
+					<string>{924.5, 1105.5}</string>
+					<string>{924.5, 1105.5}</string>
+					<string>{924.5, 1105}</string>
+					<string>{925, 1104.5}</string>
+					<string>{925, 1104}</string>
+					<string>{925, 1103.5}</string>
+					<string>{925.5, 1103}</string>
+					<string>{925.5, 1102}</string>
+					<string>{926, 1101}</string>
+					<string>{926, 1100}</string>
+					<string>{926.5, 1099}</string>
+					<string>{927, 1097.5}</string>
+					<string>{927.5, 1096.5}</string>
+					<string>{927.5, 1095}</string>
+					<string>{928, 1094}</string>
+					<string>{928.5, 1093}</string>
+					<string>{929, 1092}</string>
+					<string>{929, 1091}</string>
+					<string>{929.5, 1090.5}</string>
+					<string>{929.5, 1090}</string>
+					<string>{929.5, 1089.5}</string>
+					<string>{929.5, 1089}</string>
+					<string>{930, 1089}</string>
+					<string>{930, 1089}</string>
+					<string>{930, 1089}</string>
+					<string>{930, 1089}</string>
+					<string>{929.5, 1089}</string>
+				</array>
+				<key>width</key>
+				<integer>4</integer>
+			</dict>
+			<dict>
+				<key>color_rgb</key>
+				<integer>16711680</integer>
+				<key>opacity</key>
+				<real>1</real>
+				<key>px1</key>
+				<real>926.5</real>
+				<key>px2</key>
+				<real>936</real>
+				<key>py1</key>
+				<real>1103</real>
+				<key>py2</key>
+				<real>1112.5</real>
+				<key>touch_list</key>
+				<array>
+					<string>{926.5, 1103}</string>
+					<string>{926.5, 1103}</string>
+					<string>{927, 1103}</string>
+					<string>{927, 1103.5}</string>
+					<string>{927.5, 1103.5}</string>
+					<string>{927.5, 1103.5}</string>
+					<string>{928, 1104}</string>
+					<string>{928.5, 1104}</string>
+					<string>{928.5, 1104.5}</string>
+					<string>{929, 1105}</string>
+					<string>{929, 1105.5}</string>
+					<string>{929.5, 1106.5}</string>
+					<string>{930, 1107}</string>
+					<string>{930.5, 1108}</string>
+					<string>{931, 1108.5}</string>
+					<string>{931.5, 1109.5}</string>
+					<string>{932, 1110}</string>
+					<string>{932.5, 1110.5}</string>
+					<string>{933.5, 1111}</string>
+					<string>{934, 1111.5}</string>
+					<string>{934.5, 1112}</string>
+					<string>{935.5, 1112.5}</string>
+					<string>{936, 1112.5}</string>
+				</array>
+				<key>width</key>
+				<integer>4</integer>
+			</dict>
+			<dict>
+				<key>color_rgb</key>
+				<integer>16711680</integer>
+				<key>opacity</key>
+				<real>1</real>
+				<key>px1</key>
+				<real>944</real>
+				<key>px2</key>
+				<real>950</real>
+				<key>py1</key>
+				<real>1093</real>
+				<key>py2</key>
+				<real>1111</real>
+				<key>touch_list</key>
+				<array>
+					<string>{944, 1096}</string>
+					<string>{944, 1096}</string>
+					<string>{944.5, 1095.5}</string>
+					<string>{944.5, 1095}</string>
+					<string>{944.5, 1094.5}</string>
+					<string>{944.5, 1094}</string>
+					<string>{944.5, 1093.5}</string>
+					<string>{944.5, 1093.5}</string>
+					<string>{944.5, 1093}</string>
+					<string>{944.5, 1093}</string>
+					<string>{944.5, 1093}</string>
+					<string>{944.5, 1093}</string>
+					<string>{944.5, 1093}</string>
+					<string>{944.5, 1093}</string>
+					<string>{944.5, 1093}</string>
+					<string>{944.5, 1093}</string>
+					<string>{944.5, 1093.5}</string>
+					<string>{944.5, 1094}</string>
+					<string>{944.5, 1094.5}</string>
+					<string>{944.5, 1095.5}</string>
+					<string>{944.5, 1096.5}</string>
+					<string>{944.5, 1097.5}</string>
+					<string>{944.5, 1098.5}</string>
+					<string>{945, 1099.5}</string>
+					<string>{945, 1100.5}</string>
+					<string>{945.5, 1101.5}</string>
+					<string>{946, 1103}</string>
+					<string>{946.5, 1104}</string>
+					<string>{947, 1105.5}</string>
+					<string>{947.5, 1106.5}</string>
+					<string>{948, 1107.5}</string>
+					<string>{948.5, 1108.5}</string>
+					<string>{949, 1109.5}</string>
+					<string>{949.5, 1110.5}</string>
+					<string>{950, 1111}</string>
+				</array>
+				<key>width</key>
+				<integer>4</integer>
+			</dict>
+			<dict>
+				<key>color_rgb</key>
+				<integer>16711680</integer>
+				<key>opacity</key>
+				<real>1</real>
+				<key>px1</key>
+				<real>959</real>
+				<key>px2</key>
+				<real>964.5</real>
+				<key>py1</key>
+				<real>1093.5</real>
+				<key>py2</key>
+				<real>1107.5</real>
+				<key>touch_list</key>
+				<array>
+					<string>{959, 1093.5}</string>
+					<string>{959, 1093.5}</string>
+					<string>{959, 1094}</string>
+					<string>{959, 1094}</string>
+					<string>{959, 1094}</string>
+					<string>{959, 1094}</string>
+					<string>{959, 1094}</string>
+					<string>{959, 1094}</string>
+					<string>{959.5, 1094}</string>
+					<string>{959.5, 1094}</string>
+					<string>{959.5, 1094}</string>
+					<string>{959.5, 1094}</string>
+					<string>{960, 1094.5}</string>
+					<string>{960, 1095}</string>
+					<string>{960, 1095.5}</string>
+					<string>{960, 1096.5}</string>
+					<string>{960.5, 1097}</string>
+					<string>{960.5, 1098}</string>
+					<string>{960.5, 1098.5}</string>
+					<string>{961, 1099.5}</string>
+					<string>{961, 1100.5}</string>
+					<string>{961.5, 1101.5}</string>
+					<string>{962, 1102.5}</string>
+					<string>{962.5, 1103}</string>
+					<string>{962.5, 1104}</string>
+					<string>{963, 1105}</string>
+					<string>{963.5, 1105.5}</string>
+					<string>{963.5, 1106}</string>
+					<string>{964, 1106.5}</string>
+					<string>{964, 1107}</string>
+					<string>{964.5, 1107.5}</string>
+				</array>
+				<key>width</key>
+				<integer>4</integer>
+			</dict>
+			<dict>
+				<key>color_rgb</key>
+				<integer>16711680</integer>
+				<key>opacity</key>
+				<real>1</real>
+				<key>px1</key>
+				<real>957</real>
+				<key>px2</key>
+				<real>968.5</real>
+				<key>py1</key>
+				<real>1084.5</real>
+				<key>py2</key>
+				<real>1101.5</real>
+				<key>touch_list</key>
+				<array>
+					<string>{958, 1097}</string>
+					<string>{958, 1097}</string>
+					<string>{958, 1096}</string>
+					<string>{958, 1095.5}</string>
+					<string>{957.5, 1094.5}</string>
+					<string>{957.5, 1093.5}</string>
+					<string>{957, 1093}</string>
+					<string>{957, 1092}</string>
+					<string>{957, 1091}</string>
+					<string>{957, 1090.5}</string>
+					<string>{957, 1089.5}</string>
+					<string>{957, 1088.5}</string>
+					<string>{957.5, 1088}</string>
+					<string>{957.5, 1087}</string>
+					<string>{958, 1086.5}</string>
+					<string>{958.5, 1086}</string>
+					<string>{959, 1085.5}</string>
+					<string>{959, 1085}</string>
+					<string>{959.5, 1085}</string>
+					<string>{960, 1084.5}</string>
+					<string>{961, 1084.5}</string>
+					<string>{961.5, 1084.5}</string>
+					<string>{962, 1084.5}</string>
+					<string>{962.5, 1084.5}</string>
+					<string>{963, 1084.5}</string>
+					<string>{963.5, 1084.5}</string>
+					<string>{964, 1085}</string>
+					<string>{964.5, 1085.5}</string>
+					<string>{965, 1086}</string>
+					<string>{965.5, 1086.5}</string>
+					<string>{966, 1087}</string>
+					<string>{966.5, 1087.5}</string>
+					<string>{967, 1088}</string>
+					<string>{967.5, 1088.5}</string>
+					<string>{967.5, 1089}</string>
+					<string>{968, 1089.5}</string>
+					<string>{968, 1090.5}</string>
+					<string>{968, 1091}</string>
+					<string>{968.5, 1091}</string>
+					<string>{968.5, 1091.5}</string>
+					<string>{968.5, 1092}</string>
+					<string>{968.5, 1092.5}</string>
+					<string>{968.5, 1093}</string>
+					<string>{968.5, 1093.5}</string>
+					<string>{968.5, 1094}</string>
+					<string>{968, 1095}</string>
+					<string>{967.5, 1095.5}</string>
+					<string>{967, 1096.5}</string>
+					<string>{966.5, 1097.5}</string>
+					<string>{966, 1098.5}</string>
+					<string>{965.5, 1099.5}</string>
+					<string>{964.5, 1100.5}</string>
+					<string>{963.5, 1101.5}</string>
+				</array>
+				<key>width</key>
+				<integer>4</integer>
+			</dict>
+			<dict>
+				<key>color_rgb</key>
+				<integer>16711680</integer>
+				<key>opacity</key>
+				<real>1</real>
+				<key>px1</key>
+				<real>954.5</real>
+				<key>px2</key>
+				<real>956.5</real>
+				<key>py1</key>
+				<real>1134</real>
+				<key>py2</key>
+				<real>1151</real>
+				<key>touch_list</key>
+				<array>
+					<string>{956.5, 1134}</string>
+					<string>{956.5, 1134}</string>
+					<string>{956.5, 1134}</string>
+					<string>{956.5, 1134}</string>
+					<string>{956.5, 1134}</string>
+					<string>{956.5, 1134}</string>
+					<string>{956.5, 1134}</string>
+					<string>{956, 1134}</string>
+					<string>{956, 1134}</string>
+					<string>{956, 1134}</string>
+					<string>{955.5, 1134}</string>
+					<string>{955.5, 1134.5}</string>
+					<string>{955.5, 1135}</string>
+					<string>{955, 1135.5}</string>
+					<string>{955, 1136.5}</string>
+					<string>{954.5, 1137.5}</string>
+					<string>{954.5, 1138.5}</string>
+					<string>{954.5, 1139.5}</string>
+					<string>{954.5, 1140}</string>
+					<string>{954.5, 1141.5}</string>
+					<string>{954.5, 1142.5}</string>
+					<string>{954.5, 1143}</string>
+					<string>{954.5, 1144.5}</string>
+					<string>{954.5, 1145.5}</string>
+					<string>{954.5, 1146.5}</string>
+					<string>{954.5, 1147.5}</string>
+					<string>{955, 1148.5}</string>
+					<string>{955, 1149}</string>
+					<string>{955.5, 1150}</string>
+					<string>{955.5, 1150.5}</string>
+					<string>{956, 1151}</string>
+				</array>
+				<key>width</key>
+				<integer>4</integer>
+			</dict>
+			<dict>
+				<key>color_rgb</key>
+				<integer>16711680</integer>
+				<key>opacity</key>
+				<real>1</real>
+				<key>px1</key>
+				<real>946.5</real>
+				<key>px2</key>
+				<real>964</real>
+				<key>py1</key>
+				<real>1132.5</real>
+				<key>py2</key>
+				<real>1160</real>
+				<key>touch_list</key>
+				<array>
+					<string>{946.5, 1134.5}</string>
+					<string>{946.5, 1134.5}</string>
+					<string>{947, 1134.5}</string>
+					<string>{947, 1134.5}</string>
+					<string>{947, 1134}</string>
+					<string>{947, 1134}</string>
+					<string>{947, 1133.5}</string>
+					<string>{947, 1133.5}</string>
+					<string>{947, 1133}</string>
+					<string>{947, 1133}</string>
+					<string>{947.5, 1133}</string>
+					<string>{947.5, 1132.5}</string>
+					<string>{948, 1132.5}</string>
+					<string>{948.5, 1132.5}</string>
+					<string>{949, 1132.5}</string>
+					<string>{949.5, 1132.5}</string>
+					<string>{950.5, 1132.5}</string>
+					<string>{951, 1132.5}</string>
+					<string>{952, 1133}</string>
+					<string>{953, 1133}</string>
+					<string>{954, 1133.5}</string>
+					<string>{955, 1134}</string>
+					<string>{956, 1134.5}</string>
+					<string>{957, 1135.5}</string>
+					<string>{958, 1136}</string>
+					<string>{959, 1137}</string>
+					<string>{959.5, 1138}</string>
+					<string>{960.5, 1138.5}</string>
+					<string>{961, 1139.5}</string>
+					<string>{962, 1140.5}</string>
+					<string>{962.5, 1141.5}</string>
+					<string>{963, 1142.5}</string>
+					<string>{963.5, 1143.5}</string>
+					<string>{963.5, 1144}</string>
+					<string>{964, 1145}</string>
+					<string>{964, 1145.5}</string>
+					<string>{964, 1146}</string>
+					<string>{964, 1147}</string>
+					<string>{964, 1147.5}</string>
+					<string>{964, 1148}</string>
+					<string>{964, 1148.5}</string>
+					<string>{964, 1149.5}</string>
+					<string>{963.5, 1150}</string>
+					<string>{963, 1151}</string>
+					<string>{962.5, 1151.5}</string>
+					<string>{962, 1152.5}</string>
+					<string>{961, 1153}</string>
+					<string>{960, 1154}</string>
+					<string>{959.5, 1154.5}</string>
+					<string>{958.5, 1155.5}</string>
+					<string>{957.5, 1156.5}</string>
+					<string>{956.5, 1157}</string>
+					<string>{955.5, 1158}</string>
+					<string>{954.5, 1159}</string>
+					<string>{953.5, 1160}</string>
+				</array>
+				<key>width</key>
+				<integer>4</integer>
+			</dict>
+			<dict>
+				<key>color_rgb</key>
+				<integer>16711680</integer>
+				<key>opacity</key>
+				<real>1</real>
+				<key>px1</key>
+				<real>441</real>
+				<key>px2</key>
+				<real>561.5</real>
+				<key>py1</key>
+				<real>1076.98388671875</real>
+				<key>py2</key>
+				<real>1208.485595703125</real>
+				<key>touch_list</key>
+				<array>
+					<string>{446.5, 1076.98388671875}</string>
+					<string>{446.5, 1076.98388671875}</string>
+					<string>{446.5, 1076.98388671875}</string>
+					<string>{446.5, 1076.98388671875}</string>
+					<string>{446.5, 1076.98388671875}</string>
+					<string>{446.5, 1076.98388671875}</string>
+					<string>{446.5, 1076.98388671875}</string>
+					<string>{446.5, 1076.98388671875}</string>
+					<string>{446, 1076.98388671875}</string>
+					<string>{446, 1076.98388671875}</string>
+					<string>{445.5, 1076.98388671875}</string>
+					<string>{445.5, 1076.98388671875}</string>
+					<string>{445.5, 1076.98388671875}</string>
+					<string>{445, 1076.98388671875}</string>
+					<string>{444.5, 1076.98388671875}</string>
+					<string>{444.5, 1076.98388671875}</string>
+					<string>{444, 1076.98388671875}</string>
+					<string>{444, 1077.484130859375}</string>
+					<string>{443.5, 1077.484130859375}</string>
+					<string>{443.5, 1077.484130859375}</string>
+					<string>{443, 1077.984375}</string>
+					<string>{443, 1077.984375}</string>
+					<string>{442.5, 1077.984375}</string>
+					<string>{442.5, 1078.484619140625}</string>
+					<string>{442.5, 1078.484619140625}</string>
+					<string>{442, 1078.484619140625}</string>
+					<string>{442, 1078.484619140625}</string>
+					<string>{442, 1078.484619140625}</string>
+					<string>{442, 1078.98486328125}</string>
+					<string>{441.5, 1078.98486328125}</string>
+					<string>{441.5, 1078.98486328125}</string>
+					<string>{441.5, 1078.98486328125}</string>
+					<string>{441.5, 1078.98486328125}</string>
+					<string>{441, 1078.98486328125}</string>
+					<string>{441, 1078.98486328125}</string>
+					<string>{441, 1078.98486328125}</string>
+					<string>{441, 1078.98486328125}</string>
+					<string>{441, 1078.98486328125}</string>
+					<string>{441, 1078.98486328125}</string>
+					<string>{441, 1078.98486328125}</string>
+					<string>{441, 1078.98486328125}</string>
+					<string>{441, 1078.98486328125}</string>
+					<string>{441, 1078.98486328125}</string>
+					<string>{441, 1079.485107421875}</string>
+					<string>{441, 1079.485107421875}</string>
+					<string>{441, 1079.485107421875}</string>
+					<string>{441, 1079.485107421875}</string>
+					<string>{441, 1079.9853515625}</string>
+					<string>{441, 1079.9853515625}</string>
+					<string>{441, 1080.485595703125}</string>
+					<string>{441, 1080.485595703125}</string>
+					<string>{441, 1080.98583984375}</string>
+					<string>{441, 1080.98583984375}</string>
+					<string>{441.5, 1081.486083984375}</string>
+					<string>{441.5, 1081.986328125}</string>
+					<string>{441.5, 1082.486572265625}</string>
+					<string>{441.5, 1082.486572265625}</string>
+					<string>{441.5, 1083.487060546875}</string>
+					<string>{441.5, 1083.9873046875}</string>
+					<string>{441.5, 1084.487548828125}</string>
+					<string>{442, 1084.98779296875}</string>
+					<string>{442, 1085.488037109375}</string>
+					<string>{442, 1085.98828125}</string>
+					<string>{442, 1086.488525390625}</string>
+					<string>{442, 1086.98876953125}</string>
+					<string>{442.5, 1087.9892578125}</string>
+					<string>{442.5, 1088.489501953125}</string>
+					<string>{442.5, 1089.489990234375}</string>
+					<string>{443, 1089.990234375}</string>
+					<string>{443, 1090.99072265625}</string>
+					<string>{443.5, 1091.490966796875}</string>
+					<string>{444, 1092.491455078125}</string>
+					<string>{444, 1093.491943359375}</string>
+					<string>{444.5, 1093.9921875}</string>
+					<string>{445, 1094.99267578125}</string>
+					<string>{445.5, 1095.9931640625}</string>
+					<string>{445.5, 1096.493408203125}</string>
+					<string>{446, 1097.493896484375}</string>
+					<string>{446.5, 1097.994140625}</string>
+					<string>{447, 1098.99462890625}</string>
+					<string>{447.5, 1099.9951171875}</string>
+					<string>{447.5, 1100.495361328125}</string>
+					<string>{448, 1101.495849609375}</string>
+					<string>{448.5, 1102.496337890625}</string>
+					<string>{449, 1102.99658203125}</string>
+					<string>{449.5, 1103.9970703125}</string>
+					<string>{450, 1104.99755859375}</string>
+					<string>{450.5, 1105.998046875}</string>
+					<string>{451.5, 1106.99853515625}</string>
+					<string>{452, 1107.9990234375}</string>
+					<string>{452.5, 1108.99951171875}</string>
+					<string>{453, 1109.979248046875}</string>
+					<string>{454, 1110.979736328125}</string>
+					<string>{454.5, 1111.980224609375}</string>
+					<string>{455.5, 1112.980712890625}</string>
+					<string>{456, 1113.981201171875}</string>
+					<string>{456.5, 1114.4814453125}</string>
+					<string>{457.5, 1115.48193359375}</string>
+					<string>{458, 1116.482421875}</string>
+					<string>{458.5, 1116.982666015625}</string>
+					<string>{459, 1117.983154296875}</string>
+					<string>{460, 1118.4833984375}</string>
+					<string>{460.5, 1119.48388671875}</string>
+					<string>{461, 1119.984130859375}</string>
+					<string>{461.5, 1120.984619140625}</string>
+					<string>{462.5, 1121.48486328125}</string>
+					<string>{463, 1122.4853515625}</string>
+					<string>{463.5, 1123.48583984375}</string>
+					<string>{464.5, 1124.486328125}</string>
+					<string>{465, 1125.48681640625}</string>
+					<string>{465.5, 1126.4873046875}</string>
+					<string>{466, 1127.48779296875}</string>
+					<string>{467, 1128.48828125}</string>
+					<string>{467.5, 1129.48876953125}</string>
+					<string>{468, 1130.4892578125}</string>
+					<string>{468.5, 1131.48974609375}</string>
+					<string>{469, 1132.490234375}</string>
+					<string>{470, 1133.49072265625}</string>
+					<string>{470.5, 1134.4912109375}</string>
+					<string>{471, 1134.991455078125}</string>
+					<string>{471.5, 1135.991943359375}</string>
+					<string>{472.5, 1136.992431640625}</string>
+					<string>{473, 1137.992919921875}</string>
+					<string>{473.5, 1138.993408203125}</string>
+					<string>{474, 1139.993896484375}</string>
+					<string>{475, 1140.994384765625}</string>
+					<string>{475.5, 1141.994873046875}</string>
+					<string>{476, 1142.995361328125}</string>
+					<string>{477, 1143.995849609375}</string>
+					<string>{477.5, 1144.996337890625}</string>
+					<string>{478.5, 1146.4970703125}</string>
+					<string>{479, 1147.49755859375}</string>
+					<string>{480, 1148.498046875}</string>
+					<string>{480.5, 1149.49853515625}</string>
+					<string>{481.5, 1150.4990234375}</string>
+					<string>{482.5, 1151.999755859375}</string>
+					<string>{483.5, 1152.9793701171875}</string>
+					<string>{484.5, 1153.9798583984375}</string>
+					<string>{485, 1154.9803466796875}</string>
+					<string>{486, 1155.9808349609375}</string>
+					<string>{487, 1156.9813232421875}</string>
+					<string>{488, 1157.4815673828125}</string>
+					<string>{489, 1158.4820556640625}</string>
+					<string>{489.5, 1159.4825439453125}</string>
+					<string>{490.5, 1159.9827880859375}</string>
+					<string>{491.5, 1160.9832763671875}</string>
+					<string>{492.5, 1161.4835205078125}</string>
+					<string>{493.5, 1162.4840087890625}</string>
+					<string>{494, 1162.9842529296875}</string>
+					<string>{495, 1163.9847412109375}</string>
+					<string>{496, 1164.9852294921875}</string>
+					<string>{497, 1165.4854736328125}</string>
+					<string>{498, 1166.4859619140625}</string>
+					<string>{499, 1167.4864501953125}</string>
+					<string>{500, 1168.4869384765625}</string>
+					<string>{501, 1169.4874267578125}</string>
+					<string>{502, 1170.4879150390625}</string>
+					<string>{502.5, 1170.9881591796875}</string>
+					<string>{503.5, 1171.9886474609375}</string>
+					<string>{504.5, 1172.9891357421875}</string>
+					<string>{505.5, 1173.9896240234375}</string>
+					<string>{506.5, 1174.4898681640625}</string>
+					<string>{507, 1175.4903564453125}</string>
+					<string>{508, 1176.4908447265625}</string>
+					<string>{509, 1177.4913330078125}</string>
+					<string>{509.5, 1177.9915771484375}</string>
+					<string>{510.5, 1178.9920654296875}</string>
+					<string>{511, 1179.9925537109375}</string>
+					<string>{512, 1180.4927978515625}</string>
+					<string>{513, 1181.4932861328125}</string>
+					<string>{513.5, 1182.4937744140625}</string>
+					<string>{514.5, 1182.9940185546875}</string>
+					<string>{515.5, 1183.9945068359375}</string>
+					<string>{516, 1184.9949951171875}</string>
+					<string>{517, 1185.4952392578125}</string>
+					<string>{517.5, 1186.4957275390625}</string>
+					<string>{518.5, 1186.9959716796875}</string>
+					<string>{519, 1187.9964599609375}</string>
+					<string>{519.5, 1188.4967041015625}</string>
+					<string>{520.5, 1188.9969482421875}</string>
+					<string>{521, 1189.9974365234375}</string>
+					<string>{521.5, 1190.4976806640625}</string>
+					<string>{522, 1190.9979248046875}</string>
+					<string>{522.5, 1191.4981689453125}</string>
+					<string>{523.5, 1191.9984130859375}</string>
+					<string>{524, 1192.4986572265625}</string>
+					<string>{524.5, 1192.9989013671875}</string>
+					<string>{525, 1193.4991455078125}</string>
+					<string>{525.5, 1193.4991455078125}</string>
+					<string>{526, 1193.9993896484375}</string>
+					<string>{526, 1194.4996337890625}</string>
+					<string>{526.5, 1194.4996337890625}</string>
+					<string>{527, 1194.9998779296875}</string>
+					<string>{527.5, 1194.9998779296875}</string>
+					<string>{528, 1195.479248046875}</string>
+					<string>{528.5, 1195.479248046875}</string>
+					<string>{529, 1195.9794921875}</string>
+					<string>{529, 1195.9794921875}</string>
+					<string>{529.5, 1196.479736328125}</string>
+					<string>{530, 1196.479736328125}</string>
+					<string>{530.5, 1196.97998046875}</string>
+					<string>{530.5, 1196.97998046875}</string>
+					<string>{531, 1196.97998046875}</string>
+					<string>{531.5, 1197.480224609375}</string>
+					<string>{531.5, 1197.480224609375}</string>
+					<string>{532, 1197.480224609375}</string>
+					<string>{532, 1197.98046875}</string>
+					<string>{532.5, 1197.98046875}</string>
+					<string>{532.5, 1198.480712890625}</string>
+					<string>{533, 1198.480712890625}</string>
+					<string>{533, 1198.480712890625}</string>
+					<string>{533.5, 1198.480712890625}</string>
+					<string>{533.5, 1198.98095703125}</string>
+					<string>{534, 1198.98095703125}</string>
+					<string>{534, 1199.481201171875}</string>
+					<string>{534.5, 1199.481201171875}</string>
+					<string>{534.5, 1199.481201171875}</string>
+					<string>{535, 1199.9814453125}</string>
+					<string>{535, 1199.9814453125}</string>
+					<string>{535.5, 1200.481689453125}</string>
+					<string>{536, 1200.481689453125}</string>
+					<string>{536.5, 1200.98193359375}</string>
+					<string>{536.5, 1200.98193359375}</string>
+					<string>{537, 1201.482177734375}</string>
+					<string>{537.5, 1201.482177734375}</string>
+					<string>{538, 1201.982421875}</string>
+					<string>{538.5, 1201.982421875}</string>
+					<string>{538.5, 1202.482666015625}</string>
+					<string>{539, 1202.482666015625}</string>
+					<string>{539.5, 1202.98291015625}</string>
+					<string>{540, 1202.98291015625}</string>
+					<string>{540.5, 1202.98291015625}</string>
+					<string>{541, 1203.483154296875}</string>
+					<string>{541, 1203.483154296875}</string>
+					<string>{541.5, 1203.483154296875}</string>
+					<string>{542, 1203.9833984375}</string>
+					<string>{542.5, 1203.9833984375}</string>
+					<string>{543, 1203.9833984375}</string>
+					<string>{543.5, 1203.9833984375}</string>
+					<string>{544, 1203.9833984375}</string>
+					<string>{544.5, 1204.483642578125}</string>
+					<string>{545, 1204.483642578125}</string>
+					<string>{545.5, 1204.483642578125}</string>
+					<string>{546.5, 1204.483642578125}</string>
+					<string>{547, 1204.98388671875}</string>
+					<string>{547.5, 1204.98388671875}</string>
+					<string>{548, 1204.98388671875}</string>
+					<string>{548.5, 1204.98388671875}</string>
+					<string>{549, 1204.98388671875}</string>
+					<string>{549.5, 1205.484130859375}</string>
+					<string>{550, 1205.484130859375}</string>
+					<string>{550.5, 1205.484130859375}</string>
+					<string>{551, 1205.484130859375}</string>
+					<string>{551.5, 1205.484130859375}</string>
+					<string>{552, 1205.984375}</string>
+					<string>{552.5, 1205.984375}</string>
+					<string>{553, 1205.984375}</string>
+					<string>{554, 1205.984375}</string>
+					<string>{554.5, 1206.484619140625}</string>
+					<string>{555, 1206.484619140625}</string>
+					<string>{555.5, 1206.484619140625}</string>
+					<string>{556, 1206.484619140625}</string>
+					<string>{556.5, 1206.98486328125}</string>
+					<string>{557, 1206.98486328125}</string>
+					<string>{557, 1206.98486328125}</string>
+					<string>{557.5, 1206.98486328125}</string>
+					<string>{558, 1206.98486328125}</string>
+					<string>{558, 1206.98486328125}</string>
+					<string>{558.5, 1206.98486328125}</string>
+					<string>{559, 1206.98486328125}</string>
+					<string>{559, 1206.98486328125}</string>
+					<string>{559.5, 1206.98486328125}</string>
+					<string>{559.5, 1206.98486328125}</string>
+					<string>{560, 1206.98486328125}</string>
+					<string>{560, 1206.98486328125}</string>
+					<string>{560, 1206.98486328125}</string>
+					<string>{560.5, 1206.98486328125}</string>
+					<string>{560.5, 1207.485107421875}</string>
+					<string>{560.5, 1207.485107421875}</string>
+					<string>{560.5, 1207.485107421875}</string>
+					<string>{560.5, 1207.485107421875}</string>
+					<string>{561, 1207.485107421875}</string>
+					<string>{561, 1207.485107421875}</string>
+					<string>{561, 1207.9853515625}</string>
+					<string>{561.5, 1207.9853515625}</string>
+					<string>{561.5, 1208.485595703125}</string>
+				</array>
+				<key>width</key>
+				<integer>4</integer>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>

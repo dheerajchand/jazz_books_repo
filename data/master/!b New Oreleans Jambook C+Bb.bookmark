@@ -1,0 +1,751 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>1~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~(NOJB TOC) </string>
+	<string>7~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~1919 rag, F</string>
+	<string>9~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~2:19 blues (Mamie's blues), F</string>
+	<string>10~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~A si pare, Gm/Bb/Eb</string>
+	<string>11~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Ace in the hole, F</string>
+	<string>12~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Adieu foulard, C</string>
+	<string>13~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Adios muchachos, Bb</string>
+	<string>14~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~African queen, Bb</string>
+	<string>15~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~After the ball, F</string>
+	<string>16~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~After you've gone, Bb</string>
+	<string>17~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Ain't misbehavin', Eb</string>
+	<string>18~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Alabama song, Bb</string>
+	<string>19~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Alabamy bound, F</string>
+	<string>20~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Alcoholic blues, F</string>
+	<string>21~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Algiers strut, F</string>
+	<string>22~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Algiers waltz, F</string>
+	<string>23~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Alice blue gown, Bb</string>
+	<string>24~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~All alone, F</string>
+	<string>25~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~All by myself, Bb</string>
+	<string>26~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~All I do is dream of you, Bb</string>
+	<string>27~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Allah's holiday, Eb</string>
+	<string>28~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Almost like being in love, Bb</string>
+	<string>29~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Along the road to Gundagai, F</string>
+	<string>30~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Am I blue?, F</string>
+	<string>31~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Amor, Bb</string>
+	<string>32~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Angelina, Eb</string>
+	<string>33~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Angry, Bb</string>
+	<string>34~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Anita's birthday, F</string>
+	<string>35~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Any time, F</string>
+	<string>36~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Apple blossom time, Bb</string>
+	<string>37~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~As long as I live, F</string>
+	<string>38~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~As-tu le cafard?, Bb,</string>
+	<string>39~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~At a Georgia camp meeting, Bb</string>
+	<string>40~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~At sundown, F</string>
+	<string>41~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~At the cross, F</string>
+	<string>42~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Aura Lee, Bb</string>
+	<string>43~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Avalon, F</string>
+	<string>44~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Baby won't you please come home, Bb</string>
+	<string>45~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Beautiful dreamer, F</string>
+	<string>46~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Beautiful Ohio, F</string>
+	<string>47~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Because of you, Eb</string>
+	<string>48~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Bechet's fantasy, Eb</string>
+	<string>49~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Beg your pardon, F</string>
+	<string>50~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Begonia, F</string>
+	<string>51~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Beguin-beguine, F</string>
+	<string>52~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Bells of St. Mary's, Eb</string>
+	<string>53~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Besame mucho, Dm</string>
+	<string>54~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Best things in life are free, C</string>
+	<string>55~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Between the devil and the deep blue sea, F</string>
+	<string>56~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Big butter and egg man, F</string>
+	<string>57~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Big chief battle axe, Gm/Bb</string>
+	<string>58~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Big lip blues, Bb</string>
+	<string>59~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Bimbo, Bb</string>
+	<string>60~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Black and blue, Gm</string>
+	<string>61~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Black and tan fantasy, Bbm</string>
+	<string>62~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Black beauty, Bb</string>
+	<string>63~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Black but sweet, Fm</string>
+	<string>64~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Black Orpheus (Manha de Carnaval), Dm</string>
+	<string>65~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Blame it on the blues, Eb</string>
+	<string>66~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Blanche touquatoux, F</string>
+	<string>67~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Blessed assurance, Bb</string>
+	<string>68~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Blue again, C</string>
+	<string>69~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Blue and broken hearted, Bb</string>
+	<string>70~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Blue and sentimental, F</string>
+	<string>71~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Blue bells goodbye, F</string>
+	<string>72~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Blue blood blues, F</string>
+	<string>73~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Blue eyes crying in the rain, F</string>
+	<string>74~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Blue Hawaii, Bb</string>
+	<string>75~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Blue turning grey over you, Bb</string>
+	<string>76~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Blueberry Hill, Bb</string>
+	<string>77~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Blues in the air, Eb/Cm</string>
+	<string>78~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Blues in thirds, F</string>
+	<string>79~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Blues my naughty sweetie gives to me, Bb</string>
+	<string>80~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Bogalusa strut, Bb (rev.)</string>
+	<string>81~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Bohunkus blues, Eb</string>
+	<string>82~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Borneo, F</string>
+	<string>83~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Bossa Dorado, Dm</string>
+	<string>84~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Breeze, F</string>
+	<string>85~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Bring me sunshine, Bb</string>
+	<string>86~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Broken windmill, The, Gm/Bb</string>
+	<string>88~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Brown love, Bb</string>
+	<string>89~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Brown skin gal, C</string>
+	<string>90~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Buddy Bolden stomp, Bb/Eb</string>
+	<string>91~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Buddy Bolden's blues, F</string>
+	<string>92~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Burgundy street blues, C</string>
+	<string>93~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Button up your overcoat, F</string>
+	<string>94~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~By the river of the roses, Bb</string>
+	<string>95~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~By(e) and by(e), Eb</string>
+	<string>96~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~C jam blues, C</string>
+	<string>97~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Cachita, F</string>
+	<string>98~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Cake walking babies from home, Bb</string>
+	<string>99~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Calcutta, F</string>
+	<string>100~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Caldonia, F</string>
+	<string>101~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Candy lips, Bb</string>
+	<string>102~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Caravan, Fm</string>
+	<string>103~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Careless love, F</string>
+	<string>104~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Carioca, F</string>
+	<string>105~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Carnaval à la Martinique, F</string>
+	<string>106~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Carnaval is a bacchanal, Eb</string>
+	<string>107~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Carry me back to old Virginny, F</string>
+	<string>108~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Ce filon, Bb</string>
+	<string>109~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Ce mossieu qui parle, Bb</string>
+	<string>110~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Cecilia, Bb</string>
+	<string>111~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~C'est magnifique, F</string>
+	<string>112~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~C'est si bon, Bb</string>
+	<string>113~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Chalumeau blue, F/Bb</string>
+	<string>114~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Charming Trinidad, F</string>
+	<string>115~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~China boy, F</string>
+	<string>116~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Chloe, Bb</string>
+	<string>117~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Cielito lindo, Bb</string>
+	<string>118~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Ciribiribin, Eb</string>
+	<string>119~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Citation creole, Dm</string>
+	<string>120~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Coffee grinder, Bb</string>
+	<string>121~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Collegiate, Eb</string>
+	<string>122~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Come to the Mardi Gras, C</string>
+	<string>123~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Comes love, Gm</string>
+	<string>124~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Cook good, Bb</string>
+	<string>125~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Coon blues, C</string>
+	<string>126~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Coquette, Eb</string>
+	<string>127~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Corrine Corrina, Bb</string>
+	<string>128~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Cradle song, F</string>
+	<string>129~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Crazy, Eb</string>
+	<string>130~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Creole belles, F</string>
+	<string>132~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Creole bo bo, G</string>
+	<string>133~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Creole jazz, F</string>
+	<string>134~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Creole song, Eb</string>
+	<string>135~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Cryin' time, F</string>
+	<string>136~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Crying in the chapel, C</string>
+	<string>137~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Crying my heart out for you, Bb</string>
+	<string>138~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Cuban love song, Eb</string>
+	<string>139~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Cuban Pete, Bb</string>
+	<string>140~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Curse of an aching heart, Bb</string>
+	<string>141~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Cushion foot stomp, Eb</string>
+	<string>143~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Dancin' with the one you love, C</string>
+	<string>144~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Danny boy, F</string>
+	<string>145~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Dans les rues d'Antibes, F/Bb</string>
+	<string>147~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Där näckrosen blommar, Bb</string>
+	<string>148~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Dardanella, Bb</string>
+	<string>149~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Dark eyes, Gm</string>
+	<string>150~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Darkness on the delta, Eb</string>
+	<string>151~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Darling Nellie Gray, Eb</string>
+	<string>152~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Dear old Southland, F</string>
+	<string>153~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Deep purple, F</string>
+	<string>154~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Delia's gone, F</string>
+	<string>155~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Delicado, G</string>
+	<string>157~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Delta mood, F</string>
+	<string>158~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Den första gång jag såg dig, F</string>
+	<string>159~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Did I remember, Eb</string>
+	<string>160~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Diga diga doo, Dm</string>
+	<string>161~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Do Lord, Bb</string>
+	<string>162~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Do you know what it means to miss New Orleans, Bb</string>
+	<string>163~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Do you know what it means to miss NO, Bb (alt. chords)</string>
+	<string>164~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Do your duty, F</string>
+	<string>165~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Doctor Jazz, Eb</string>
+	<string>166~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Does Jesus care? Bb</string>
+	<string>167~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Don't fence me in, F</string>
+	<string>168~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Don't give up the ship, Bb</string>
+	<string>169~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Don't give up the ship, F</string>
+	<string>170~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Don't leave me now, Bb</string>
+	<string>171~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Don't sweetheart me, F</string>
+	<string>172~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Don't worry 'bout me, Bb</string>
+	<string>173~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Don't you feel my leg, F</string>
+	<string>174~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Dormouse, Gm/F</string>
+	<string>175~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Dos Gardenias, Cm</string>
+	<string>176~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Down by the old mill stream, F</string>
+	<string>177~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Down home rag, Bb</string>
+	<string>178~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Down in honky-tonky town, Bb</string>
+	<string>179~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Down in jungle town, Bb</string>
+	<string>180~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Dream, Bb</string>
+	<string>181~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Dream a little dream of me, F</string>
+	<string>182~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Dreaming the hours away, F</string>
+	<string>183~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Drop that sack, Bb</string>
+	<string>184~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Drum boogie, Eb</string>
+	<string>185~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~East of the sun, F</string>
+	<string>186~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Eccentric, Bb</string>
+	<string>188~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Egyptian fantasy, Gm/Bb</string>
+	<string>189~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Eh, la bas!, F</string>
+	<string>190~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~El cumbanchero, Dm</string>
+	<string>191~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~El doudou, Bb</string>
+	<string>192~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~End of the world, Eb</string>
+	<string>193~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Enjoy yourself, Bb</string>
+	<string>194~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Evening prayer, Bb</string>
+	<string>195~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Everywhere you go, Eb</string>
+	<string>196~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Exactly like you, Bb</string>
+	<string>197~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Far away blues, Bb</string>
+	<string>198~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Farewell blues, Bb</string>
+	<string>199~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Farewell to Storyville, F</string>
+	<string>200~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Femme Martinique doux, Gm</string>
+	<string>201~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Fidgety feet, Bb/Eb/Ab</string>
+	<string>202~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~First choice, Bb</string>
+	<string>203~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Fishseller, F</string>
+	<string>204~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Flamingo, F</string>
+	<string>205~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Float me down the river, Ab</string>
+	<string>206~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Foggy day, F</string>
+	<string>207~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Fool such as I, Bb</string>
+	<string>208~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~For all we know, F</string>
+	<string>209~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~For once in my life, Bb, advanced</string>
+	<string>210~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~For once in my life, Bb, NO-style</string>
+	<string>211~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Forgive me, F</string>
+	<string>212~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Four or five times, Eb</string>
+	<string>213~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Frankie and Johnny, Bb</string>
+	<string>214~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Frog-i-more rag, Bb/Eb</string>
+	<string>215~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Gatemouth, Eb</string>
+	<string>216~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Gee baby, ain't I good to you, Eb</string>
+	<string>217~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Gentle Annie, F</string>
+	<string>218~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Georgia cabin, Eb</string>
+	<string>219~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Georgia on my mind, F</string>
+	<string>220~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Get happy, F</string>
+	<string>221~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Get out of here, Bb</string>
+	<string>222~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Gettysburg march, Ab</string>
+	<string>223~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Girl from Ipanema, F</string>
+	<string>224~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Girl of my dreams, Bb</string>
+	<string>225~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Give it up, F</string>
+	<string>226~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Give me your telephone number, Bb</string>
+	<string>227~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Glory of love, F</string>
+	<string>228~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Go down, Moses, Dm</string>
+	<string>229~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Go tell it on the mountain, F</string>
+	<string>230~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Goin' home (Colyer), C</string>
+	<string>231~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Graveyard blues, C</string>
+	<string>232~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Gravier street blues, C</string>
+	<string>233~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Gypsy love song, Bb</string>
+	<string>234~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Gypsy without a song, Gm</string>
+	<string>235~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Halle hallelujah, F</string>
+	<string>236~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Harbor lights, Eb</string>
+	<string>237~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Hard times, Eb</string>
+	<string>238~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Hawaiian melody, C</string>
+	<string>239~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~He touched me, F</string>
+	<string>240~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~He will remember me, Bb</string>
+	<string>241~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Heart of my heart, Bb</string>
+	<string>242~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Heartaches, F</string>
+	<string>243~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Heebie jeebies, Bb</string>
+	<string>244~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Here comes the hot tamale man, Eb</string>
+	<string>245~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Here I stand with my heart in my hand, Eb</string>
+	<string>246~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Hesitating blues, F</string>
+	<string>247~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Hiawatha, Bb/Eb</string>
+	<string>248~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~His eye is on the sparrow, Ab</string>
+	<string>249~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~His eye is on the sparrow, F (George Lewis)</string>
+	<string>250~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Hold me, Bb</string>
+	<string>251~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Holding my Saviour's hand, Bb</string>
+	<string>252~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Home (When shadows fall), Eb</string>
+	<string>253~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~How can you face me?, Bb</string>
+	<string>254~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~How can you leave me now, F</string>
+	<string>255~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~How great Thou art, Bb</string>
+	<string>256~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~How strange, Fm</string>
+	<string>257~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Hushabye, Gm</string>
+	<string>258~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Hymn for George Lewis, Ab</string>
+	<string>259~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Hymn to freedom, C</string>
+	<string>260~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Hymn to freedom, C (NO chords)</string>
+	<string>261~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~I ain't gonna give nobody none of my jelly roll, Bb</string>
+	<string>262~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~I am a pilgrim, F</string>
+	<string>263~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~I believe in miracles, Bb</string>
+	<string>264~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~I can't begin to tell you, Bb (à la Chris Blount)</string>
+	<string>265~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~I can't begin to tell you, Bb (lyrics)</string>
+	<string>266~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~I can't believe that you're in love with me, Bb</string>
+	<string>267~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~I can't escape from you, Bb</string>
+	<string>268~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~I can't give you anything but love, F</string>
+	<string>269~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~I don't know why, Bb</string>
+	<string>270~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~I get the blues when it rains, F</string>
+	<string>271~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~I hate a man like you, Gm</string>
+	<string>272~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~I know that you know, Eb</string>
+	<string>273~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~I let a song go out of my heart, Eb</string>
+	<string>274~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~I like bananas because they have no bones, F</string>
+	<string>275~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~I lost my gal from Memphis, Dm</string>
+	<string>276~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~I love you, F</string>
+	<string>277~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~I love you so much it hurts, F</string>
+	<string>278~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~I min lilla lilla värld av blommor, F</string>
+	<string>279~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~I must have that man, Bb</string>
+	<string>280~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~I never knew, F</string>
+	<string>281~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~I shall not be moved, Eb</string>
+	<string>282~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~I surrender, dear, C</string>
+	<string>283~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~I thank you, mister Moon, F</string>
+	<string>284~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~I used to love you, Ab</string>
+	<string>285~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~I wanna be like you, Bb</string>
+	<string>286~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~I wanna be loved by you, F</string>
+	<string>287~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~I want a little girl, F</string>
+	<string>288~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~I want to be happy, C</string>
+	<string>289~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~I want you, F</string>
+	<string>290~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~I wish I knew how it would feel to be free, F</string>
+	<string>291~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~I wish't I was in Peoria, Gm/Eb</string>
+	<string>292~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~I wonder where my easy rider's gone, F</string>
+	<string>293~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~I wonder who's kissing her now, F</string>
+	<string>294~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Ice cream, C</string>
+	<string>295~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Ida, sweet as apple cider, Bb</string>
+	<string>296~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~If I can help somebody, Eb</string>
+	<string>297~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~If I had my life to live over, Bb</string>
+	<string>298~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~If I had my way, Bb</string>
+	<string>299~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~If I had you, Bb</string>
+	<string>300~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Iko iko, C</string>
+	<string>301~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~I'll always be in love with you, Bb</string>
+	<string>302~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~I'll be seeing you, Eb</string>
+	<string>303~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~I'll fly away, Eb</string>
+	<string>304~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~I'll fly away, F</string>
+	<string>305~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~I'll see you in C-U-B-A, Bb</string>
+	<string>306~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~I'll see you in my dreams, F</string>
+	<string>307~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~I'll take you home again, Kathleen, Eb</string>
+	<string>308~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~I'm coming Virginia, F</string>
+	<string>309~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~I'm confessin' that I love you, Bb</string>
+	<string>310~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~I'm forever blowing bubbles, Bb</string>
+	<string>311~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~I'm getting sentimental over you, Eb</string>
+	<string>312~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~I'm going home to see my Lord, C</string>
+	<string>313~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~I'm gonna sit right down and write myself a letter, Bb</string>
+	<string>314~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~I'm looking over a four leaf clover</string>
+	<string>315~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~I'm nobody's baby, Eb</string>
+	<string>316~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~I'm nobody's baby, F</string>
+	<string>317~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~I'm putting all my eggs in one basket, C</string>
+	<string>318~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~I'm sorry I made you cry, Bb</string>
+	<string>319~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~I'm with you where you are, Eb</string>
+	<string>320~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~In a little Spanish town, Bb</string>
+	<string>321~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~In a Persian market, Bb</string>
+	<string>322~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~In a shanty in old shanty town, F</string>
+	<string>323~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~In my heart there is a yearning, F</string>
+	<string>324~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~In the garden, F</string>
+	<string>325~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~In the gloaming, F</string>
+	<string>326~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~In the good old summertime, Bb</string>
+	<string>327~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~In the mood, F</string>
+	<string>328~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~In the shade of the old apple tree, F</string>
+	<string>329~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~In the summertime, F</string>
+	<string>330~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~In the sweet bye and bye, F</string>
+	<string>331~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~In the upper garden, F</string>
+	<string>332~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Indian love call, Eb</string>
+	<string>333~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Indian summer, F</string>
+	<string>334~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Into each life some rain must fall, C</string>
+	<string>335~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Into each life some rain must fall, Eb</string>
+	<string>336~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Irish black bottom, F</string>
+	<string>337~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Is it true what they say about Dixie? F</string>
+	<string>338~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~It don't mean a thing if it ain't got that swing, Bb</string>
+	<string>339~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~It feels so good, Bb</string>
+	<string>340~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~It is no secret, Bb</string>
+	<string>341~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~It's all because of you, Bb</string>
+	<string>342~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~It's me, O Lord, Eb</string>
+	<string>343~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~It's nobody's fault but mine, Bb</string>
+	<string>344~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~It's only a paper moon, F</string>
+	<string>345~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~I've found a new baby, F</string>
+	<string>346~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~I've got everything, Bb</string>
+	<string>347~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~I've got everything, C</string>
+	<string>348~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Jackass blues, Eb</string>
+	<string>349~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Jag hade en gång en båt, C</string>
+	<string>350~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Jag har bott vid en landsväg, Eb</string>
+	<string>351~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Jag har en liten melodi, Bb</string>
+	<string>352~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Jamaica farewell, C</string>
+	<string>353~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Jamaica march, F</string>
+	<string>354~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Jamaican song, F</string>
+	<string>355~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Jambalaya, Bb</string>
+	<string>356~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Japanese sandman, F</string>
+	<string>357~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Jazz me blues, Eb</string>
+	<string>358~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Je vous aime, Bb</string>
+	<string>359~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Jealous, F</string>
+	<string>360~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Jet black blues, Eb</string>
+	<string>361~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Johnny's bounce, Bb</string>
+	<string>362~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Joshua fit the battle of Jericho, Gm</string>
+	<string>363~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Juliana, F/Bb</string>
+	<string>365~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Juliana, F/Bb (reworked)</string>
+	<string>366~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~June night, Bb</string>
+	<string>367~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Jungle drums, Gm</string>
+	<string>368~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Just a gigolo, F</string>
+	<string>369~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Just a rose, Bb</string>
+	<string>370~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Just you, just me, Eb</string>
+	<string>371~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Kansas city man blues, Eb</string>
+	<string>372~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~King of the Zulus, Dm</string>
+	<string>373~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Kiss of fire, Dm</string>
+	<string>374~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Kiss to build a dream on, Bb</string>
+	<string>375~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Kitchen man, chorus, Bb</string>
+	<string>376~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Kitchen man, verse, chorus and lyrics, Bb</string>
+	<string>377~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Konvaljens avsked, Eb</string>
+	<string>378~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~La cucaracha, F</string>
+	<string>379~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~La Harpe street blues, Eb</string>
+	<string>380~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~La Marseillaise, Eb</string>
+	<string>381~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~La Rosita, F</string>
+	<string>382~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~La roulotte, Dm</string>
+	<string>383~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~La tendresse, Cm</string>
+	<string>384~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~La vie en rose, C</string>
+	<string>385~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Lady love, Bb</string>
+	<string>386~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Last mile of the way, F</string>
+	<string>387~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Last night on the back porch, Bb</string>
+	<string>388~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Laughing samba, C</string>
+	<string>389~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Lazybones, C</string>
+	<string>390~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Lead me, Saviour, Bb</string>
+	<string>391~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Let the great big world keep turning, Eb</string>
+	<string>392~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Let the rest of the world go by, Ab (3/4)</string>
+	<string>393~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Let the rest of the world go by, Bb (4/4)</string>
+	<string>394~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Let's sow wild oat, F</string>
+	<string>395~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Lights out, Eb</string>
+	<string>396~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Lignum vitae, F</string>
+	<string>397~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Lily of the valley, Eb</string>
+	<string>398~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Limehouse blues, Bb</string>
+	<string>399~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Linger awhile, F</string>
+	<string>400~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Listen to the mockingbird, F</string>
+	<string>401~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Little brown jug, Bb</string>
+	<string>402~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Little girl, Bb</string>
+	<string>403~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Little street where old folks meet, Eb</string>
+	<string>404~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Lonesome blues, Bb</string>
+	<string>405~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Lonesome road, Bb</string>
+	<string>406~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Lord, let me in the lifeboat, Bb</string>
+	<string>407~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Lou-easy-an-i-a, Ab</string>
+	<string>408~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Louise, F</string>
+	<string>409~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Louisiana fairytale, Bb</string>
+	<string>410~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Love in bloom, Eb</string>
+	<string>411~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Love letters in the sand, F</string>
+	<string>412~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Love me or leave me, Eb</string>
+	<string>413~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Love nest, Eb</string>
+	<string>414~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Love song of long ago, F</string>
+	<string>415~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Love song of the Nile, C</string>
+	<string>416~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Lover man, F</string>
+	<string>417~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Low cotton, Eb</string>
+	<string>418~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Lyckan (The joy), C</string>
+	<string>419~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Madame Becassine, F</string>
+	<string>420~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Magic is the moonlight, Eb</string>
+	<string>421~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Magic island, C</string>
+	<string>422~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Magic isle, Eb</string>
+	<string>423~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Make me a pallet on your floor, F</string>
+	<string>424~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Makin' whoopee, F</string>
+	<string>425~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Malaika, F</string>
+	<string>426~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Malangua, Dm/Gm</string>
+	<string>427~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Mama Inez, F</string>
+	<string>428~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Mandy, make up your mind, F</string>
+	<string>429~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Mansion over the hilltop, C</string>
+	<string>430~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Mardi Gras in New Orleans, Bb</string>
+	<string>431~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Margie, F</string>
+	<string>432~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Maria Elena, Bb</string>
+	<string>433~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Marie, F</string>
+	<string>434~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Martha, F</string>
+	<string>435~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Martinique, Bb</string>
+	<string>436~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Mary wore a golden chain, Eb</string>
+	<string>437~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Mean blues, F</string>
+	<string>438~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Meet me tonight in dreamland, Bb</string>
+	<string>439~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Melancholy blues, F</string>
+	<string>440~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Melodie d'amour, F</string>
+	<string>441~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Memories, F</string>
+	<string>442~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Memories of you, Eb</string>
+	<string>443~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Messie mi fe, Bb</string>
+	<string>444~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Midnight sun will never set, F</string>
+	<string>445~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Mighty wings, F</string>
+	<string>446~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Milenberg joys, Bb</string>
+	<string>447~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Miss Celie's blues (Sister), Bb</string>
+	<string>448~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Miss Celie's blues (Sister), C</string>
+	<string>449~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Mister Sandman, Bb</string>
+	<string>450~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Mona Lisa, F</string>
+	<string>451~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Monsieur Le Maire, F</string>
+	<string>452~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Mooche, Cm</string>
+	<string>453~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Mood indigo, Bb</string>
+	<string>454~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Moon over Bourbon Street, Dm</string>
+	<string>455~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Moonglow, Bb</string>
+	<string>456~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Moonlight and roses, Ab</string>
+	<string>457~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Moonlight and roses, Bb</string>
+	<string>458~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Moonlight bay, Bb</string>
+	<string>459~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Moose march, Ab</string>
+	<string>460~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Morning has broken, Bb</string>
+	<string>461~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Move the body over, Bb</string>
+	<string>462~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~My blue heaven, Eb</string>
+	<string>463~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~My bucket's got a hole in it, F</string>
+	<string>464~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~My buddy, F</string>
+	<string>465~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~My curly-headed baby, Bb</string>
+	<string>466~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~My daddy (mama) rocks me, Cm</string>
+	<string>467~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~My darling, Eb</string>
+	<string>468~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~My darling, F</string>
+	<string>469~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~My girl from the south sea isles, Bb</string>
+	<string>470~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~My God loves me, F</string>
+	<string>471~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~My indian red, Bb</string>
+	<string>472~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~My life will be sweeter someday, Eb</string>
+	<string>473~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~My little girl, Bb</string>
+	<string>474~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~My man, F</string>
+	<string>475~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~My Memphis baby, Eb</string>
+	<string>476~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~My mother's eyes, Eb</string>
+	<string>477~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~My wild Irish rose, Bb</string>
+	<string>478~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Nagasaki, Bb</string>
+	<string>479~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Nancy, Eb</string>
+	<string>480~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~New Orleans, Bb</string>
+	<string>481~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~New Orleans hula, Eb</string>
+	<string>482~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~New Orleans parade, Bb</string>
+	<string>483~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Nobody's sweetheart, F</string>
+	<string>484~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Nuages, F</string>
+	<string>485~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Nyboders pris, Eb</string>
+	<string>486~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Ode to Bechet, Gm</string>
+	<string>487~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Of all the wrongs you've done to me, F</string>
+	<string>488~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Oh Lord, hear my prayer, Dm</string>
+	<string>489~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Oh, baby!, F</string>
+	<string>490~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Oh, how I miss you tonight, Bb</string>
+	<string>491~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Oh, you beautiful doll, F</string>
+	<string>492~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Old black Joe, F</string>
+	<string>493~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Old fashioned love, Bb</string>
+	<string>494~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Old fashioned love, F</string>
+	<string>495~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Old folks, Eb</string>
+	<string>496~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Old spinning wheel, Bb</string>
+	<string>497~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Ole miss, F/Bb</string>
+	<string>498~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~On a coconut island, Bb</string>
+	<string>499~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~On a little bamboo bridge, F</string>
+	<string>500~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~On a slow boat to China, Bb</string>
+	<string>501~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~On moonlight bay, F</string>
+	<string>502~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~On revival day, Bb</string>
+	<string>503~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~On revival day, F</string>
+	<string>504~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~On the beach at Bali-Bali, Bb</string>
+	<string>505~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~On the road to home sweet home, Eb</string>
+	<string>506~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~On treasure island, Eb</string>
+	<string>507~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Once I had a secret love, F</string>
+	<string>508~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Once in a while, Bb</string>
+	<string>509~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~One night of sin, Bb</string>
+	<string>510~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~One sweet letter from you, Bb</string>
+	<string>511~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Only a look, F</string>
+	<string>512~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Only you, F</string>
+	<string>513~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Oriental man, F</string>
+	<string>514~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Original dixieland one-step, Bb/Eb/Ab</string>
+	<string>515~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Out in the cold again, Eb</string>
+	<string>516~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Out of the gallion, Bb</string>
+	<string>517~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Over in the Gloryland, Ab</string>
+	<string>518~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Over the rainbow, Eb</string>
+	<string>519~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Over the waves, Bb</string>
+	<string>520~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Painting the clouds with sunshine, F</string>
+	<string>521~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Pal of my cradle days,</string>
+	<string>522~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Pal of my cradle days, F</string>
+	<string>523~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Palesteena, C</string>
+	<string>524~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Panama, Eb/Ab</string>
+	<string>526~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Papa De-da-da, Eb</string>
+	<string>527~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Parfum des Iles, Bb (Gm)</string>
+	<string>528~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Passport to paradise, F</string>
+	<string>529~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Pee Wee's blues, Bb</string>
+	<string>530~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Peg o' my heart, Bb</string>
+	<string>531~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Peggy O'Neal, C</string>
+	<string>532~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Pennies from heaven, C</string>
+	<string>533~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Perdido street stomp, C/F</string>
+	<string>534~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Perfect day, Bb</string>
+	<string>535~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Petit fleur, Gm</string>
+	<string>536~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Pharaoh's army, Eb</string>
+	<string>537~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Piggly wiggly, Eb</string>
+	<string>538~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Plastic Jesus, Bb</string>
+	<string>539~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Please come back to me, my lover, F</string>
+	<string>540~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Please don't talk about me when I'm gone, Eb</string>
+	<string>541~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Poor butterfly, Ab</string>
+	<string>542~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Porter's love song, F</string>
+	<string>543~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Porto Rico, Dm/F</string>
+	<string>544~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Postman's lament, F</string>
+	<string>545~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Precious Lord, take my hand, F</string>
+	<string>546~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Premier bal, Ab</string>
+	<string>547~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Pretend, Bb</string>
+	<string>548~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Prisoner's song, Bb</string>
+	<string>549~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Promenade aux Champs-Elysees, Bb</string>
+	<string>550~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Purple rose of Cairo, C/Ab</string>
+	<string>551~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Put on your old grey bonnet, Bb</string>
+	<string>552~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Quando, quando, quando, Bb</string>
+	<string>553~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Rackenblått, Bb</string>
+	<string>554~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Ramblin' rose, Bb</string>
+	<string>555~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Raymond's idea, Eb</string>
+	<string>556~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Really the blues, Bb</string>
+	<string>557~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Red wing, Bb</string>
+	<string>558~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Red Wing's boogie, C</string>
+	<string>559~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Regntunga skyar, Dm</string>
+	<string>560~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Release me, F</string>
+	<string>561~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Rent party blues, F</string>
+	<string>562~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Reverie, Eb</string>
+	<string>563~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~River stay 'way from my door, Eb</string>
+	<string>564~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Riverboat shuffle, F</string>
+	<string>565~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Rock around the clock, F</string>
+	<string>566~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Rock of ages, F</string>
+	<string>567~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Roll along prairie moon, Bb</string>
+	<string>568~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Roll, Jordan, roll, Bb</string>
+	<string>569~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Rosalie, Eb</string>
+	<string>570~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Rose of the Rio Grande, Bb</string>
+	<string>571~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Rose room, F</string>
+	<string>572~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Roses of Picardy, Bb</string>
+	<string>573~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Rosetta, F</string>
+	<string>574~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Royal telephone, Bb</string>
+	<string>575~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Rum and Coca-Cola, Bb</string>
+	<string>576~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Rumba negro, Dm</string>
+	<string>577~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Rumba tambah, Bb</string>
+	<string>578~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Runnin' wild, Ab</string>
+	<string>579~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Runnin' wild, Bb</string>
+	<string>580~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~San Francisco bay blues, Bb</string>
+	<string>581~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Sans chemise, sans pantalon, Bb</string>
+	<string>582~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Saturday night function. Eb</string>
+	<string>583~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Save it, pretty mama, F</string>
+	<string>584~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Save your sorrow for tomorrow, Eb</string>
+	<string>585~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Savoy blues, G</string>
+	<string>586~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Say si si, Bb</string>
+	<string>587~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Says my heart, Bb</string>
+	<string>588~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Scatter-Brain, Eb</string>
+	<string>589~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Schlafe mein Prinzchen, F</string>
+	<string>590~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Second line, The, F</string>
+	<string>591~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~See see rider, Bb</string>
+	<string>592~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Sentimental journey, Bb</string>
+	<string>593~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~September in the rain, Eb</string>
+	<string>594~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~September song, Bb</string>
+	<string>595~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Serenade creole, F</string>
+	<string>596~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Shadow of your smile, Bb</string>
+	<string>597~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Sheik of Araby, Bb</string>
+	<string>598~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Shim-me-sha-wabble, Cm/C</string>
+	<string>599~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Shoe shine boy, F</string>
+	<string>600~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Shreveport stomp, Bb</string>
+	<string>603~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Shu! Shu!, Gm</string>
+	<string>604~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Si tu savais, Cm</string>
+	<string>605~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Si tu vois ma mere, Bb</string>
+	<string>606~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~S'il vous plait, Bb</string>
+	<string>607~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Silent night, Bb</string>
+	<string>608~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Silver bell, F/Bb</string>
+	<string>609~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Silver threads among the gold, Bb</string>
+	<string>610~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Since I met you baby, Bb</string>
+	<string>611~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Sing on, F</string>
+	<string>612~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Sleepy time gal, F</string>
+	<string>613~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Slow Drag's boogie woogie, C</string>
+	<string>614~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Smile, darn ya, smile, Bb</string>
+	<string>615~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Smiles, F</string>
+	<string>616~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Some day my prince will come, F</string>
+	<string>617~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Somebody else is taking my place, Bb</string>
+	<string>618~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Somebody stole my gal, Eb</string>
+	<string>619~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Someday sweetheart, F</string>
+	<string>620~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Someday you'll be sorry, Eb</string>
+	<string>621~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Song of old Hawaii, F</string>
+	<string>622~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Song of the islands, F</string>
+	<string>623~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Song of the wanderer, Eb</string>
+	<string>624~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Songe d'automne, Cm</string>
+	<string>625~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Soon and very soon, Eb</string>
+	<string>626~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~South, Eb</string>
+	<string>627~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~South of the border, Bb</string>
+	<string>628~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Spain, Eb</string>
+	<string>629~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Squeeze me, F</string>
+	<string>630~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~St. Thomas, Bb</string>
+	<string>631~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Stack O'Lee blues, C</string>
+	<string>632~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Stand by me, Bb</string>
+	<string>633~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Stars fell on Alabama, Bb</string>
+	<string>634~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Stars fell on Alabama, Bb alt. chords</string>
+	<string>635~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Stealin' apples. F</string>
+	<string>636~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Straight from the wood, Bb</string>
+	<string>637~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Strike up the band, Bb</string>
+	<string>638~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Struttin' with some barbecue, F</string>
+	<string>639~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Stumbling, F</string>
+	<string>640~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Sugar, F</string>
+	<string>641~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Summertime, Gm</string>
+	<string>642~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Sunday mornin', F</string>
+	<string>643~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Sunshine in the shadows, F</string>
+	<string>644~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Sway, Dm</string>
+	<string>645~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Sweet Adeline, Bb</string>
+	<string>646~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Sweet Emmalina, Bb</string>
+	<string>647~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Sweet fields, Eb</string>
+	<string>648~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Sweet Georgia Brown, Ab</string>
+	<string>649~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Sweet Lorraine, F</string>
+	<string>650~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Sweet patootie, C</string>
+	<string>651~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Sweet substitute, Ab</string>
+	<string>652~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Sweet Sue, F</string>
+	<string>653~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Sweetheart of Sigma Chi, F</string>
+	<string>654~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Sweethearts on parade, F</string>
+	<string>655~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Swing that music, Bb</string>
+	<string>656~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Swingy little thingy, Bb</string>
+	<string>657~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~S'wonderful, Eb</string>
+	<string>658~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Sympathy, F</string>
+	<string>659~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Tabu, Fm</string>
+	<string>660~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Take a ferryboat down to New Orleans, F</string>
+	<string>661~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Take her to Jamaica, C</string>
+	<string>662~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Take these chains from my heart, Eb</string>
+	<string>663~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~That's a plenty, Dm/Bb</string>
+	<string>664~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~That's my home, Bb</string>
+	<string>665~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Them there eyes, Bb</string>
+	<string>666~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~There is no greater love, Bb</string>
+	<string>667~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~There'll be some changes made, Bb</string>
+	<string>668~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~There's yes, yes in your eyes, Eb</string>
+	<string>669~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~This little light of mine, F</string>
+	<string>670~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~This love of mine, Bb</string>
+	<string>671~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Thousand good nights, Ab</string>
+	<string>672~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Thousand good nights, F</string>
+	<string>673~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Three little words, Bb</string>
+	<string>674~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Tico-Tico, Bb</string>
+	<string>675~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Tie me to your apron strings, Bb</string>
+	<string>676~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Till we meet again, Ab</string>
+	<string>677~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Ting-a-ling, Bb</string>
+	<string>678~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Ti-pi-tin, C</string>
+	<string>679~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Tishomingo blues, F</string>
+	<string>680~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Together, F</string>
+	<string>681~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Tom cat blues, Bb</string>
+	<string>682~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Too busy, Bb</string>
+	<string>683~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Too busy, C</string>
+	<string>684~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Trinidad paseo, F</string>
+	<string>685~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Trog's blues, Bb</string>
+	<string>686~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Trubbel, Gm</string>
+	<string>687~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~True, you don't love me, Eb</string>
+	<string>688~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Until then, Bb</string>
+	<string>689~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Valley of tears, Eb</string>
+	<string>690~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Värmlandsvisan, Gm</string>
+	<string>691~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Visa från Utanmyra, Dm</string>
+	<string>692~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Vive la biguine, Gm/Bb</string>
+	<string>693~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Wabash blues, Bb</string>
+	<string>694~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Wabash blues, Eb</string>
+	<string>695~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Wait 'till the sun shines, Nellie, Bb</string>
+	<string>696~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Waiting for the Robert E. Lee, F</string>
+	<string>697~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Walking with the King, Eb</string>
+	<string>698~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Waste no tears, Eb</string>
+	<string>700~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Way down yonder in New Orleans, F</string>
+	<string>701~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~We'll meet again (Barbarin), Eb</string>
+	<string>702~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~West indies blues, Eb</string>
+	<string>703~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~What a dream, Eb</string>
+	<string>704~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~What a friend we have in Jesus, F</string>
+	<string>705~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~What am I living for, Bb</string>
+	<string>706~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~What is this thing called love? C</string>
+	<string>707~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~When I leave the world behind, Bb</string>
+	<string>708~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~When I move to the sky, Eb</string>
+	<string>709~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~When Irish eyes are smiling, C</string>
+	<string>710~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~When it's sleepy time down south, Eb</string>
+	<string>711~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~When my dreamboat comes home, Bb</string>
+	<string>712~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~When shadows fall, F</string>
+	<string>713~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~When somebody thinks you're wonderful, Eb</string>
+	<string>714~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~When the girl in your arms is the girl in your heart, Bb</string>
+	<string>715~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~When the moon comes over the mountain, F</string>
+	<string>716~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~When the swallows come back to Capistrano, Bb</string>
+	<string>717~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~When they ring the golden bells, Bb</string>
+	<string>718~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~When you and I were young, Maggie, F</string>
+	<string>719~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~When your hair has turned to silver, Eb</string>
+	<string>720~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~When you're smiling, Bb</string>
+	<string>721~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Where He leads me, F</string>
+	<string>722~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Where the blue of the night meets the gold of the day, F</string>
+	<string>723~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Where the river Shannon flows, Eb</string>
+	<string>724~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Wherever there's love, C</string>
+	<string>725~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~While we danced at the Mardi Gras, Bb</string>
+	<string>726~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~While we danced at the Mardi Gras, C</string>
+	<string>727~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Whispering, Eb</string>
+	<string>728~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~White cliffs of Dover, Eb</string>
+	<string>729~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Who's sorry now, Bb</string>
+	<string>730~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Why don't you go to New Orleans, Eb</string>
+	<string>731~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Wild cat blues, C</string>
+	<string>733~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Wild cat blues, chords in Bb</string>
+	<string>734~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Wild man blues, F</string>
+	<string>735~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Will the circle be unbroken, Bb</string>
+	<string>736~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Will there be any stars in my crown, Bb</string>
+	<string>737~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Willie the weeper, Dm</string>
+	<string>738~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Wings of a dove, Eb (4/4)</string>
+	<string>739~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Winin' boy blues, Bb</string>
+	<string>740~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Working for the Lord, F</string>
+	<string>741~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~World is waiting for the sunrise, Bb</string>
+	<string>742~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~World is waiting for the sunrise, C</string>
+	<string>743~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Wrap your troubles in dreams, Bb</string>
+	<string>744~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Y tu que has hecho, F</string>
+	<string>745~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Yardbird suite, Bb</string>
+	<string>746~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Yearning, F</string>
+	<string>747~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Yellow bird, Eb</string>
+	<string>748~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Yellow bird, F</string>
+	<string>749~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Yellow dog blues, F</string>
+	<string>750~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Yes, Lord, I am crippled, F</string>
+	<string>751~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~You always hurt the one you love, Bb</string>
+	<string>752~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~You are my sunshine, F</string>
+	<string>753~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~You broke your promise, F</string>
+	<string>754~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~You can depend on me, F</string>
+	<string>755~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~You don't understand, Bb</string>
+	<string>756~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~You made me love you, Eb</string>
+	<string>757~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~You rascal you, Fm</string>
+	<string>758~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~You tell me your dream, Bb</string>
+	<string>759~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~You'd be surprised, F</string>
+	<string>760~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Your cheatin' heart, C</string>
+	<string>761~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~You're the one I care for, Eb</string>
+	<string>762~70~!b New Oreleans Jambook C+Bb.pdf~2263~0~0~1~Yours, C</string>
+	<string>Bookmark Current Page</string>
+</array>
+</plist>
