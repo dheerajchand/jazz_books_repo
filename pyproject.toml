@@ -1,0 +1,17 @@
+[project]
+name = "igigbook-manager"
+version = "0.1.0"
+description = "Organize iGigbook library"
+requires-python = ">=3.8"
+dependencies = []
+
+[project.scripts]
+igigbook-manager = "igigbook_manager.__main__:main"
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
